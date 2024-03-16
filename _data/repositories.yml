@@ -1,12 +1,12 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - DmitryRyumin
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - DmitryRyumin/NewEraAI-Papers
+  - DmitryRyumin/AAAI-2024-Papers
+  - DmitryRyumin/WACV-2024-Papers
+  - DmitryRyumin/ICCV-2023-Papers
+  - DmitryRyumin/CVPR-2023-Papers
+  - DmitryRyumin/INTERSPEECH-2023-Papers
+  - DmitryRyumin/EMNLP-2023-Papers
+  - DmitryRyumin/ICASSP-2023-Papers
