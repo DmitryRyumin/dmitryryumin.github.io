@@ -16,6 +16,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
+![DmitryRyumin](https://readme-typing-svg.demolab.com?font=Roboto&duration=1500&pause=100&color=2698ba&vCenter=true&multiline=true&width=435&height=70&lines=PhD+in+Engineering;Artificial+Intelligence+Researcher)
+
 ### <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/research.svg" width="20" alt="" /> Community Services
 
 #### Journal Reviewing
