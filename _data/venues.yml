@@ -5,3 +5,11 @@
 "Sensors":
   url: https://www.mdpi.com/journal/sensors
   color: "#017C7F"
+
+"IEEE Access":
+  url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639
+  color: "#14303E"
+
+"Interspeech":
+  url: https://www.isca-speech.org/Interspeech
+  color: "#D9ECFF"
