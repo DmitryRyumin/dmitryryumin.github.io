@@ -13,3 +13,7 @@
 "Interspeech":
   url: https://www.isca-speech.org/Interspeech
   color: "#D9ECFF"
+
+"ICMI":
+  url: https://icmi.acm.org
+  color: "#672B83"

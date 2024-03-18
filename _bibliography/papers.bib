@@ -1,8 +1,10 @@
----
----
-
 @string{ESWA = {Expert Systems with Applications}}
 @string{INTERSPEECH = {Proceedings of ISCA International Conference INTERSPEECH}}
+@string{ICMI = {Proceedings of the International Conference on Multimodal Interaction}}
+
+----
+2024
+----
 
 @article{Ruimina2024OCEAN-AI,
   abbr = {ESWA},
@@ -23,6 +25,10 @@
   preview = {Ruimina2024OCEAN-AI.jpg},
   selected = {true}
 }
+
+----
+2023
+----
 
 @article{Ryumin2024s23042284,
   abbr = {Sensors},
@@ -46,29 +52,6 @@
   selected = {true}
 }
 
-@article{Kashevnik2021_9364986,
-  abbr = {IEEE Access},
-  author = {Alexey Kashevnik and Igor Lashkov and Alexandr Axyonov and Denis Ivanko and Dmitry Ryumin and Artem Kolchin and Alexey Karpov},
-  title = {{Multimodal Corpus Design for Audio-Visual Speech Recognition in Vehicle Cabin}},
-  journal = {IEEE Access},
-  volume = {9},
-  number = {},
-  year = {2021},
-  pages = {34986--35003},
-  ISSN = {2169-3536},
-  doi = {10.1109/ACCESS.2021.3062752},
-  url = {https://ieeexplore.ieee.org/document/9364986},
-  abstract = {This paper introduces a new methodology aimed at comfort for the driver in-the-wild multimodal corpus creation for audio-visual speech recognition in driver monitoring systems. The presented methodology is universal and can be used for corpus recording for different languages. We present an analysis of speech recognition systems and voice interfaces for driver monitoring systems based on the analysis of both audio and video data. Multimodal speech recognition allows using audio data when video data are useless (e.g. at nighttime), as well as applying video data in acoustically noisy conditions (e.g., at highways). Our methodology identifies the main steps and requirements for multimodal corpus designing, including the development of a new framework for audio-visual corpus creation. We identify the main research questions related to the speech corpus creation task and discuss them in detail in this paper. We also consider some main cases of usage that require speech recognition in a vehicle cabin for interaction with a driver monitoring system. We also consider other important use cases when the system detects dangerous states of driver's drowsiness and starts a question-answer game to prevent dangerous situations. At the end based on the proposed methodology, we developed a mobile application that allows us to record a corpus for the Russian language. We created RUSAVIC corpus using the developed mobile application that at the moment a unique audiovisual corpus for the Russian language that is recorded in-the-wild condition.},
-  keywords = {Vehicles, Speech Recognition, Smart Phones, Monitoring, Sensors, Vocabulary, Task Analysis, Driver Monitoring, Automatic Speech Recognition, Multimodal Corpus, Human–Computer Interaction},
-  html = {https://ieeexplore.ieee.org/document/9364986},
-  pdf = {https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9364986},
-  bibtex_show = {true},
-  google_scholar_id = {_FxGoFyzp5QC},
-  preview = {Kashevnik2021_9364986.png},
-  dimensions = {true},
-  selected = {true}
-}
-
 @inproceedings{ryumina23_interspeech,
   abbr = {Interspeech},
   author = {Elena Ryumina and Dmitry Ryumin and Maxim Markitantov and Heysem Kaya and Alexey Karpov},
@@ -85,6 +68,98 @@
   bibtex_show = {true},
   google_scholar_id = {KxtntwgDAa4C},
   preview = {ryumina23_interspeech.png},
+  dimensions = {true},
+  selected = {true}
+}
+
+----
+2022
+----
+
+@inproceedings{ivanko22_interspeech,
+  abbr = {Interspeech},
+  author = {Denis Ivanko and Dmitry Ryumin and Alexey Kashevnik and Alexandr Axyonov and Andrey Kitenko and Igor Lashkov and Alexey Karpov},
+  title = {{DAVIS: Driver’s Audio-Visual Speech recognition}},
+  booktitle = INTERSPEECH,
+  year = {2022},
+  pages = {1141--1142},
+  url = {https://www.isca-archive.org/interspeech_2022/ivanko22_interspeech.html},
+  abstract = {DAVIS is a driver’s audio-visual assistive system intended to improve accuracy and robustness of speech recognition of the most frequent drivers’ requests in natural driving conditions. Since speech recognition in driving condition is highly challenging due to acoustic noises, active head turns, pose variation, distance to recording devices, lightning conditions, etc. We rely on multimodal information and use both automatic lip-reading system for visual stream and ASR for audio stream processing. We have trained audio and video models on own RUSAVIC dataset containing in-the-wild audio and video recordings of 20 drivers. The recognition application comprises a graphical user interface and modules for audio and video signal acquisition, analysis, and recognition. The obtained results demonstrate rather high performance of DAVIS and also the fundamental possibility of recognizing speech commands by using video modality, even in such difficult natural conditions as driving.},
+  keywords = {Audio-Visual Speech Recognition, Driver Assistance System, Human-Computer Interaction},
+  html = {https://www.isca-archive.org/interspeech_2022/ivanko22_interspeech.html},
+  pdf={https://www.isca-archive.org/interspeech_2022/ivanko22_interspeech.pdf},
+  bibtex_show = {true},
+  google_scholar_id = {4OULZ7Gr8RgC},
+  preview = {ivanko22_interspeech.png},
+  selected = {true}
+}
+
+@inproceedings{markitantov22_interspeech,
+  abbr = {Interspeech},
+  author = {Maxim Markitantov and Elena Ryumina and Dmitry Ryumin and Alexey Karpov},
+  title = {{Biometric Russian Audio-Visual Extended MASKS (BRAVE-MASKS) Corpus: Multimodal Mask Type Recognition Task}},
+  booktitle = INTERSPEECH,
+  year = {2022},
+  pages = {1756--1760},
+  doi = {10.21437/Interspeech.2022-10240},
+  url = {https://www.isca-archive.org/interspeech_2022/markitantov22_interspeech.html},
+  abstract = {In this paper, we present a new multimodal corpus called Biometric Russian Audio-Visual Extended MASKS (BRAVE-MASKS), which is designed to analyze voice and facial characteristics of persons wearing various masks, as well as to develop automatic systems for bimodal verification and identification of speakers. In particular, we tackle the multimodal mask type recognition task (6 classes). As a result, audio, visual and multimodal systems were developed, which showed UAR of 54.83%, 72.02% and 82.01%, respectively, on the Test set. These performances are the baseline for the BRAVE-MASKS corpus to compare the follow-up approaches with the proposed systems.},
+  keywords = {Mask Type Recognition, Face Masks Detection, Computational Paralinguistics, Corpora Annotation, Data Augmentation, Machine Learning, COVID-19},
+  html = {https://www.isca-archive.org/interspeech_2022/markitantov22_interspeech.html},
+  pdf={https://www.isca-archive.org/interspeech_2022/markitantov22_interspeech.pdf},
+  bibtex_show = {true},
+  google_scholar_id = {fPk4N6BV_jEC},
+  preview = {markitantov22_interspeech.png},
+  dimensions = {true},
+  selected = {true}
+}
+
+@inproceedings{ivanko22_icmi,
+  abbr = {ICMI},
+  author = {Denis Ivanko and Alexey Kashevnik and Dmitry Ryumin and Andrey Kitenko and Alexandr Axyonov and Igor Lashkov and Alexey Karpov},
+  title = {{MIDriveSafely: Multimodal Interaction for Drive Safely}},
+  year = {2022},
+  booktitle = ICMI,
+  pages = {733--735},
+  numpages = {3},
+  isbn = {9781450393904},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  location = {Bengaluru, India},
+  url = {https://doi.org/10.1145/3536221.3557037},
+  doi = {10.1145/3536221.3557037},
+  abstract = {In this paper, we present a novel multimodal interaction application to help car drivers and increase their road safety. MIDriveSafely is a mobile application that provides the following functions: (1) detect dangerous situations based on video information from a smartphone front-facing camera, such as drowsiness/sleepiness, phone usage while driving, eating, smoking, unfastened seat belt, etc.; gives a feedback to the driver (2) provide entertainment (e.g. rock-paper-scissors game, based on automatic speech recognition), (3) provide voice control capabilities to navigation/multimedia systems of a smartphone (potentially vehicle systems such as lighting conditions/climate control). Speech recognition in driving conditions is highly challenging due to acoustic noises, active head turns, pose variations, distance to recording devices, etc. MIDriveSafely incorporates driver's audio-visual speech recognition (DAVIS) system and uses it for multimodal interaction. Along with this, the original DriveSafely system is used for dangerous state detection. MIDriveSafely improves upon existing driver monitoring applications using multimodal (mainly audio-visual) information. MIDriveSafely motivates people to drive in a safer manner by providing the feedback to the drivers and by creating a fun user experience.},
+  keywords = {Driver Monitoring, Mobile Multimodal Systems, Multimodal Interaction},
+  html = {https://doi.org/10.1145/3536221.3557037},
+  bibtex_show = {true},
+  google_scholar_id = {D03iK_w7-QYC},
+  preview = {ivanko22_icmi.png},
+  dimensions = {true},
+  selected = {true}
+}
+
+----
+2021
+----
+
+@article{Kashevnik2021_9364986,
+  abbr = {IEEE Access},
+  author = {Alexey Kashevnik and Igor Lashkov and Alexandr Axyonov and Denis Ivanko and Dmitry Ryumin and Artem Kolchin and Alexey Karpov},
+  title = {{Multimodal Corpus Design for Audio-Visual Speech Recognition in Vehicle Cabin}},
+  journal = {IEEE Access},
+  volume = {9},
+  year = {2021},
+  pages = {34986--35003},
+  ISSN = {2169-3536},
+  doi = {10.1109/ACCESS.2021.3062752},
+  url = {https://ieeexplore.ieee.org/document/9364986},
+  abstract = {This paper introduces a new methodology aimed at comfort for the driver in-the-wild multimodal corpus creation for audio-visual speech recognition in driver monitoring systems. The presented methodology is universal and can be used for corpus recording for different languages. We present an analysis of speech recognition systems and voice interfaces for driver monitoring systems based on the analysis of both audio and video data. Multimodal speech recognition allows using audio data when video data are useless (e.g. at nighttime), as well as applying video data in acoustically noisy conditions (e.g., at highways). Our methodology identifies the main steps and requirements for multimodal corpus designing, including the development of a new framework for audio-visual corpus creation. We identify the main research questions related to the speech corpus creation task and discuss them in detail in this paper. We also consider some main cases of usage that require speech recognition in a vehicle cabin for interaction with a driver monitoring system. We also consider other important use cases when the system detects dangerous states of driver's drowsiness and starts a question-answer game to prevent dangerous situations. At the end based on the proposed methodology, we developed a mobile application that allows us to record a corpus for the Russian language. We created RUSAVIC corpus using the developed mobile application that at the moment a unique audiovisual corpus for the Russian language that is recorded in-the-wild condition.},
+  keywords = {Vehicles, Speech Recognition, Smart Phones, Monitoring, Sensors, Vocabulary, Task Analysis, Driver Monitoring, Automatic Speech Recognition, Multimodal Corpus, Human–Computer Interaction},
+  html = {https://ieeexplore.ieee.org/document/9364986},
+  pdf = {https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9364986},
+  bibtex_show = {true},
+  google_scholar_id = {_FxGoFyzp5QC},
+  preview = {Kashevnik2021_9364986.png},
   dimensions = {true},
   selected = {true}
 }
