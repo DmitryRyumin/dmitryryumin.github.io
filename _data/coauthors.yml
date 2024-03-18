@@ -1,34 +1,39 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"ryumina":
+  - firstname: ["Elena", "E.", "E. V.", "Elena Ryumina"]
+    url: https://scholar.google.com/citations?user=DOBkQssAAAAJ&hl=en
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"markitantov":
+  - firstname: ["Maxim", "M.", "M. V.", "Maxim Markitantov"]
+    url: https://scholar.google.com/citations?user=JxZzcJoAAAAJ&hl=en
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"karpov":
+  - firstname: ["Alexey", "A.", "A. A.", "Alexey Karpov"]
+    url: https://scholar.google.com/citations?user=Q0C3f1oAAAAJ&hl=en
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"ivanko":
+  - firstname: ["Denis", "D.", "D. V.", "Denis Ivanko"]
+    url: https://scholar.google.com/citations?user=CyE3W0oAAAAJ&hl=en
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"kaya":
+  - firstname: ["Heysem", "H.", "Heysem Kaya"]
+    url: https://scholar.google.com/citations?user=mPI3SpkAAAAJ&hl=en
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"kashevnik":
+  - firstname: ["Alexey", "A.", "Alexey Kashevnik"]
+    url: https://scholar.google.com/citations?user=XAwrzbYAAAAJ&hl=en
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"axyonov":
+  - firstname: ["Alexandr", "A.", "Alexandr Axyonov"]
+    url: https://hci.nw.ru/en/employees/9
 
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"kitenko":
+  - firstname: ["Andrey", "A.", "Kitenko"]
+    url: https://www.scopus.com/authid/detail.uri?authorId=57932540100
 
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"lashkov":
+  - firstname: ["Igor", "I.", "Lashkov"]
+    url: https://scholar.google.com/citations?user=btDuT3gAAAAJ&hl=en
+
+"kolchin":
+  - firstname: ["Artem", "A.", "Kolchin"]
+    url: https://www.scopus.com/authid/detail.uri?authorId=57222180845

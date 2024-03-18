@@ -17,3 +17,7 @@
 "ICMI":
   url: https://icmi.acm.org
   color: "#672B83"
+
+"EUSIPCO":
+  url: https://eurasip.org/eusipco-conferences/
+  color: "#37406B"
