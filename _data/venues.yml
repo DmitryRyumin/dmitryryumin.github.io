@@ -21,3 +21,7 @@
 "EUSIPCO":
   url: https://eurasip.org/eusipco-conferences/
   color: "#37406B"
+
+"LREC":
+  url: https://aclanthology.org/venues/lrec/
+  color: "#81026E"
