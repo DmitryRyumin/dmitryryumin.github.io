@@ -40,11 +40,11 @@ social: true # includes social icons at the bottom of the page
     </a>
     <br />
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/HLY.pdf">
-        <img src="https://img.shields.io/badge/Heliyon-4-027DBC?&style=flat-square" alt="Reviewing Badge" />
+        <img src="https://img.shields.io/badge/Heliyon-5-027DBC?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <br />
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/PATREC.pdf">
-        <img src="https://img.shields.io/badge/Pattern%20Recognition%20Letters-2-000000?&style=flat-square" alt="Reviewing Badge" />
+        <img src="https://img.shields.io/badge/Pattern%20Recognition%20Letters-3-000000?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <br />
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/ISWA.pdf">
