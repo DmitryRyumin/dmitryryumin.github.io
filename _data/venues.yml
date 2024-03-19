@@ -14,6 +14,10 @@
   url: https://www.isca-speech.org/Interspeech
   color: "#D9ECFF"
 
+"ICASSP":
+  url: https://ieeexplore.ieee.org/xpl/conhome/1000002/all-proceedings
+  color: "#14303E"
+
 "ICMI":
   url: https://icmi.acm.org
   color: "#672B83"
