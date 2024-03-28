@@ -22,6 +22,7 @@ social: true # includes social icons at the bottom of the page
 
 #### Journal Reviewing
 
+
 <p>
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/ESWA.pdf">
         <img src="https://img.shields.io/badge/Expert%20Systems%20with%20Applications-14-045877?&style=flat-square" alt="Reviewing Badge" />
