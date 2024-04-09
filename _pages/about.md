@@ -35,12 +35,12 @@ social: true # includes social icons at the bottom of the page
         <img src="https://img.shields.io/badge/Neurocomputing-9-EFE30E?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <br />
-    <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/PR.pdf">
-        <img src="https://img.shields.io/badge/Pattern%20Recognition-5-E87324?&style=flat-square" alt="Reviewing Badge" />
+    <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/HLY.pdf">
+        <img src="https://img.shields.io/badge/Heliyon-6-027DBC?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <br />
-    <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/HLY.pdf">
-        <img src="https://img.shields.io/badge/Heliyon-5-027DBC?&style=flat-square" alt="Reviewing Badge" />
+    <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/PR.pdf">
+        <img src="https://img.shields.io/badge/Pattern%20Recognition-5-E87324?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <br />
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/PATREC.pdf">
