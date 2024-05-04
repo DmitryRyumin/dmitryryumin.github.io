@@ -6,6 +6,7 @@
         <a class="navbar-brand title font-weight-lighter" href="{{ site.baseurl }}/">
           {% assign lang = site.active_lang %}
           {% assign title = site.data[lang].strings.about.title | trim %}
+          <img class="width-32 mr-2 rounded" src="{{- site.images.profile | prepend: '/assets/img/' | relative_url -}}" alt="{{- site.images.profile -}}">
           {% if title == empty or title == '' or title == nil %}
             <span class="font-weight-bold">
             {% case lang %}

@@ -16,6 +16,7 @@ keywords: dmitry-ryumin, academic-website, portfolio-website # add your own keyw
 # lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: favicon.ico # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 images:
+  profile: DmitryRyumin.jpg
   community_services: community_services.svg
   selected_papers: selected_papers.svg
 

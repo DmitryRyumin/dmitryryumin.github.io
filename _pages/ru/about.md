@@ -6,7 +6,6 @@ subtitle:
 
 profile:
   align: right
-  image: DmitryRyumin.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
 
