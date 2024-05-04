@@ -1,452 +1,260 @@
-# al-folio
+[![DmitryRyumin](https://readme-typing-svg.demolab.com?font=Roboto&duration=1500&pause=100&color=3081F7&vCenter=true&multiline=true&width=435&height=70&lines=Dr.+Dmitry+Ryumin;Artificial+Intelligence+Researcher)](https://github.com/DmitryRyumin)
 
-<div align="center">
+<p>
 
-[![Preview](readme_preview/al-folio-preview.png)](https://alshedivat.github.io/al-folio/)
+<a href="https://dmitryryumin.github.io">
+    <img src="https://img.shields.io/badge/Website-blue??&style=flat-square&logo=opsgenie&logoColor=white" alt="" />
+</a>
+<a href="https://www.webofscience.com/wos/author/record/K-7989-2018" style="margin-right: 6px;">
+    <img src="https://img.shields.io/badge/Web%20of%20Science-5D34BF??&style=flat-square&logo=clarivate&logoColor=white" alt="" />
+</a>
+<a href="https://www.scopus.com/authid/detail.uri?authorId=57191960214">
+    <img src="https://img.shields.io/badge/Scopus-%23E9711C.svg?&style=flat-square&logo=scopus&logoColor=white" alt="" />
+</a>
+<a href="https://scholar.google.com/citations?user=LrTIp5IAAAAJ">
+    <img src="https://img.shields.io/badge/Google%20Scholar-%234285F4.svg?&style=flat-square&logo=google-scholar&logoColor=white" alt="" />
+</a>
+<a href="https://orcid.org/0000-0002-7935-0569">
+    <img src="https://img.shields.io/badge/ORCID-0000--0002--7935--0569-green.svg?&style=flat-square&logo=orcid&logoColor=white" alt="" />
+</a>
+<br />
+<a href="https://huggingface.co/DmitryRyumin">
+    <img src="https://img.shields.io/badge/🤗-Hugging%20Face-FFD21F.svg?style=flat-square&&logoColor=white" alt="" />
+</a>
+<a href="https://t.me/dmitry_ryumin">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="" />
+</a>
+<a href="mailto:neweraairesearch@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" alt="" />
+</a>
+<br />
+<a href="https://github.com/DmitryRyumin">
+    <img src="https://github-stats-alpha.vercel.app/api?username=DmitryRyumin&cc=3081F7&tc=FFFFFF&ic=FFFFFF&bc=FFFFFF" alt="" />
+<!--     <img src="https://github-stats-alpha.vercel.app/api?username=DmitryRyumin&cc=0C0F19&tc=DBDBDB&ic=fff&bc=0000"> -->
+</a>
+<br />
+<img src="https://custom-icon-badges.demolab.com/badge/dynamic/json?style=flat-square&logo=fire&logoColor=fff&color=orange&label=GitHub%20streak&query=%24.currentStreak.length&suffix=%20days&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3Ddmitryryumin%26type%3Djson" alt="" />
+<img src="https://komarev.com/ghpvc/?username=DmitryRyumin&style=flat-square" alt="" />
 
-**A simple, clean, and responsive [Jekyll](https://jekyllrb.com/) theme for academics.**
+</p>
 
 ---
 
-[![deploy](https://github.com/alshedivat/al-folio/actions/workflows/deploy.yml/badge.svg)](https://github.com/alshedivat/al-folio/actions/workflows/deploy.yml)
-[![Maintainers](https://img.shields.io/badge/maintainers-4-success.svg)](#maintainers)
-[![GitHub contributors](https://img.shields.io/github/contributors/alshedivat/al-folio.svg)](https://github.com/alshedivat/al-folio/graphs/contributors/)
-[![Docker Image Version](https://img.shields.io/docker/v/amirpourmand/al-folio?sort=semver&label=docker%20image&color=blueviolet)](https://hub.docker.com/r/amirpourmand/al-folio)
-[![Docker Image Size](https://img.shields.io/docker/image-size/amirpourmand/al-folio?sort=date&label=docker%20image%20size&color=blueviolet)](https://hub.docker.com/r/amirpourmand/al-folio)
-[![Docker Pulls](https://img.shields.io/docker/pulls/amirpourmand/al-folio?color=blueviolet)](https://hub.docker.com/r/amirpourmand/al-folio)
+### <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/papers.svg" width="16" alt="" /> Selected Research Publications
 
-[![GitHub release](https://img.shields.io/github/v/release/alshedivat/al-folio)](https://github.com/alshedivat/al-folio/releases/latest)
-[![GitHub license](https://img.shields.io/github/license/alshedivat/al-folio?color=blue)](https://github.com/alshedivat/al-folio/blob/master/LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/alshedivat/al-folio)](https://github.com/alshedivat/al-folio)
-[![GitHub forks](https://img.shields.io/github/forks/alshedivat/al-folio)](https://github.com/alshedivat/al-folio/fork)
+#### Journals
 
-</div>
+- ``Expert Systems with Applications 2024`` [OCEAN-AI Framework with EmoFormer Cross-Hemiface Attention Approach for Personality Traits Assessment](https://www.sciencedirect.com/science/article/pii/S0957417423029433), Elena Ryumina, Maxim Markitantov, **Dmitry Ryumin**, and Alexey Karpov
+- ``Sensors 2023`` [Audio-Visual Speech and Gesture Recognition by Sensors of Mobile Devices](https://www.mdpi.com/1424-8220/23/4/2284), **Dmitry Ryumin**, Elena Ryumina, and Denis Ivanko [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/audio-visual-speech-and-gesture-recognition/sign-language-recognition-on-autsl)](https://paperswithcode.com/sota/sign-language-recognition-on-autsl?p=audio-visual-speech-and-gesture-recognition) [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/audio-visual-speech-and-gesture-recognition/audio-visual-speech-recognition-on-lrw)](https://paperswithcode.com/sota/audio-visual-speech-recognition-on-lrw?p=audio-visual-speech-and-gesture-recognition)
+- ``IEEE Access 2021`` [Multimodal Corpus Design for Audio-Visual Speech Recognition in Vehicle Cabin](https://ieeexplore.ieee.org/document/9364986), Alexey Kashevnik, Igor Lashkov, Alexandr Axyonov, Denis Ivanko, **Dmitry Ryumin**, Artem Kolchin, and Alexey Karpov
 
-## User community
+#### Conferences
 
-The vibrant community of **al-folio** users is growing!
-Academics around the world use this theme for their homepages, blogs, lab pages, as well as webpages for courses, workshops, conferences, meetups, and more.
-Check out the community webpages below.
-Feel free to add your own page(s) by sending a PR.
+- ``CVPRW 2024`` [Zero-Shot Audio-Visual Compound Expression Recognition Method based on Emotion Probability Fusion](https://elenaryumina.github.io/AVCER/), Elena Ryumina, Maxim Markitantov, **Dmitry Ryumin**, Heysem Kaya, Alexey Karpov (accepted)
+- ``ICASSP 2024`` [Audio-Visual Speech Recognition In-the-Wild: Multi-Angle Vehicle Cabin Corpus and Attention-based Method](https://ieeexplore.ieee.org/document/10448048), Alexandr Axyonov, **Dmitry Ryumin**, Denis Ivanko, Alexey Kashevnik, Alexey Karpov
+- ``INTERSPEECH 2023`` [Multimodal Personality Traits Assessment (MuPTA) Corpus: the Impact of Spontaneous and Read Speech](https://www.isca-speech.org/archive/interspeech_2023/ryumina23_interspeech.html), Elena Ryumina, **Dmitry Ryumin**, Maxim Markitantov, Heysem Kaya, and Alexey Karpov
+- ``INTERSPEECH 2022`` [DAVIS: Driver's Audio-Visual Speech Recognition](https://www.isca-speech.org/archive/interspeech_2022/ivanko22_interspeech.html), Denis Ivanko, **Dmitry Ryumin**, Alexey Kashevnik, Alexandr Axyonov, Andrey Kitenko, Igor Lashkov, and Alexey Karpov
+- ``INTERSPEECH 2022`` [Biometric Russian Audio-Visual Extended MASKS (BRAVE-MASKS) Corpus: Multimodal Mask Type Recognition Task](https://www.isca-speech.org/archive/interspeech_2022/markitantov22_interspeech.html), Maxim Markitantov, Elena Ryumina, **Dmitry Ryumin**, and Alexey Karpov
+- ``ICMI 2022`` [MIDriveSafely: Multimodal Interaction for Drive Safely](https://dl.acm.org/doi/abs/10.1145/3536221.3557037), Denis Ivanko, Alexey Kashevnik, **Dmitry Ryumin**, Andrey Kitenko, Alexandr Axyonov, Igor Lashkov, and Alexey Karpov
+- ``EUSIPCO 2022`` [Visual Speech Recognition in a Driver Assistance System](https://ieeexplore.ieee.org/document/9909819), Denis Ivanko, **Dmitry Ryumin**, Alexey Kashevnik, Alexandr Axyonov, and Alexey Karnov [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/visual-speech-recognition-in-a-driver/lipreading-on-lip-reading-in-the-wild)](https://paperswithcode.com/sota/lipreading-on-lip-reading-in-the-wild?p=visual-speech-recognition-in-a-driver)
+- ``LREC 2022`` [RUSAVIC Corpus: Russian Audio-Visual Speech in Cars](https://aclanthology.org/2022.lrec-1.166/), Denis Ivanko, Alexandr Axyonov, **Dmitry Ryumin**, Alexey Kashevnik, and Alexey Karpov
+- ``LREC 2020`` [TheRuSLan: Database of Russian Sign language](https://aclanthology.org/2020.lrec-1.746/), Ildar Kagirov, Denis Ivanko, **Dmitry Ryumin**, Alexander Axyonov, and Alexey Karpov
+
+---
+
+### <a href="https://github.com/DmitryRyumin/NewEraAI-Papers" style="float:left;"><img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/arrow_click_cursor_pointer.png" width="25" alt="" />Collections of the Best AI Conferences</a>
+
+<a href="https://huggingface.co/spaces/DmitryRyumin/NewEraAI-Papers" style="float:left;">
+  <img src="https://img.shields.io/badge/🤗-NewEraAI--Papers-FFD21F.svg" alt="App" />
+</a>
+
+> [!important]
+> Conference table will be up to date all the time.
 
 <table>
-<tr>
-<td>Academics</td>
-<td>
-<a href="https://martinbulla.github.io" target="_blank">★</a>
-<a href="https://maruan.alshedivat.com" target="_blank">★</a>
-<a href="https://www.cs.columbia.edu/~chen1ru/" target="_blank">★</a>
-<a href="https://maithraraghu.com" target="_blank">★</a>
-<a href="https://platanios.org" target="_blank">★</a>
-<a href="https://otiliastr.github.io" target="_blank">★</a>
-<a href="https://www.maths.dur.ac.uk/~sxwc62/" target="_blank">★</a>
-<a href="https://jessachandler.com/" target="_blank">★</a>
-<a href="https://mayankm96.github.io/" target="_blank">★</a>
-<a href="https://markdean.info/" target="_blank">★</a>
-<a href="https://kakodkar.github.io/" target="_blank">★</a>
-<a href="https://sahirbhatnagar.com/" target="_blank">★</a>
-<a href="https://spd.gr/" target="_blank">★</a>
-<a href="https://jay-sarkar.github.io/" target="_blank">★</a>
-<a href="https://aborowska.github.io/" target="_blank">★</a>
-<a href="https://aditisgh.github.io/" target="_blank">★</a>
-<a href="https://alexhaydock.co.uk/" target="_blank">★</a>
-<a href="https://alixkeener.net/" target="_blank">★</a>
-<a href="https://andreea7b.github.io/" target="_blank">★</a>
-<a href="https://rishabhjoshi.github.io/" target="_blank">★</a>
-<a href="https://sheelabhadra.github.io/" target="_blank">★</a>
-<a href="https://giograno.me/" target="_blank">★</a>
-<a href="https://immsrini.github.io/" target="_blank">★</a>
-<a href="https://apooladian.github.io/" target="_blank">★</a>
-<a href="https://chinmoy-dutta.github.io/" target="_blank">★</a>
-<a href="https://liamcli.com/" target="_blank">★</a>
-<a href="https://yoonholee.com/" target="_blank">★</a>
-<a href="https://zrqiao.github.io/" target="_blank">★</a>
-<a href="https://abstractgeek.github.io/" target="_blank">★</a>
-<a href="https://www.compphys.de/" target="_blank">★</a>
-<a href="https://julianstreyczek.github.io" target="_blank">★</a>
-<a href="https://sdaza.com" target="_blank">★</a>
-<a href="https://niweera.gq" target="_blank">★</a>
-<a href="https://www.alihkw.com" target="_blank">★</a>
-<a href="https://amirpourmand.ir" target="_blank">★</a>
-<a href="https://scottleechua.github.io" target="_blank">★</a>
-<a href="https://sk1y101.github.io" target="_blank">★</a>
-<a href="https://yyang768osu.github.io" target="_blank">★</a>
-<a href="https://veedata.github.io" target="_blank">★</a>
-<a href="https://K-Wu.github.io" target="_blank">★</a>
-<a href="https://amalawilson.com" target="_blank">★</a>
-<a href="https://tirtharajdash.github.io" target="_blank">★</a>
-<a href="https://carolinacarreira.github.io" target="_blank">★</a>
-<a href="https://manandey.github.io" target="_blank">★</a>
-<a href="https://johanneshoerner.github.io" target="_blank">★</a>
-<a href="https://ioannismavromatis.com" target="_blank">★</a>
-<a href="https://taidnguyen.github.io" target="_blank">★</a>
-<a href="https://lbugnon.github.io" target="_blank">★</a>
-<a href="https://joahannes.github.io" target="_blank">★</a>
-<a href="https://dominikstrb.github.io" target="_blank">★</a>
-<a href="https://tylerbarna.com" target="_blank">★</a>
-<a href="https://daviddmc.github.io/" target="_blank">★</a>
-<a href="https://andreaskuster.ch/" target="_blank">★</a>
-<a href="https://ellisbrown.github.io/" target="_blank">★</a>
-<a href="https://noman-bashir.github.io/" target="_blank">★</a>
-<a href="https://djherron.github.io/" target="_blank">★</a>
-<a href="https://rodosingh.github.io/" target="_blank">★</a>
-<a href="https://vdivakar.github.io/" target="_blank">★</a>
-<a href="https://george-gca.github.io/" target="_blank">★</a>
-<a href="https://bashirkazimi.github.io/" target="_blank">★</a>
-<a href="https://dohaison.github.io/" target="_blank">★</a>
-<a href="https://raphaaal.github.io/" target="_blank">★</a>
-<a href="https://varuniyer.info/" target="_blank">★</a>
-<a href="https://yukimasano.github.io/" target="_blank">★</a>
-<a href="https://hashe037.github.io/" target="_blank">★</a>
-<a href="https://wang-boyu.github.io/" target="_blank">★</a>
-<a href="https://qingqingchen.info" target="_blank">★</a>
-<a href="https://bajinsheng.github.io/" target="_blank">★</a>
-<a href="https://www.silviofanzon.com/" target="_blank">★</a>
-<a href="https://kaikaiyao.github.io/" target="_blank">★</a>
-<a href="https://alchemz.github.io/" target="_blank">★</a>
-<a href="https://samadamday.com/" target="_blank">★</a>
-<a href="https://fanpu.io/" target="_blank">★</a>
-<a href="https://abigalekim.github.io/" target="_blank">★</a>
-<a href="https://lucasresck.github.io/" target="_blank">★</a>
-<a href="https://users.wpi.edu/~lfichera/" target="_blank">★</a>
-<a href="https://anmspro.github.io/" target="_blank">★</a>
-<a href="https://berlyne.net/" target="_blank">★</a>
-<a href="https://filippomazzoli.github.io/" target="_blank">★</a>
-<a href="https://www.escontrela.me/" target="_blank">★</a>
-<a href="https://raffaem.github.io/" target="_blank">★</a>
-<a href="https://cbueth.de/" target="_blank">★</a>
-<a href="https://kyleaoman.github.io/" target="_blank">★</a>
-<a href="https://decwest.github.io/" target="_blank">★</a>
-<a href="https://www.jedburkat.com" target="_blank">★</a>
-<a href="https://hrzhang.me" target="_blank">★</a>
-<a href="https://kudhru.github.io/" target="_blank">★</a>
-<a href="https://mbarbetti.github.io/" target="_blank">★</a>
-<a href="https://www.zhivotenko.com/" target="_blank">★</a>
-<a href="https://giordanodaloisio.github.io/" target="_blank">★</a>
-<a href="https://aadityaura.github.io/" target="_blank">★</a>
-<a href="https://abhinav-mehta.github.io/" target="_blank">★</a>
-<a href="https://shubhashisroydipta.com/" target="_blank">★</a>
-<a href="https://astanziola.github.io" target="_blank">★</a>
-<a href="https://tinkerer.in" target="_blank">★</a>
-<a href="https://sam-bieberich.github.io/" target="_blank">★</a>
-<a href="https://afraniomelo.github.io/en/" target="_blank">★</a>
-<a href="https://jonaruthardt.github.io" target="_blank">★</a>
-<a href="https://www.zla.app/" target="_blank">★</a>
-<a href="https://stavros.github.io" target="_blank">★</a>
-<a href="https://ericslyman.com" target="_blank">★</a>
-</td>
-</tr>
-<tr>
-<td>Labs</td>
-<td>
-<a href="https://www.haylab.caltech.edu/" target="_blank">★</a>
-<a href="https://sjkimlab.github.io/" target="_blank">★</a>
-<a href="https://systemconsultantgroup.github.io/scg-folio/" target="_blank">★</a>
-<a href="https://decisionlab.ucsf.edu/" target="_blank">★</a>
-<a href="https://programming-group.com/" target="_blank">★</a>
-<a href="https://sailing-lab.github.io/" target="_blank">★</a>
-<a href="https://inbt.jhu.edu/epidiagnostics/" target="_blank">★</a>
-</td>
-</tr>
-<tr>
-<td>Courses</td>
-<td>
-CMU PGM (<a href="https://sailinglab.github.io/pgm-spring-2019/" target="_blank">S-19</a>) <br>
-CMU DeepRL (<a href="https://cmudeeprl.github.io/403_website/" target="_blank">S-21</a>, <a href="https://cmudeeprl.github.io/703website_f21/" target="_blank">F-21</a>, <a href="https://cmudeeprl.github.io/403website_s22/" target="_blank">S-22</a>, <a href="https://cmudeeprl.github.io/703website_f22/" target="_blank">F-22</a>, <a href="https://cmudeeprl.github.io/403website_s23/" target="_blank">S-23</a>, <a href="https://cmudeeprl.github.io/703website_f23/" target="_blank">F-23</a>) <br>
-CMU MMML (<a href="https://cmu-multicomp-lab.github.io/mmml-course/fall2020/" target="_blank">F-20</a>, <a href="https://cmu-multicomp-lab.github.io/mmml-course/fall2022/" target="_blank">F-22</a>) <br>
-CMU AMMML (<a href="https://cmu-multicomp-lab.github.io/adv-mmml-course/spring2022/" target="_blank">S-22</a>, <a href="https://cmu-multicomp-lab.github.io/adv-mmml-course/spring2023/" target="_blank">S-23</a>) <br>
-CMU ASI (<a href="https://cmu-multicomp-lab.github.io/asi-course/spring2023/" target="_blank">S-23</a>) <br>
-CMU Distributed Systems (<a href="https://andrew.cmu.edu/course/15-440/" target="_blank">S-24</a>)
-</td>
-</tr>
-<tr>
-<td>Conferences & workshops</td>
-<td>
-ICLR Blog Post Track (<a href="https://iclr-blogposts.github.io/2023/" target="_blank">2023</a>, <a href="https://iclr-blogposts.github.io/2024/about" target="_blank">2024</a>) <br>
-ML Retrospectives (NeurIPS: <a href="https://ml-retrospectives.github.io/neurips2019/" target="_blank">2019</a>, <a href="https://ml-retrospectives.github.io/neurips2020/" target="_blank">2020</a>; ICML: <a href="https://ml-retrospectives.github.io/icml2020/" target="_blank">2020</a>) <br>
-HAMLETS (NeurIPS: <a href="https://hamlets-workshop.github.io/" target="_blank">2020</a>) <br>
-ICBINB (NeurIPS: <a href="https://i-cant-believe-its-not-better.github.io/" target="_blank">2020</a>, <a href="https://i-cant-believe-its-not-better.github.io/neurips2021/" target="_blank">2021</a>) <br>
-Neural Compression (ICLR: <a href="https://neuralcompression.github.io/" target="_blank">2021</a>) <br>
-Score Based Methods (NeurIPS: <a href="https://score-based-methods-workshop.github.io/" target="_blank">2022</a>)<br>
-Images2Symbols (CogSci: <a href="https://images2symbols.github.io/" target="_blank"> 2022</a>) <br>
-Medical Robotics Junior Faculty Forum (ISMR: <a href="https://junior-forum-ismr.github.io/" target="_blank"> 2023</a>)<br>
-Beyond Vision: Physics meets AI (ICIAP: <a href="https://physicsmeetsai.github.io/beyond-vision/" target="_blank">2023</a>) <br>
-Workshop on Diffusion Models (NeurIPS: <a href="https://diffusionworkshop.github.io/" target="_blank">2023</a>)
-</td>
-</tr>
-</table>
-
-## Lighthouse PageSpeed Insights
-
-### Desktop
-
-[![Google Lighthouse PageSpeed Insights](lighthouse_results/desktop/pagespeed.svg)](https://htmlpreview.github.io/?https://github.com/alshedivat/al-folio/blob/master/lighthouse_results/desktop/alshedivat_github_io_al_folio_.html)
-
-Run the test yourself: [Google Lighthouse PageSpeed Insights](https://pagespeed.web.dev/report?url=https%3A%2F%2Falshedivat.github.io%2Fal-folio%2F&form_factor=desktop)
-
-### Mobile
-
-[![Google Lighthouse PageSpeed Insights](lighthouse_results/mobile/pagespeed.svg)](https://htmlpreview.github.io/?https://github.com/alshedivat/al-folio/blob/master/lighthouse_results/mobile/alshedivat_github_io_al_folio_.html)
-
-Run the test yourself: [Google Lighthouse PageSpeed Insights](https://pagespeed.web.dev/report?url=https%3A%2F%2Falshedivat.github.io%2Fal-folio%2F&form_factor=mobile)
-
-## Table Of Contents
-
-- [al-folio](#al-folio)
-  - [User community](#user-community)
-  - [Lighthouse PageSpeed Insights](#lighthouse-pagespeed-insights)
-    - [Desktop](#desktop)
-    - [Mobile](#mobile)
-  - [Table Of Contents](#table-of-contents)
-  - [Getting started](#getting-started)
-  - [Installing](#installing)
-  - [Customizing](#customizing)
-  - [Features](#features)
-    - [Light/Dark Mode](#lightdark-mode)
-    - [CV](#cv)
-    - [People](#people)
-    - [Publications](#publications)
-    - [Collections](#collections)
-    - [Layouts](#layouts)
-      - [The iconic style of Distill](#the-iconic-style-of-distill)
-      - [Full support for math \& code](#full-support-for-math--code)
-      - [Photos, Audio, Video and more](#photos-audio-video-and-more)
-    - [Other features](#other-features)
-      - [GitHub's repositories and user stats](#githubs-repositories-and-user-stats)
-      - [Theming](#theming)
-      - [Social media previews](#social-media-previews)
-      - [Atom (RSS-like) Feed](#atom-rss-like-feed)
-      - [Related posts](#related-posts)
-      - [Code quality checks](#code-quality-checks)
-  - [FAQ](#faq)
-  - [Contributing](#contributing)
-    - [Maintainers](#maintainers)
-    - [All Contributors](#all-contributors)
-  - [Star History](#star-history)
-  - [License](#license)
-
-## Getting started
-
-Want to learn more about Jekyll? Check out [this tutorial](https://www.taniarascia.com/make-a-static-website-with-jekyll/). Why Jekyll? Read [Andrej Karpathy's blog post](https://karpathy.github.io/2014/07/01/switching-to-jekyll/)!
-
-## Installing
-
-For installation details please refer to [INSTALL.md](INSTALL.md).
-
-## Customizing
-
-For customization details please refer to [CUSTOMIZE.md](CUSTOMIZE.md).
-
-## Features
-
-### Light/Dark Mode
-
-This template has a built-in light/dark mode. It detects the user preferred color scheme and automatically switches to it. You can also manually switch between light and dark mode by clicking on the sun/moon icon in the top right corner of the page.
-
-<p align="center">
-<img src="readme_preview/light.png" width=400 alt="">
-<img src="readme_preview/dark.png" width=400 alt="">
-</p>
-
----
-
-### CV
-
-There are currently 2 different ways of generating the CV page content. The first one is by using a json file located in [assets/json/resume.json](assets/json/resume.json). It is a [known standard](https://jsonresume.org/) for creating a CV programmatically. The second one, currently used as a fallback when the json file is not found, is by using a yml file located in [\_data/cv.yml](_data/cv.yml). This was the original way of creating the CV page content and since it is more human readable than a json file we decided to keep it as an option.
-
-What this means is, if there is no resume data defined in [\_config.yml](_config.yml) and loaded via a json file, it will load the contents of [\_data/cv.yml](_data/cv.yml) as fallback.
-
-[![CV Preview](readme_preview/cv.png)](https://alshedivat.github.io/al-folio/cv/)
-
----
-
-### People
-
-You can create a people page if you want to feature more than one person. Each person can have its own short bio, profile picture, and you can also set if every person will appear at the same or opposite sides.
-
-[![People Preview](readme_preview/people.png)](https://alshedivat.github.io/al-folio/people/)
-
----
-
-### Publications
-
-Your publications' page is generated automatically from your BibTex bibliography. Simply edit [\_bibliography/papers.bib](_bibliography/papers.bib). You can also add new `*.bib` files and customize the look of your publications however you like by editing [\_pages/publications.md](_pages/publications.md). By default, the publications will be sorted by year and the most recent will be displayed first. You can change this behavior and more in the `Jekyll Scholar` section in [\_config.yml](_config.yml) file.
-
-You can add extra information to a publication, like a PDF file in the [assets/pdf/](assets/pdf/) directory and add the path to the PDF file in the BibTeX entry with the `pdf` field. Some of the supported fields are: `abstract`, `altmetric`, `arxiv`, `bibtex_show`, `blog`, `code`, `dimensions`, `doi`, `eprint`, `html`, `isbn`, `pdf`, `pmid`, `poster`, `slides`, `supp`, `video`, and `website`.
-
-[![Publications Preview](readme_preview/publications.png)](https://alshedivat.github.io/al-folio/publications/)
-
----
-
-### Collections
-
-This Jekyll theme implements `collections` to let you break up your work into categories. The theme comes with two default collections: `news` and `projects`. Items from the `news` collection are automatically displayed on the home page. Items from the `projects` collection are displayed on a responsive grid on projects page.
-
-[![Projects Preview](readme_preview/projects.png)](https://alshedivat.github.io/al-folio/projects/)
-
-You can easily create your own collections, apps, short stories, courses, or whatever your creative work is. To do this, edit the collections in the [\_config.yml](_config.yml) file, create a corresponding folder, and create a landing page for your collection, similar to `_pages/projects.md`.
-
----
-
-### Layouts
-
-**al-folio** comes with stylish layouts for pages and blog posts.
-
-#### The iconic style of Distill
-
-The theme allows you to create blog posts in the [distill.pub](https://distill.pub/) style:
-
-[![Distill Preview](readme_preview/distill.png)](https://alshedivat.github.io/al-folio/blog/2021/distill/)
-
-For more details on how to create distill-styled posts using `<d-*>` tags, please refer to [the example](https://alshedivat.github.io/al-folio/blog/2021/distill/).
-
-#### Full support for math & code
-
-**al-folio** supports fast math typesetting through [MathJax](https://www.mathjax.org/) and code syntax highlighting using [GitHub style](https://github.com/jwarby/jekyll-pygments-themes). Also supports [chartjs charts](https://www.chartjs.org/), [mermaid diagrams](https://mermaid-js.github.io/mermaid/#/), and [TikZ figures](https://tikzjax.com/).
-
-<p align="center">
-<a href="https://alshedivat.github.io/al-folio/blog/2015/math/" target="_blank"><img src="readme_preview/math.png" width=400 alt=""></a>
-<a href="https://alshedivat.github.io/al-folio/blog/2015/code/" target="_blank"><img src="readme_preview/code.png" width=400 alt=""></a>
-</p>
-
-#### Photos, Audio, Video and more
-
-Photo formatting is made simple using [Bootstrap's grid system](https://getbootstrap.com/docs/4.4/layout/grid/). Easily create beautiful grids within your blog posts and project pages, also with support for [video](https://alshedivat.github.io/al-folio/blog/2023/videos/) and [audio](https://alshedivat.github.io/al-folio/blog/2023/audios/) embeds:
-
-<p align="center">
-  <a href="https://alshedivat.github.io/al-folio/projects/1_project/">
-    <img src="readme_preview/photos-screenshot.png" width="75%" alt="">
-  </a>
-</p>
-
----
-
-### Other features
-
-#### GitHub's repositories and user stats
-
-**al-folio** uses [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) and [github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) to display GitHub repositories and user stats on the `/repositories/` page.
-
-[![Repositories Preview](readme_preview/repositories.png)](https://alshedivat.github.io/al-folio/repositories/)
-
-Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories to the `/repositories/` page.
-
-You may also use the following codes for displaying this in any other pages.
-
-```html
-<!-- code for GitHub users -->
-{% if site.data.repositories.github_users %}
-<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% for user in site.data.repositories.github_users %} {% include repository/repo_user.liquid username=user %} {% endfor %}
-</div>
-{% endif %}
-
-<!-- code for GitHub trophies -->
-{% if site.repo_trophies.enabled %} {% for user in site.data.repositories.github_users %} {% if site.data.repositories.github_users.size > 1 %}
-<h4>{{ user }}</h4>
-{% endif %}
-<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% include repository/repo_trophies.liquid username=user %}
-</div>
-{% endfor %} {% endif %}
-
-<!-- code for GitHub repositories -->
-{% if site.data.repositories.github_repos %}
-<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% for repo in site.data.repositories.github_repos %} {% include repository/repo.liquid repository=repo %} {% endfor %}
-</div>
-{% endif %}
-```
-
----
-
-#### Theming
-
-A variety of beautiful theme colors have been selected for you to choose from. The default is purple, but you can quickly change it by editing the `--global-theme-color` variable in the `_sass/_themes.scss` file. Other color variables are listed there as well. The stock theme color options available can be found at [\_sass/\_variables.scss](_sass/_variables.scss). You can also add your own colors to this file assigning each a name for ease of use across the template.
-
----
-
-#### Social media previews
-
-**al-folio** supports preview images on social media. To enable this functionality you will need to set `serve_og_meta` to `true` in your [\_config.yml](_config.yml). Once you have done so, all your site's pages will include Open Graph data in the HTML head element.
-
-You will then need to configure what image to display in your site's social media previews. This can be configured on a per-page basis, by setting the `og_image` page variable. If for an individual page this variable is not set, then the theme will fall back to a site-wide `og_image` variable, configurable in your [\_config.yml](_config.yml). In both the page-specific and site-wide cases, the `og_image` variable needs to hold the URL for the image you wish to display in social media previews.
-
----
-
-#### Atom (RSS-like) Feed
-
-It generates an Atom (RSS-like) feed of your posts, useful for Atom and RSS readers. The feed is reachable simply by typing after your homepage `/feed.xml`. E.g. assuming your website mountpoint is the main folder, you can type `yourusername.github.io/feed.xml`
-
----
-
-#### Related posts
-
-By default, there will be a related posts section on the bottom of the blog posts. These are generated by selecting the `max_related` most recent posts that share at least `min_common_tags` tags with the current post. If you do not want to display related posts on a specific post, simply add `related_posts: false` to the front matter of the post. If you want to disable it for all posts, simply set `enabled` to false in the `related_blog_posts` section in [\_config.yml](_config.yml).
-
----
-
-#### Code quality checks
-
-Currently, we run some checks to ensure that the code quality and generated site are good. The checks are done using GitHub Actions and the following tools:
-
-- [Prettier](https://prettier.io/) - check if the formatting of the code follows the style guide
-- [lychee](https://lychee.cli.rs/) - check for broken links
-- [Axe](https://github.com/dequelabs/axe-core) (need to run manually) - do some accessibility testing
-
-We decided to keep `Axe` runs manual because fixing the issues are not straightforward and might be hard for people without web development knowledge.
-
-## FAQ
-
-For frequently asked questions, please refer to [FAQ.md](FAQ.md).
-
-## Contributing
-
-Contributions to al-folio are very welcome! Before you get started, please take a look at [the guidelines](CONTRIBUTING.md).
-
-If you would like to improve documentation or fix a minor inconsistency or bug, please feel free to send a PR directly to `master`. For more complex issues/bugs or feature requests, please open an issue using the appropriate template.
-
-### Maintainers
-
-Our most active contributors are welcome to join the maintainers team. If you are interested, please reach out!
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="http://maruan.alshedivat.com"><img src="https://avatars.githubusercontent.com/u/2126561?v=4" width="100px;" alt=""/><br /><sub><b>Maruan</b></sub></a></td>
-      <td align="center" valign="top" width="14.28%"><a href="http://rohandebsarkar.github.io"><img src="https://avatars.githubusercontent.com/u/50144004?v=4" width="100px;" alt=""/><br /><sub><b>Rohan Deb Sarkar</b></sub></a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://amirpourmand.ir"><img src="https://avatars.githubusercontent.com/u/32064808?v=4" width="100px;" alt=""/><br /><sub><b>Amir Pourmand</b></sub></a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://george-gca.github.io/"><img src="https://avatars.githubusercontent.com/u/31376482?v=4" width="100px;" alt=""/><br /><sub><b>George</b></sub></a></td>
+        <td rowspan="2" align="center"><strong>Conference</strong></td>
+        <td colspan="2" align="center"><strong>Year</strong></td>
     </tr>
-  </tbody>
+    <tr>
+        <td colspan="1" align="center"><i>2023</i></td>
+        <td colspan="1" align="center"><i>2024</i></td>
+    </tr>
+    <tr>
+        <td colspan="3" align="center"><i>Computer Vision (CV)</i></td>
+    </tr>
+    <tr>
+        <td>CVPR</td>
+        <td align="center"><a href="https://github.com/DmitryRyumin/CVPR-2023-Papers" target="_blank"><img src="https://img.shields.io/github/stars/DmitryRyumin/CVPR-2023-Papers?style=flat" alt="" /></a></td>
+        <td align="center"><img src="https://img.shields.io/badge/June-white?logo=github&labelColor=b31b1b" alt="" /></td>
+    </tr>
+    <tr>
+        <td>ICCV</td>
+        <td align="center"><a href="https://github.com/DmitryRyumin/ICCV-2023-Papers" target="_blank"><img src="https://img.shields.io/github/stars/DmitryRyumin/ICCV-2023-Papers?style=flat" alt="" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/done.svg" width="20" alt="" /></a></td>
+        <td align="center"><img src="https://img.shields.io/badge/Not%20Scheduled-CC5540" alt=""/></td>
+    </tr>
+    <tr>
+        <td>ECCV</td>
+        <td align="center"><img src="https://img.shields.io/badge/Not%20Scheduled-CC5540" alt=""/></td>
+        <td align="center"><img src="https://img.shields.io/badge/October-white?logo=github&labelColor=b31b1b" alt="" /></td>
+    </tr>
+    <tr>
+        <td>WACV</td>
+        <td align="center">:heavy_minus_sign:</td>
+        <td align="center"><a href="https://github.com/DmitryRyumin/WACV-2024-Papers" target="_blank"><img src="https://img.shields.io/github/stars/DmitryRyumin/WACV-2024-Papers?style=flat" alt="" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/done.svg" width="20" alt="" /></a></td>
+    </tr>
+    <tr>
+        <td colspan="3" align="center"><i>Speech/Signal Processing (SP/SigProc)</i></td>
+    </tr>
+    <tr>
+        <td>ICASSP</td>
+        <td colspan="2" align="center"><a href="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers" target="_blank"><img src="https://img.shields.io/github/stars/DmitryRyumin/ICASSP-2023-24-Papers?style=flat" alt="" /></a></td>
+    </tr>
+    <tr>
+        <td>INTERSPEECH</td>
+        <td align="center"><a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-Papers" target="_blank"><img src="https://img.shields.io/github/stars/DmitryRyumin/INTERSPEECH-2023-Papers?style=flat" alt="" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/done.svg" width="20" alt="" /></a></td>
+        <td align="center"><img src="https://img.shields.io/badge/September-white?logo=github&labelColor=b31b1b" alt="" /></td>
+    </tr>
+    <tr>
+        <td>ISMIR</td>
+        <td align="center"><a href="https://github.com/yamathcy/ISMIR-2023-Papers" target="_blank"><img src="https://img.shields.io/github/stars/yamathcy/ISMIR-2023-Papers?style=flat" alt="" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/done.svg" width="20" alt="" /></a></td>
+        <td align="center">:heavy_minus_sign:</td>
+    </tr>
+    <tr>
+        <td colspan="3" align="center"><i>Natural Language Processing (NLP)</i></td>
+    </tr>
+    <tr>
+        <td>EMNLP</td>
+        <td align="center"><a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers" target="_blank"><img src="https://img.shields.io/github/stars/DmitryRyumin/EMNLP-2023-Papers?style=flat" alt="" /></a></td>
+        <td align="center"><img src="https://img.shields.io/badge/December-white?logo=github&labelColor=b31b1b" alt="" /></td>
+    </tr>
+    <tr>
+        <td colspan="3" align="center"><i>Machine Learning (ML)</i></td>
+    </tr>
+    <tr>
+        <td>AAAI</td>
+        <td align="center">:heavy_minus_sign:</td>
+        <td align="center"><a href="https://github.com/DmitryRyumin/AAAI-2024-Papers" target="_blank"><img src="https://img.shields.io/github/stars/DmitryRyumin/AAAI-2024-Papers?style=flat" alt="" /></a></td>
+    </tr>
+    <tr>
+        <td>ICLR</td>
+        <td align="center">:heavy_minus_sign:</td>
+        <td align="center"><img src="https://img.shields.io/badge/May-white?logo=github&labelColor=b31b1b" alt="" /></td>
+    </tr>
+    <tr>
+        <td>ICML</td>
+        <td align="center">:heavy_minus_sign:</td>
+        <td align="center"><img src="https://img.shields.io/badge/July-white?logo=github&labelColor=b31b1b" alt="" /></td>
+    </tr>
+    <tr>
+        <td>NeurIPS</td>
+        <td align="center">:heavy_minus_sign:</td>
+        <td align="center"><img src="https://img.shields.io/badge/December-white?logo=github&labelColor=b31b1b" alt="" /></td>
+    </tr>
 </table>
 
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
+---
 
-<!-- ALL-CONTRIBUTORS-LIST:END -->
+### <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome">
 
-### All Contributors
+| Topic/Domain | Stars |
+|--------------|-------|
+| Speech Enhancement | [![Stars](https://img.shields.io/github/stars/DmitryRyumin/Awesome-Speech-Enhancement?style=flat)](https://github.com/DmitryRyumin/Awesome-Speech-Enhancement) |
 
-<a href="https://contrib.rocks">
-  <img src="https://contrib.rocks/image?repo=alshedivat/al-folio"  alt="">
-</a>
+---
 
-## Star History
+### <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/github_social.svg" width="20" alt="" /> Contributed Repositories
 
-<a href="https://star-history.com/#alshedivat/al-folio&Date">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=alshedivat/al-folio&type=Date&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=alshedivat/al-folio&type=Date" />
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=alshedivat/al-folio&type=Date" />
-  </picture>
-</a>
+| Repository | Stars |
+|------------|-------|
+| ai-deadlines | [![Stars](https://img.shields.io/github/stars/paperswithcode/ai-deadlines?style=flat)](https://github.com/paperswithcode/ai-deadlines) |
+| SpeechTasks | [![Stars](https://img.shields.io/github/stars/WangHelin1997/SpeechTasks?style=flat)](https://github.com/WangHelin1997/SpeechTasks) |
 
-## License
+---
 
-The theme is available as open source under the terms of the [MIT License](https://github.com/alshedivat/al-folio/blob/master/LICENSE).
+### <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/spaces.svg" width="20" alt="" /> Contributed Spaces (Hugging Face)
 
-Originally, **al-folio** was based on the [\*folio theme](https://github.com/bogoli/-folio) (published by [Lia Bogoev](https://liabogoev.com) and under the MIT license). Since then, it got a full re-write of the styles and many additional cool features.
+| Space |
+|-------|
+| [![Facial_Expression_Recognition](https://img.shields.io/badge/🤗-Facial_Expression_Recognition-FFD21F.svg)](https://huggingface.co/spaces/ElenaRyumina/Facial_Expression_Recognition) |
+| [![OCEANAI](https://img.shields.io/badge/🤗-OCEANAI-FFD21F.svg)](https://huggingface.co/spaces/ElenaRyumina/OCEANAI) |
+
+---
+
+### <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/research.svg" width="20" alt="" /> Community Services
+
+#### Journal Reviewing
+
+<p>
+    <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/ESWA.pdf">
+        <img src="https://img.shields.io/badge/Expert%20Systems%20with%20Applications-16-045877?&style=flat-square" alt="Reviewing Badge" />
+    </a>
+    <br />
+    <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/IMAVIS.pdf">
+        <img src="https://img.shields.io/badge/Image%20and%20Vision%20Computing-11-505050?&style=flat-square" alt="Reviewing Badge" />
+    </a>
+    <br />
+    <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/NEUCOM.pdf">
+        <img src="https://img.shields.io/badge/Neurocomputing-9-EFE30E?&style=flat-square" alt="Reviewing Badge" />
+    </a>
+    <br />
+    <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/HLY.pdf">
+        <img src="https://img.shields.io/badge/Heliyon-6-027DBC?&style=flat-square" alt="Reviewing Badge" />
+    </a>
+    <br />
+    <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/PR.pdf">
+        <img src="https://img.shields.io/badge/Pattern%20Recognition-5-E87324?&style=flat-square" alt="Reviewing Badge" />
+    </a>
+    <br />
+    <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/PATREC.pdf">
+        <img src="https://img.shields.io/badge/Pattern%20Recognition%20Letters-3-000000?&style=flat-square" alt="Reviewing Badge" />
+    </a>
+    <br />
+    <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/IJCCE.pdf">
+        <img src="https://img.shields.io/badge/International%20Journal%20of%20Cognitive%20Computing%20in%20Engineering-3-6BAFCC?&style=flat-square" alt="Reviewing Badge" />
+    </a>
+    <br />
+    <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/ISWA.pdf">
+        <img src="https://img.shields.io/badge/Intelligent%20Systems%20with%20Applications-2-1C346D?&style=flat-square" alt="Reviewing Badge" />
+    </a>
+    <br />
+    <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/YCVIU.pdf">
+        <img src="https://img.shields.io/badge/Computer%20Vision%20and%20Image%20Understanding-2-8A6734?&style=flat-square" alt="Reviewing Badge" />
+    </a>
+    <br />
+    <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/SOFTX.pdf">
+        <img src="https://img.shields.io/badge/SoftwareX-2-53C0AF?&style=flat-square" alt="Reviewing Badge" />
+    </a>
+    <br />
+    <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/VISINF.pdf">
+        <img src="https://img.shields.io/badge/Visual%20Informatics-2-5E1918?&style=flat-square" alt="Reviewing Badge" />
+    </a>
+    <br />
+    <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/SPECOM.pdf">
+        <img src="https://img.shields.io/badge/Speech%20Communication-2-DF1E25?&style=flat-square" alt="Reviewing Badge" />
+    </a>
+    <br />
+    <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/INFFUS.pdf">
+        <img src="https://img.shields.io/badge/Information%20Fusion-1-505050?&style=flat-square" alt="Reviewing Badge" />
+    </a>
+    <br />
+    <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/NN.pdf">
+        <img src="https://img.shields.io/badge/Neural%20Networks-1-1E3887?&style=flat-square" alt="Reviewing Badge" />
+    </a>
+    <br />
+    <a href="https://orcid.org/0000-0002-7935-0569">
+        <img src="https://img.shields.io/badge/IEEE%20Transactions%20on%20Circuits%20and%20Systems%20for%20Video%20Technology-1-14303E?&style=flat-square" alt="Reviewing Badge" />
+    </a>
+</p>
+
+#### Conference Reviewing
+
+<p>
+    <a href="https://interspeech2024.org/">
+        <img src="http://img.shields.io/badge/INTERSPEECH-2024-0C1C43.svg?&style=flat-square" alt="INTERSPEECH">
+    </a>
+</p>
+
+<br />
+
+![GitHub last commit](https://img.shields.io/github/last-commit/DmitryRyumin/DmitryRyumin)
