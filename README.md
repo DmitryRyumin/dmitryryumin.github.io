@@ -244,8 +244,8 @@ For customization details please refer to [CUSTOMIZE.md](CUSTOMIZE.md).
 This template has a built-in light/dark mode. It detects the user preferred color scheme and automatically switches to it. You can also manually switch between light and dark mode by clicking on the sun/moon icon in the top right corner of the page.
 
 <p align="center">
-<img src="readme_preview/light.png" width=400>
-<img src="readme_preview/dark.png" width=400>
+<img src="readme_preview/light.png" width=400 alt="">
+<img src="readme_preview/dark.png" width=400 alt="">
 </p>
 
 ---
@@ -305,8 +305,8 @@ For more details on how to create distill-styled posts using `<d-*>` tags, pleas
 **al-folio** supports fast math typesetting through [MathJax](https://www.mathjax.org/) and code syntax highlighting using [GitHub style](https://github.com/jwarby/jekyll-pygments-themes). Also supports [chartjs charts](https://www.chartjs.org/), [mermaid diagrams](https://mermaid-js.github.io/mermaid/#/), and [TikZ figures](https://tikzjax.com/).
 
 <p align="center">
-<a href="https://alshedivat.github.io/al-folio/blog/2015/math/" target="_blank"><img src="readme_preview/math.png" width=400></a>
-<a href="https://alshedivat.github.io/al-folio/blog/2015/code/" target="_blank"><img src="readme_preview/code.png" width=400></a>
+<a href="https://alshedivat.github.io/al-folio/blog/2015/math/" target="_blank"><img src="readme_preview/math.png" width=400 alt=""></a>
+<a href="https://alshedivat.github.io/al-folio/blog/2015/code/" target="_blank"><img src="readme_preview/code.png" width=400 alt=""></a>
 </p>
 
 #### Photos, Audio, Video and more
@@ -315,7 +315,7 @@ Photo formatting is made simple using [Bootstrap's grid system](https://getboots
 
 <p align="center">
   <a href="https://alshedivat.github.io/al-folio/projects/1_project/">
-    <img src="readme_preview/photos-screenshot.png" width="75%">
+    <img src="readme_preview/photos-screenshot.png" width="75%" alt="">
   </a>
 </p>
 
@@ -432,7 +432,7 @@ Our most active contributors are welcome to join the maintainers team. If you ar
 ### All Contributors
 
 <a href="https://contrib.rocks">
-  <img src="https://contrib.rocks/image?repo=alshedivat/al-folio" />
+  <img src="https://contrib.rocks/image?repo=alshedivat/al-folio"  alt="">
 </a>
 
 ## Star History

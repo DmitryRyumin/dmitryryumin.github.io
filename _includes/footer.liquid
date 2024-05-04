@@ -1,31 +1,16 @@
-{% if site.footer_fixed %}
-  <footer class="fixed-bottom" role="contentinfo">
-    <div class="container mt-0">
-      &copy; Copyright {{ site.time | date: '%Y' }}
-      {{ site.first_name }}
-      {{ site.middle_name }}
-      {{ site.last_name }}. {{ site.footer_text }}
-      {% if site.impressum_path %}
-        <a href="{{ site.url }}{{ site.baseurl }}{{ site.impressum_path }}">Impressum</a>.
-      {% endif %}
-      {% if site.last_updated %}
-        Last updated: {{ 'now' | date: '%B %d, %Y' }}.
-      {% endif %}
-    </div>
-  </footer>
-{% else %}
-  <footer class="sticky-bottom mt-5" role="contentinfo">
-    <div class="container">
-      &copy; Copyright {{ site.time | date: '%Y' }}
-      {{ site.first_name }}
-      {{ site.middle_name }}
-      {{ site.last_name }}. {{ site.footer_text }}
-      {% if site.impressum_path %}
-        <a href="{{ site.url }}{{ site.baseurl }}{{ site.impressum_path }}">Impressum</a>.
-      {% endif %}
-      {% if site.last_updated %}
-        Last updated: {{ 'now' | date: '%B %d, %Y' }}.
-      {% endif %}
-    </div>
-  </footer>
-{% endif %}
+<footer class="{% if site.footer_fixed %}fixed-bottom{% else %}sticky-bottom mt-5{% endif %}" role="contentinfo">
+  <div class="container mt-0">
+    &copy; {{ site.data[site.active_lang].strings.footer.site_copyright }} {{ site.time | date: '%Y' }}
+    {% assign lang = site.active_lang %}
+    {% case lang %}
+      {% when 'en', 'else' %}
+        {{ site.data[lang].strings.about.first_name }} {{ site.data[lang].strings.about.middle_name }} {{ site.data[lang].strings.about.last_name }}.
+      {% when 'ru' %}
+        {{ site.data[lang].strings.about.last_name }} {{ site.data[lang].strings.about.first_name }} {{ site.data[lang].strings.about.middle_name }}.
+    {% endcase %}
+    {{ site.data[lang].strings.footer.text | default: '' }}
+    {% if site.last_updated %}
+      {{ site.data[lang].strings.footer.site_last_updated | default: '' }}: {% include current_date_format.liquid format="long" %}.
+    {% endif %}
+  </div>
+</footer>

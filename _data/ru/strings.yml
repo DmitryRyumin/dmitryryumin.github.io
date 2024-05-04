@@ -1,0 +1,130 @@
+about:
+  title:
+  first_name: Дмитрий
+  middle_name: Александрович
+  last_name: к.т.н. Рюмин
+  profile:
+    text: "Исследователь+в+области+искусственного+интеллекта;Компьютерное+зрение+|+Машинное+обучение;Интерактивные+системы+|+Мультимодальные+интерфейсы"
+    size:
+      width: 650
+      height: 95
+    alt: РюминДмитрий
+  community_services: Научная коммуникация
+  reviewing:
+    journals: Рецензент международных журналов
+    conferences: Рецензент международных конференций
+    reviewing_badge: Сертификат рецензента
+footer:
+  site_copyright: Авторское право
+  text: >
+    Сайт создан с помощью <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> и темы <a href="https://github.com/alshedivat/al-folio">al-folio</a>.
+    Размещен на <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+  site_last_updated: Последнее обновление
+  months:
+    long:
+      january:  Января
+      february: Февраля
+      march: Марта
+      april: Апреля
+      may: Мая
+      june: Июня
+      july: Июля
+      august: Августа
+      september: Сентября
+      october: Октября
+      november: Ноября
+      december: Декабря
+    short:
+      january: Янв.
+      february: Февр.
+      march: Мар.
+      april: Апр.
+      may: Май
+      june: Июн.
+      july: Июл.
+      august: Авг.
+      september: Сент.
+      october: Окт.
+      november: Нояб.
+      december: Дек.
+  selected_publications: Избранные публикации
+  contact_note: Лучше всего со мной можно связаться по электронной почте или в Telegram.
+
+archive_category: um arquivo de postagens desta categoria
+archive_tag: um arquivo de postagens com este marcador
+archive_year: um arquivo de postagens deste ano
+blog:
+  navigation_title: blog
+categories:
+  fun: diversão
+  work: trabalho
+citation:
+  bibtex: "ou como uma citação em BibTeX:"
+  introduction: "Se você achou isso útil, por favor cite como:"
+cv:
+  address: Endereço
+  area: Área
+  awarder: Premiado por
+  awards: Prêmios
+  basics: Informações gerais
+  certificates: Certificados
+  city: Cidade
+  countryCode: Código do país
+  courses: Cursos
+  date: Data
+  education: Educação
+  email: Email
+  endDate: Data de término
+  fluency: Fluência
+  highlights: Destaques
+  image: Imagem
+  institution: Instituição
+  interests: Interesses
+  issuer: Emissor
+  keywords: Palavras chave
+  label: Título
+  language: Idioma
+  languages: Idiomas
+  level: Nível
+  location: Localização
+  name: Nome
+  network: Rede
+  organization: Organização
+  phone: Telefone
+  position: Posição
+  postalCode: Código postal
+  profiles: Perfis
+  projects: Projetos
+  publications: Publicações
+  publisher: Editora
+  reference: Referência
+  references: Referências
+  region: Região
+  releaseDate: Data de lançamento
+  score: Pontuação
+  skills: Habilidades
+  startDate: Data de início
+  studyType: Tipo de estudo
+  summary: Resumo
+  table_of_contents: Tópicos
+  title: Título
+  url: Url
+  username: Usuário
+  volunteer: Voluntário
+  work: Trabalho
+latest_posts: últimas postagens
+news: novidades
+no_news: Nenhuma novidade no momento...
+pagination:
+  newer: Recentes
+  older: Antigas
+  page: página
+post:
+  created_in: Criado em
+  created_by: por
+  last_updated: última atualização em
+references: Referências
+related_posts:
+  description: "Aqui estão alguns artigos relacionados que você pode gostar de ler:"
+  title: Gostou de Ler este Artigo?
+site_description: Um tema simples para acadêmicos. Baseado no design do [*folio](https://github.com/bogoli/-folio).

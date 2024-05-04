@@ -1,0 +1,16 @@
+{% assign current_date = 'now' %}
+{% assign months = 'january|february|march|april|may|june|july|august|september|october|november|december' | split: '|' %}
+{% assign m = current_date | date: '%-m' | minus: 1 %}
+{% assign day = current_date | date: '%d' %}
+{% assign year = current_date | date: '%Y' %}
+
+{% capture month %}{{ months[m] }}{% endcapture %}
+{% capture translated_month %}{{ site.data[site.active_lang].strings.months[include.format][month] }}{% endcapture %}
+
+{%- if site.active_lang == 'en' -%}
+    {{ translated_month }} {{ day }}, {{ year }}
+{%- elsif site.active_lang == 'ru' -%}
+    {{ day }} {{ translated_month }}, {{ year }}
+{%- else -%}
+    {{ day }} {{ translated_month }} {{ year }}
+{%- endif -%}
