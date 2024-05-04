@@ -10,7 +10,7 @@ layout: default
         {% assign image = site.images.repositories %}
     {% endcase %}
     <h1 class="post-title d-flex align-items-center align-content-baseline">
-      <img class="width-32 mr-2" src="{{ image | prepend: '/assets/img/' | relative_url }}" alt="">
+      <img class="width-32 mr-2" src="{{ image | prepend: '/assets/img/' | relative_url }}" alt="{{ page.title | capitalize }}">
       {{ page.title | capitalize }}
     </h1>
     <p class="post-description">{{ page.description }}</p>
