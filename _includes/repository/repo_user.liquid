@@ -1,14 +1,30 @@
-<div class="repo p-2 text-center">
+{% assign card_width_username = 485 %}
+{% assign card_width_top_langs = 400 %}
+
+<div class="d-flex gap-2 align-items-center align-content-baseline repo p-2 mx-auto">
   <a href="https://github.com/{{ include.username }}">
     <img
       class="repo-img-light w-100"
       alt="{{ include.username }}"
-      src="https://github-readme-stats.vercel.app/api/?username={{ include.username }}&theme={{ site.repo_theme_light }}&show_icons=true"
+      src="https://github-readme-stats.vercel.app/api/?username={{ include.username }}&theme={{ site.repo_theme_light }}&locale={{ site.active_lang }}&show_icons=true&card_width={{ card_width_username }}"
     >
     <img
       class="repo-img-dark w-100"
       alt="{{ include.username }}"
-      src="https://github-readme-stats.vercel.app/api/?username={{ include.username }}&theme={{ site.repo_theme_dark }}&show_icons=true"
+      src="https://github-readme-stats.vercel.app/api/?username={{ include.username }}&theme={{ site.repo_theme_dark }}&locale={{ site.active_lang }}&show_icons=true&card_width={{ card_width_username }}"
+    >
+  </a>
+
+  <a href="https://github.com/{{ include.username }}">
+    <img
+      class="repo-img-light w-100"
+      alt="{{ include.username }}"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username={{ include.username }}&theme={{ site.repo_theme_light }}&layout=compact&langs_count=10&locale={{ site.active_lang }}&card_width={{ card_width_top_langs }}"
+    >
+    <img
+      class="repo-img-dark w-100"
+      alt="{{ include.username }}"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username={{ include.username }}&theme={{ site.repo_theme_dark }}&layout=compact&langs_count=10&locale={{ site.active_lang }}&card_width={{ card_width_top_langs }}"
     >
   </a>
 </div>

@@ -49,6 +49,9 @@ footer:
       december: Дек.
   selected_publications: Избранные публикации
   contact_note: Лучше всего со мной можно связаться по электронной почте или в Telegram.
+repositories:
+  user: Пользователь GitHub
+  repositories: GitHub репозитории
 
 archive_category: um arquivo de postagens desta categoria
 archive_tag: um arquivo de postagens com este marcador

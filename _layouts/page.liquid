@@ -3,8 +3,14 @@ layout: default
 ---
 <div class="post">
   <header class="post-header">
+    {% case page.permalink %}
+      {% when '/publications/', 'else' %}
+        {% assign image = site.images.publications %}
+      {% when '/repositories/' %}
+        {% assign image = site.images.repositories %}
+    {% endcase %}
     <h1 class="post-title d-flex align-items-center align-content-baseline">
-      <img class="width-32 mr-2" src="{{ site.images.publications | prepend: '/assets/img/' | relative_url }}" alt="">
+      <img class="width-32 mr-2" src="{{ image | prepend: '/assets/img/' | relative_url }}" alt="">
       {{ page.title | capitalize }}
     </h1>
     <p class="post-description">{{ page.description }}</p>

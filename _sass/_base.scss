@@ -497,7 +497,7 @@ footer.sticky-bottom {
 
 @media (min-width: 768px) {
   .repo {
-    max-width: 50%;
+    max-width: 100%;
   }
 }
 
@@ -1129,4 +1129,12 @@ swiper-container {
 
 .lh-0 {
   line-height: 0;
+}
+
+.gap-2 {
+  gap: 2em;
+}
+
+.flex-33 {
+  flex: 0 0 33.333%;
 }

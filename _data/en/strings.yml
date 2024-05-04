@@ -49,6 +49,9 @@ footer:
       december: Dec
   selected_publications: Selected Publications
   contact_note: The best way to reach me is by email or telegram.
+repositories:
+  user: GitHub user
+  repositories: GitHub Repositories
 
 archive_category: an archive of posts in this category
 archive_tag: an archive of posts with this tag
