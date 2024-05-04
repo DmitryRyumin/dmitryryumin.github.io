@@ -1,0 +1,5 @@
+<div class="publications">
+
+{% bibliography %}
+
+</div>
