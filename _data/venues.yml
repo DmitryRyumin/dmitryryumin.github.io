@@ -10,9 +10,9 @@
   url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639
   color: "#14303E"
 
-"Interspeech":
+"INTERSPEECH":
   url: https://www.isca-speech.org/Interspeech
-  color: "#D9ECFF"
+  color: "#0C1C43"
 
 "ICASSP":
   url: https://ieeexplore.ieee.org/xpl/conhome/1000002/all-proceedings

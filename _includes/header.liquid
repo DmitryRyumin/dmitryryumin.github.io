@@ -7,17 +7,30 @@
           {% assign lang = site.active_lang %}
           {% assign title = site.data[lang].strings.about.title | trim %}
           {% if title == empty or title == '' or title == nil %}
-            {% if site.data[lang].strings.about.first_name %}
-              <span class="font-weight-bold">
-                {{- site.data[lang].strings.about.first_name -}}
-              </span>
-            {% endif %}
-            {% if site.data[lang].strings.about.middle_name %}
-              {{- site.data[lang].strings.about.middle_name -}}
-            {% endif %}
-            {% if site.data[lang].strings.about.last_name %}
-              {{- site.data[lang].strings.about.last_name -}}
-            {% endif %}
+            <span class="font-weight-bold">
+            {% case lang %}
+              {% when 'en', 'else' %}
+                {% if site.data[lang].strings.about.first_name %}
+                    {{- site.data[lang].strings.about.first_name -}}
+                {% endif %}
+                {% if site.data[lang].strings.about.middle_name %}
+                  {{- site.data[lang].strings.about.middle_name -}}
+                {% endif %}
+                {% if site.data[lang].strings.about.last_name %}
+                  {{- site.data[lang].strings.about.last_name -}}
+                {% endif %}
+              {% when 'ru' %}
+                {% if site.data[lang].strings.about.last_name %}
+                    {{- site.data[lang].strings.about.last_name -}}
+                {% endif %}
+                {% if site.data[lang].strings.about.first_name %}
+                  {{- site.data[lang].strings.about.first_name -}}
+                {% endif %}
+                {% if site.data[lang].strings.about.middle_name %}
+                  {{- site.data[lang].strings.about.middle_name -}}
+                {% endif %}
+            {% endcase %}
+            </span>
           {% else %}
             {{- title -}}
           {% endif %}
