@@ -5,7 +5,7 @@
 {% assign year = current_date | date: '%Y' %}
 
 {% capture month %}{{ months[m] }}{% endcapture %}
-{% capture translated_month %}{{ site.data[site.active_lang].strings.months[include.format][month] }}{% endcapture %}
+{% capture translated_month %}{{ site.data[site.active_lang].strings.footer.months[include.format][month] }}{% endcapture %}
 
 {%- if site.active_lang == 'en' -%}
     {{ translated_month }} {{ day }}, {{ year }}
