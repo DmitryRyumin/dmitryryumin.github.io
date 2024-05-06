@@ -242,6 +242,10 @@
         <img src="https://img.shields.io/badge/Neural%20Networks-1-1E3887?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <br />
+    <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/NLP.pdf">
+        <img src="https://img.shields.io/badge/Natural%20Language%20Processing%20Journal-1-0F7C80?&style=flat-square" alt="Reviewing Badge" />
+    </a>
+    <br />
     <a href="https://orcid.org/0000-0002-7935-0569">
         <img src="https://img.shields.io/badge/IEEE%20Transactions%20on%20Circuits%20and%20Systems%20for%20Video%20Technology-1-14303E?&style=flat-square" alt="Reviewing Badge" />
     </a>
