@@ -21,6 +21,7 @@ images:
   selected_papers: selected_papers.svg
   publications: publications.svg
   repositories: repositories.svg
+  cv: cv.svg
 
 url: https://dmitryryumin.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root

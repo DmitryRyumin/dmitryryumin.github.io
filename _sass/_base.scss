@@ -1174,6 +1174,10 @@ html[data-theme-setting=dark] #light-toggle-light {
     margin-top: 3rem;
 }
 
+div.container > div.row > div > div.post > header.post-header > h1 > a.float-right {
+  margin-left: auto;
+}
+
 @media (max-width: 1600px) {
 
 }
