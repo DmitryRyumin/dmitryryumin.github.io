@@ -3,7 +3,7 @@ version: "3"
 services:
   jekyll:
     image: dmitryryumin/dmitryryumin.github.io:slim
-    build: .
+    # build: .
     ports:
       - 8080:8080
       - 35729:35729
