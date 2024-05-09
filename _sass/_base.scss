@@ -1186,6 +1186,33 @@ html[data-theme-setting=dark] #light-toggle-light {
 
 }
 
+@media (max-width: 1280px) {
+
+}
+
+@media (max-width: 1200px) {
+
+}
+
+@media (max-width: 1152px) {
+
+}
+
+@media (max-width: 1100px) {
+  .publications h2.bibliography {
+    margin-bottom: 0.5rem;
+    text-align: center;
+  }
+}
+
+@media (max-width: 1080px) {
+
+}
+
+@media (max-width: 1024px) {
+
+}
+
 @media (max-width: 960px) {
   div.clearfix > p > img.readme-typing-svg {
     max-width: 70vw;
@@ -1242,13 +1269,52 @@ html[data-theme-setting=dark] #light-toggle-light {
   div.container > div.post > article > div.profile > figure {
     max-width: 100vw;
   }
+
+  html[data-theme-setting=system] #light-toggle-system,
+  html[data-theme-setting=light] #light-toggle-light,
+  html[data-theme-setting=dark] #light-toggle-dark {
+    padding-left: 0px;
+  }
+
+  .publications h2.bibliography {
+    margin-bottom: 0.5rem;
+  }
+
+  div.repositories > div.flex-clmn {
+    flex-direction:column;
+    gap: 0.7rem;
+  }
+
+  header > nav#navbar > div.container > a.title.lang-ru {
+    font-size: 1.20rem;
+  }
+}
+
+@media (max-width: 540px) {
+  header > nav#navbar > div.container > a.title.lang-ru {
+    font-size: 1.15rem;
+  }
+}
+
+@media (max-width: 480px) {
+  header > nav#navbar > div.container > a.title.lang-ru {
+    font-size: 0.9rem;
+  }
 }
 
 @media (max-width: 414px) {
-
+  header > nav#navbar > div.container > a.title.lang-ru {
+    font-size: 0.7rem;
+  }
 }
 
 @media (max-width: 360px) {
+  header > nav#navbar > div.container > a.title.lang-ru {
+    font-size: 0.5rem;
+  }
 
+  header > nav#navbar > div.container > a.title.lang-en {
+    font-size: 1rem;
+  }
 }
 
