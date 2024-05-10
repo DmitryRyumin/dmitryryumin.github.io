@@ -5,28 +5,26 @@
       value: Dr. Dmitry Ryumin
     - name: Date of Birth
       value: 10th September 1991
+    - name: Email
+      value: <a href="mailto:neweraairesearch@gmail.com">neweraairesearch@gmail.com</a>
     - name: Languages
       value: English, Russian
 
-# - title: Education
-#   type: time_table
-#   contents:
-#     - title: PhD
-#       institution: University of Zurich, Zurich, Switzerland
-#       year: 1905
-#       description:
-#         - Description 1.
-#         - Description 2.
-#         - title: Description 3.
-#           contents:
-#             - Sub-description 1.
-#             - Sub-description 2.
-#     - title: Federal teaching diploma
-#       institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-#       year: 1900
-#       description:
-#         - Description 1.
-#         - Description 2.
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD
+      institution: ITMO University, St. Petersburg, Russia
+      year: 2020
+      description:
+        - title: PhD in Engineering
+          contents:
+            - Thesis&#58; Models and Methods for Automatic Recognition of Russian Sign Language Elements for Human-Machine Interaction, Supervised by <em><a href="https://scholar.google.com/citations?user=Q0C3f1oAAAAJ&hl=en" target="_blank">Prof. A. Karpov</a></em>
+    - title: MSc
+      institution: ITMO University, St. Petersburg, Russia
+      year: 2016
+      description:
+        - MSc in Computer Science
 
 # - title: Experience
 #   type: time_table

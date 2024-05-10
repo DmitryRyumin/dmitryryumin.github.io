@@ -5,8 +5,25 @@
       value: Рюмин Дмитрий Александрович
     - name: Дата рождения
       value: 10 сентября 1991 года
+    - name: Электронная почта
+      value: <a href="mailto:neweraairesearch@gmail.com">neweraairesearch@gmail.com</a>
     - name: Языки
       value: Русский, Английский
+- title: Образование
+  type: time_table
+  contents:
+    - title: к.т.н.
+      institution: Университет ИТМО, г. Санкт-Петербург, Россия
+      year: 2020
+      description:
+        - title: кандидат технических наук
+          contents:
+            - Диссертация&#58; "Модели и методы автоматического распознавания элементов русского жестового языка для человеко-машинного взаимодействия", научный руководитель&#58; <em><a href="https://scholar.google.com/citations?user=Q0C3f1oAAAAJ&hl=en" target="_blank">доктор технических наук, профессор А.А. Карпов</a></em>
+    - title: магистр
+      institution: Университет ИТМО, г. Санкт-Петербург, Россия
+      year: 2016
+      description:
+        - информационные системы и технологии
 
 # - title: Education
 #   type: time_table
