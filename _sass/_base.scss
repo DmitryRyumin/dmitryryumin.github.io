@@ -1214,7 +1214,9 @@ div.container > div.row > div > div.post > header.post-header > h1 > a.float-rig
 }
 
 @media (max-width: 1024px) {
-
+  #back-to-top {
+    bottom: 60px !important;
+  }
 }
 
 @media (max-width: 960px) {
@@ -1298,6 +1300,10 @@ div.container > div.row > div > div.post > header.post-header > h1 > a.float-rig
   header > nav#navbar > div.container > a.title.lang-ru {
     font-size: 1.15rem;
   }
+
+  #back-to-top {
+    bottom: 80px !important;
+  }
 }
 
 @media (max-width: 480px) {
@@ -1310,6 +1316,10 @@ div.container > div.row > div > div.post > header.post-header > h1 > a.float-rig
   header > nav#navbar > div.container > a.title.lang-ru {
     font-size: 0.7rem;
   }
+
+  #back-to-top {
+    bottom: 95px !important;
+  }
 }
 
 @media (max-width: 360px) {
@@ -1319,6 +1329,10 @@ div.container > div.row > div > div.post > header.post-header > h1 > a.float-rig
 
   header > nav#navbar > div.container > a.title.lang-en {
     font-size: 1rem;
+  }
+
+  #back-to-top {
+    bottom: 115px !important;
   }
 }
 
