@@ -365,7 +365,8 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
-#light-toggle {
+#light-toggle,
+#search-toggle {
   padding: 0;
   border: 0;
   background-color: inherit;
@@ -374,6 +375,12 @@ ul.task-list input[type="checkbox"] {
   &:hover {
     color: var(--global-hover-color);
   }
+}
+
+#search-toggle > span.nav-link {
+  display: flex;
+  align-items:center;
+  gap: 3px;
 }
 
 // Social (bottom)
@@ -1176,6 +1183,19 @@ html[data-theme-setting=dark] #light-toggle-light {
 
 div.container > div.row > div > div.post > header.post-header > h1 > a.float-right {
   margin-left: auto;
+}
+
+// Ninja Keys
+// for more options, check https://github.com/ssleptsov/ninja-keys?tab=readme-ov-file#css-variables
+ninja-keys {
+  --ninja-accent-color: var(--global-theme-color);
+  --ninja-icon-size: 0px;
+  --ninja-modal-background: var(--global-bg-color);
+  --ninja-z-index: 1031;
+}
+
+ninja-keys::part(ninja-input-wrapper) {
+  background: var(--global-bg-color);
 }
 
 @media (max-width: 1600px) {

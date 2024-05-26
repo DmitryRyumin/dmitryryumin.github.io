@@ -14,6 +14,9 @@ about:
     journals: Journal Reviewing
     conferences: Conference Reviewing
     reviewing_badge: Reviewing Badge
+header:
+  search_title: Search
+  theme_title: Change theme
 footer:
   site_copyright: Copyright
   text: >
@@ -52,6 +55,23 @@ footer:
 repositories:
   user: GitHub user
   repositories: GitHub Repositories
+search:
+  placeholder: Type to start searching
+  theme: Theme
+  system_theme:
+    description: Change the theme of the site to System Default
+    title: Use system default theme
+  dark_theme:
+    description: Change the theme of the site to Dark
+    title: Change theme to dark
+  light_theme:
+    description: Change the theme of the site to Light
+    title: Change theme to light
+  email: Send an email
+  languages: Languages
+  navigation: Navigation menu
+  posts: Posts
+  socials: Socials
 
 archive_category: an archive of posts in this category
 archive_tag: an archive of posts with this tag

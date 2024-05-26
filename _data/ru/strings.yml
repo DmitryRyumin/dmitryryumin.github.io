@@ -14,6 +14,9 @@ about:
     journals: Рецензент международных журналов
     conferences: Рецензент международных конференций
     reviewing_badge: Сертификат рецензента
+header:
+  search_title: Поиск
+  theme_title: Изменить тему
 footer:
   site_copyright: Авторское право
   text: >
@@ -52,6 +55,23 @@ footer:
 repositories:
   user: Пользователь GitHub
   repositories: GitHub репозитории
+search:
+  placeholder: Введите текст, чтобы начать поиск
+  theme: Темы
+  system_theme:
+    description: Изменить тему сайта на "по умолчанию"
+    title: Использовать системную тему по умолчанию
+  dark_theme:
+    description: Изменить тему на сайте на темную
+    title: Изменить тему на темную
+  light_theme:
+    description: Изменить тему на сайте на светлую
+    title: Изменить тему на светлую
+  email: Отправить электронное сообщение
+  languages: Языки
+  navigation: Меню навигации
+  posts: Заметки
+  socials: Социальные сети
 
 archive_category: um arquivo de postagens desta categoria
 archive_tag: um arquivo de postagens com este marcador
