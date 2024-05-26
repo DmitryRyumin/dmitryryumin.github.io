@@ -70,6 +70,9 @@ search:
     title: Изменить тему на светлую
   email: Отправить электронное сообщение
   languages: Языки
+  languages_list:
+    en: Русский
+    ru: Английский
   navigation: Меню навигации
   posts: Заметки
   socials: Социальные сети
