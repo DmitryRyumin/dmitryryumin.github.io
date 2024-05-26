@@ -266,6 +266,9 @@
     <a href="https://interspeech2024.org/">
         <img src="http://img.shields.io/badge/INTERSPEECH-2024-0C1C43.svg?&style=flat-square" alt="INTERSPEECH">
     </a>
+    <a href="https://specom2024.ftn.uns.ac.rs/">
+        <img src="http://img.shields.io/badge/SPECOM-2023%E2%80%9324-FDD944.svg?&style=flat-square" alt="SPECOM">
+    </a>
 </p>
 
 <br />
