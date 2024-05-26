@@ -1,3 +1,4 @@
+site_description: Dr. Dmitry Ryumin - Professional Profile. Explore his expertise, background, and contributions to the scientific community.
 about:
   title:
   first_name: Dr. Dmitry
@@ -150,4 +151,3 @@ references: References
 related_posts:
   description: "Here are some more articles you might like to read next:"
   title: Enjoy Reading This Article?
-site_description: A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
