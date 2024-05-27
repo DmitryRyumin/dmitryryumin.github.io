@@ -1199,7 +1199,7 @@ ninja-keys::part(ninja-input-wrapper) {
 }
 
 img.not-found-404 {
-  max-width: 500px;
+  width: 500px;
   display: block;
   margin: 0px auto;
 }
@@ -1330,11 +1330,19 @@ img.not-found-404 {
   #back-to-top {
     bottom: 80px !important;
   }
+
+  img.not-found-404 {
+    width: 480px;
+  }
 }
 
 @media (max-width: 480px) {
   header > nav#navbar > div.container > a.title.lang-ru {
     font-size: 0.9rem;
+  }
+
+  img.not-found-404 {
+    width: 460px;
   }
 }
 
@@ -1345,6 +1353,10 @@ img.not-found-404 {
 
   #back-to-top {
     bottom: 95px !important;
+  }
+
+  img.not-found-404 {
+    width: 390px;
   }
 }
 
@@ -1359,6 +1371,10 @@ img.not-found-404 {
 
   #back-to-top {
     bottom: 115px !important;
+  }
+
+  img.not-found-404 {
+    width: 340px;
   }
 }
 
