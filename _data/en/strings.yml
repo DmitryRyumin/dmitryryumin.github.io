@@ -76,12 +76,14 @@ search:
   navigation: Navigation menu
   posts: Posts
   socials: Socials
+latest_posts: Latest posts
+blog:
+  navigation_title: blog
+not_found: 404
 
 archive_category: an archive of posts in this category
 archive_tag: an archive of posts with this tag
 archive_year: an archive of posts from this year
-blog:
-  navigation_title: blog
 categories:
   fun: fun
   work: work
@@ -139,7 +141,6 @@ cv:
   username: Username
   volunteer: Volunteer
   work: Work
-latest_posts: latest posts
 news: news
 no_news: No news so far...
 pagination:

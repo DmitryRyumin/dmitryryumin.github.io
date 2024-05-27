@@ -518,7 +518,7 @@ footer.sticky-bottom {
 
   h1 {
     color: var(--global-theme-color);
-    font-size: 5rem;
+    font-size: 4rem;
   }
 }
 
@@ -1196,6 +1196,12 @@ ninja-keys {
 
 ninja-keys::part(ninja-input-wrapper) {
   background: var(--global-bg-color);
+}
+
+img.not-found-404 {
+  max-width: 500px;
+  display: block;
+  margin: 0px auto;
 }
 
 @media (max-width: 1600px) {

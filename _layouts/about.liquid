@@ -53,8 +53,9 @@ layout: default
 
     <!-- Latest posts -->
     {% if site.latest_posts.enabled %}
-      <h2>
-        <a href="{{ '/blog/' | relative_url }}" style="color: inherit">{{ site.data[site.active_lang].strings.latest_posts }}</a>
+      <h2 class="d-flex align-items-center align-content-baseline">
+        <img class="width-32 mr-2" src="{{ site.images.selected_posts | prepend: '/assets/img/' | relative_url }}">
+        <a class="height-32" href="{{ '/blog/' | relative_url }}" style="color: inherit">{{ site.data[site.active_lang].strings.latest_posts }}</a>
       </h2>
       {% include latest_posts.liquid %}
     {% endif %}

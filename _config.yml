@@ -18,10 +18,13 @@ icon: favicon.ico # the emoji used as the favicon (alternatively, provide image 
 images:
   profile: DmitryRyumin.jpg
   community_services: community_services.svg
+  selected_posts: selected_posts.svg
   selected_papers: selected_papers.svg
   publications: publications.svg
   repositories: repositories.svg
   cv: cv.svg
+  not_found: not_found.svg
+  not_found_icon: not_found_icon.svg
 
 url: https://dmitryryumin.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
@@ -194,7 +197,7 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: false
+  enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 
@@ -293,8 +296,8 @@ jekyll-archives:
     tag: "/blog/tag/:name/"
     category: "/blog/category/:name/"
 
-display_tags: ["formatting", "images", "links", "math", "code"] # these tags will be displayed on the front page of your blog
-display_categories: ["blockquotes"] # these categories will be displayed on the front page of your blog
+display_tags: ["IntroToDL"] # these tags will be displayed on the front page of your blog
+display_categories: [] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar

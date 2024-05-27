@@ -76,12 +76,14 @@ search:
   navigation: Меню навигации
   posts: Заметки
   socials: Социальные сети
+latest_posts: Последние заметки
+blog:
+  navigation_title: блог
+not_found: 404
 
 archive_category: um arquivo de postagens desta categoria
 archive_tag: um arquivo de postagens com este marcador
 archive_year: um arquivo de postagens deste ano
-blog:
-  navigation_title: blog
 categories:
   fun: diversão
   work: trabalho
@@ -139,7 +141,6 @@ cv:
   username: Usuário
   volunteer: Voluntário
   work: Trabalho
-latest_posts: últimas postagens
 news: novidades
 no_news: Nenhuma novidade no momento...
 pagination:

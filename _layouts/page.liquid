@@ -4,10 +4,12 @@ layout: default
 <div class="post">
   <header class="post-header">
     {% case page.permalink %}
-      {% when '/publications/', 'else' %}
+      {% when '/publications/' %}
         {% assign image = site.images.publications %}
       {% when '/repositories/' %}
         {% assign image = site.images.repositories %}
+      {% when '404' %}
+        {% assign image = site.images.not_found_icon %}
     {% endcase %}
     <h1 class="post-title d-flex align-items-center align-content-baseline">
       <img class="width-32 mr-2" src="{{ image | prepend: '/assets/img/' | relative_url }}" alt="{{ page.title | capitalize }}">
@@ -21,7 +23,7 @@ layout: default
   </article>
 
   {% if page.related_publications %}
-    <h2>References</h2>
+    <h2>{{ site.data[site.active_lang].strings.references }}</h2>
     <div class="publications">
       {% bibliography --cited_in_order %}
     </div>

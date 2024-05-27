@@ -1,8 +1,11 @@
 ---
+page_id: blog
 layout: default
 permalink: /blog/
-title: blog
-nav: false
+title: блог
+blog_name: Новая Эра Эй Ай
+description: Последние тренды, идеи и инновации в ИИ и МО
+nav: true
 nav_order: 1
 pagination:
   enabled: true
@@ -18,14 +21,14 @@ pagination:
 
 <div class="post">
 
-{% assign blog_name_size = site.blog_name | size %}
-{% assign blog_description_size = site.blog_description | size %}
+{% assign blog_name_size = page.blog_name | size %}
+{% assign blog_description_size = page.description | size %}
 
 {% if blog_name_size > 0 or blog_description_size > 0 %}
 
   <div class="header-bar">
-    <h1>{{ site.blog_name }}</h1>
-    <h2>{{ site.blog_description }}</h2>
+    <h1>{{ page.blog_name }}</h1>
+    <h2>{{ page.description }}</h2>
   </div>
   {% endif %}
 
@@ -64,7 +67,7 @@ pagination:
 {% assign is_even = featured_posts.size | modulo: 2 %}
 <div class="row row-cols-{% if featured_posts.size <= 2 or is_even == 0 %}2{% else %}3{% endif %}">
 {% for post in featured_posts %}
-<div class="card-item col">
+<div class="col mb-4">
 <a href="{{ post.url | relative_url }}">
 <div class="card hoverable">
 <div class="row g-0">
@@ -84,7 +87,7 @@ pagination:
                     {% assign year = post.date | date: "%Y" %}
 
                     <p class="post-meta">
-                      {{ read_time }} min read &nbsp; &middot; &nbsp;
+                      Leitura de {{ read_time }} min &nbsp; &middot; &nbsp;
                       <a href="{{ year | prepend: '/blog/' | prepend: site.baseurl}}">
                         <i class="fa-solid fa-calendar fa-sm"></i> {{ year }} </a>
                     </p>
@@ -141,8 +144,8 @@ pagination:
       </h3>
       <p>{{ post.description }}</p>
       <p class="post-meta">
-        {{ read_time }} min read &nbsp; &middot; &nbsp;
-        {{ post.date | date: '%B %d, %Y' }}
+        Leitura de {{ read_time }} min &nbsp; &middot; &nbsp;
+        {% include date_format.liquid format="long" date=post.date %}
         {% if post.external_source %}
         &nbsp; &middot; &nbsp; {{ post.external_source }}
         {% endif %}
@@ -173,7 +176,7 @@ pagination:
 </div>
 
   <div class="col-sm-3">
-    <img class="card-img" src="{{post.thumbnail | relative_url}}" style="object-fit: cover; height: 90%" alt="image">
+    <img class="card-img" src="{{ post.thumbnail | relative_url }}" style="object-fit: cover; height: 90%" alt="image">
   </div>
 </div>
 {% endif %}

@@ -70,5 +70,32 @@
     {% include scripts/imageLayouts.liquid %}
     {% include scripts/back_to_top.liquid %}
     {% include scripts/search.liquid %}
+
+    <script>
+      // Wait for the DOM content to be fully loaded
+      document.addEventListener('DOMContentLoaded', function() {
+        // Get the current path
+        var path = window.location.pathname;
+        // Extract the language from the path
+        var lang = path.split('/')[1];
+        var not_found = path.split('/')[2];
+
+        // Check if the page title is 'Page not found'
+        var pageTitleElement = document.querySelector('.post-title');
+        
+        if (pageTitleElement && pageTitleElement.textContent.trim() === 'Page not found') {
+          // Page title matches 'Page not found'
+          if (lang === 'ru') {
+            // Redirect to /ru/404 if language is Russian
+            window.location.href = '/ru/404';
+          } else {
+            if (not_found !== '404') {
+              // Redirect to /en/404 if language is English
+              window.location.href = '/en/404';
+            }
+          }
+        }
+      });
+    </script>
   </body>
 </html>
