@@ -525,7 +525,7 @@ footer.sticky-bottom {
 .tag-category-list {
   border-bottom: 1px solid var(--global-divider-color);
   text-align: center;
-  padding-top: 1rem;
+  // padding-top: 1rem;
 
   ul {
     justify-content: center;
@@ -1202,6 +1202,10 @@ img.not-found-404 {
   width: 500px;
   display: block;
   margin: 0px auto;
+}
+
+p.d_none {
+  display: none;
 }
 
 @media (max-width: 1600px) {
