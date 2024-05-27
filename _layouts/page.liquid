@@ -3,6 +3,7 @@ layout: default
 ---
 <div class="post">
   <header class="post-header">
+    {% assign not_found_404 = '' %}
     {% case page.permalink %}
       {% when '/publications/' %}
         {% assign image = site.images.publications %}
@@ -10,8 +11,9 @@ layout: default
         {% assign image = site.images.repositories %}
       {% when '404' %}
         {% assign image = site.images.not_found_icon %}
+        {% assign not_found_404 = 'not_found_404' %}
     {% endcase %}
-    <h1 class="post-title d-flex align-items-center align-content-baseline">
+    <h1 class="post-title d-flex align-items-center align-content-baseline {{ not_found_404 }}">
       <img class="width-32 mr-2" src="{{ image | prepend: '/assets/img/' | relative_url }}" alt="{{ page.title | capitalize }}">
       {{ page.title | capitalize }}
     </h1>

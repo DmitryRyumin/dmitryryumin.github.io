@@ -1334,6 +1334,10 @@ img.not-found-404 {
   img.not-found-404 {
     width: 480px;
   }
+
+  h1.not_found_404 {
+    font-size: 2.0rem;
+  }
 }
 
 @media (max-width: 480px) {
@@ -1358,6 +1362,10 @@ img.not-found-404 {
   img.not-found-404 {
     width: 390px;
   }
+
+  h1.not_found_404 {
+    font-size: 1.5rem;
+  }
 }
 
 @media (max-width: 360px) {
@@ -1375,6 +1383,10 @@ img.not-found-404 {
 
   img.not-found-404 {
     width: 340px;
+  }
+
+  h1.not_found_404 {
+    font-size: 1.2rem;
   }
 }
 
