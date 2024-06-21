@@ -29,3 +29,7 @@
 "LREC":
   url: https://aclanthology.org/venues/lrec/
   color: "#81026E"
+
+"CVPRW":
+  url: https://cvpr.thecvf.com/
+  color: "#1C427D"

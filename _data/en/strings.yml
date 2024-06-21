@@ -80,10 +80,15 @@ latest_posts: Latest posts
 blog:
   navigation_title: blog
 not_found: 404
+archive_year: An archive of posts from this year
+archive_category: An archive of posts in this category
+archive_tag: An archive of posts with this tag
+post:
+  created_in: Published on
+  created_by: by
+  last_updated: last updated in
 
-archive_category: an archive of posts in this category
-archive_tag: an archive of posts with this tag
-archive_year: an archive of posts from this year
+
 categories:
   fun: fun
   work: work
@@ -147,10 +152,6 @@ pagination:
   newer: Newer
   older: Older
   page: page
-post:
-  created_in: Created in
-  created_by: by
-  last_updated: last updated in
 references: References
 related_posts:
   description: "Here are some more articles you might like to read next:"

@@ -26,7 +26,7 @@ footer:
   site_last_updated: Последнее обновление
   months:
     long:
-      january:  Января
+      january: Января
       february: Февраля
       march: Марта
       april: Апреля
@@ -43,7 +43,7 @@ footer:
       february: Февр.
       march: Мар.
       april: Апр.
-      may: Май
+      may: Мая
       june: Июн.
       july: Июл.
       august: Авг.
@@ -80,10 +80,14 @@ latest_posts: Последние заметки
 blog:
   navigation_title: блог
 not_found: 404
+archive_year: Архив заметок за этот год
+archive_category: Архив заметок в этой категории
+archive_tag: Архив заметок с этим тегом
+post:
+  created_in: Опубликовано
+  created_by: автор
+  last_updated: обновлено в
 
-archive_category: um arquivo de postagens desta categoria
-archive_tag: um arquivo de postagens com este marcador
-archive_year: um arquivo de postagens deste ano
 categories:
   fun: diversão
   work: trabalho
@@ -147,10 +151,6 @@ pagination:
   newer: Recentes
   older: Antigas
   page: página
-post:
-  created_in: Criado em
-  created_by: por
-  last_updated: última atualização em
 references: Referências
 related_posts:
   description: "Aqui estão alguns artigos relacionados que você pode gostar de ler:"
