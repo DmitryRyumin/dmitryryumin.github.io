@@ -86,7 +86,7 @@ archive_tag: Архив заметок с этим тегом
 post:
   created_in: Опубликовано
   created_by: автор
-  last_updated: обновлено в
+  last_updated: обновлено
 
 categories:
   fun: diversão

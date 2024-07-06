@@ -302,8 +302,8 @@ jekyll-archives:
     tag: "/blog/tag/:name/"
     category: "/blog/category/:name/"
 
-display_tags: ["intro-to-dl"] # these tags will be displayed on the front page of your blog
-display_categories: [deep-learning] # these categories will be displayed on the front page of your blog
+display_tags: ["Intro-to-DL"] # these tags will be displayed on the front page of your blog
+display_categories: [Deep-Learning] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar

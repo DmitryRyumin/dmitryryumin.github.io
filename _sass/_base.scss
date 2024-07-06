@@ -4,6 +4,10 @@
 
 // Typography
 
+h1, h2, h3, h4, h5, h6 {
+  margin-top: .5rem;
+}
+
 p,
 h1,
 h2,
@@ -1257,6 +1261,30 @@ p.d_none {
 
 p.margin-0 {
   margin: 0px !important;
+}
+
+.px768 {
+  max-width: 768px;
+  height: auto;
+}
+
+.px640 {
+  max-width: 640px;
+  height: auto;
+}
+
+.px480 {
+  max-width: 480px;
+  height: auto;
+}
+
+.px360 {
+  max-width: 360px;
+  height: auto;
+}
+
+.gap-10px {
+  gap: 10px;
 }
 
 @media (max-width: 1600px) {
