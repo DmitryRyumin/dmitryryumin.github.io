@@ -87,6 +87,8 @@ post:
   created_in: Опубликовано
   created_by: автор
   last_updated: обновлено
+publications:
+  filter: Введите текст, чтобы начать фильтр
 
 categories:
   fun: diversão

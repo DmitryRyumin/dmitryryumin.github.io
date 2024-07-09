@@ -1,3 +1,7 @@
+{% if site.search_enabled %}
+<input type="text" id="bibsearch" spellcheck="false" autocomplete="off" class="search bibsearch-form-input" placeholder="{{ site.data[site.active_lang].strings.publications.filter }}">
+{% endif %}
+
 <div class="publications">
 
 {% bibliography %}

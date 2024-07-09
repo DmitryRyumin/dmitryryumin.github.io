@@ -181,3 +181,4 @@ assets/libs/
 node_modules/
 vendor
 assets/jupyter/requirements.txt
+assets/jupyter/data/
