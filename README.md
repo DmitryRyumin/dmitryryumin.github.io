@@ -216,6 +216,10 @@
         <img src="https://img.shields.io/badge/Pattern%20Recognition%20Letters-3-000000?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <br />
+    <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/NN.pdf">
+        <img src="https://img.shields.io/badge/Neural%20Networks-3-1E3887?&style=flat-square" alt="Reviewing Badge" />
+    </a>
+    <br />
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/IJCCE.pdf">
         <img src="https://img.shields.io/badge/International%20Journal%20of%20Cognitive%20Computing%20in%20Engineering-3-6BAFCC?&style=flat-square" alt="Reviewing Badge" />
     </a>
@@ -238,10 +242,6 @@
     <br />
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/SPECOM.pdf">
         <img src="https://img.shields.io/badge/Speech%20Communication-2-DF1E25?&style=flat-square" alt="Reviewing Badge" />
-    </a>
-    <br />
-    <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/NN.pdf">
-        <img src="https://img.shields.io/badge/Neural%20Networks-2-1E3887?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <br />
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/DIB.pdf">
