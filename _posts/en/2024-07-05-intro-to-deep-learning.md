@@ -8,7 +8,7 @@ categories: Deep-Learning
 author: Dmitry Ryumin
 last_updated: 2024-07-06
 # toc:
-#   - name: What is Deep Learning?
+#   - name:
 # _styles: >
 ---
 

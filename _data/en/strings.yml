@@ -89,6 +89,9 @@ post:
   last_updated: last updated in
 publications:
   filter: Type to start filtering
+related_posts:
+  description: "Here are some more articles you might like to read next:"
+  title: Enjoy Reading This Article?
 
 
 categories:
@@ -155,6 +158,3 @@ pagination:
   older: Older
   page: page
 references: References
-related_posts:
-  description: "Here are some more articles you might like to read next:"
-  title: Enjoy Reading This Article?

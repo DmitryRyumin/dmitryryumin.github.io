@@ -89,6 +89,9 @@ post:
   last_updated: обновлено
 publications:
   filter: Введите текст, чтобы начать фильтр
+related_posts:
+  description: "Вот еще несколько заметок, которые, возможно, захотите прочитать дальше:"
+  title: Понравилась заметка?
 
 categories:
   fun: diversão
@@ -154,6 +157,3 @@ pagination:
   older: Antigas
   page: página
 references: Referências
-related_posts:
-  description: "Aqui estão alguns artigos relacionados que você pode gostar de ler:"
-  title: Gostou de Ler este Artigo?

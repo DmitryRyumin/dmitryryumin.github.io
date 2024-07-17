@@ -142,7 +142,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # blog_name: New Era AI # blog_name will be displayed in your blog page
 # blog_description: A personal blog about AI, science, coding, and tech
 permalink: /blog/:year/:title/
-lsi: true # produce an index for related posts
+lsi: false # produce an index for related posts
 
 # Pagination
 pagination:

@@ -8,7 +8,7 @@ categories: Deep-Learning
 author: Дмитрий Рюмин
 last_updated: 2024-07-06
 # toc:
-#   - name: Что такое глубокое машинное обучение?
+#   - name:
 # _styles: >
 ---
 
