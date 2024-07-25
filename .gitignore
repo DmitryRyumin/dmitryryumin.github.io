@@ -184,3 +184,4 @@ assets/jupyter/requirements.txt
 assets/jupyter/data/
 assets/jupyter/fonts/
 assets/jupyter/runs/
+assets/jupyter/models/
