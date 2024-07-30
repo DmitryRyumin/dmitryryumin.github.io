@@ -264,6 +264,10 @@
         <img src="https://img.shields.io/badge/Computer%20Speech%20and%20Language-1-227CC0?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <br />
+    <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/KNOSYS.pdf">
+        <img src="https://img.shields.io/badge/Knowledge--Based%20Systems-1-EFE30E?&style=flat-square" alt="Reviewing Badge" />
+    </a>
+    <br />
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/MEASUR.pdf">
         <img src="https://img.shields.io/badge/Measurement-1-545CA8?&style=flat-square" alt="Reviewing Badge" />
     </a>
