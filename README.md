@@ -216,16 +216,16 @@
         <img src="https://img.shields.io/badge/Neural%20Networks-4-1E3887?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <br />
+    <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/IJCCE.pdf">
+        <img src="https://img.shields.io/badge/International%20Journal%20of%20Cognitive%20Computing%20in%20Engineering-4-6BAFCC?&style=flat-square" alt="Reviewing Badge" />
+    </a>
+    <br />
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/PATREC.pdf">
         <img src="https://img.shields.io/badge/Pattern%20Recognition%20Letters-3-000000?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <br />
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/KNOSYS.pdf">
         <img src="https://img.shields.io/badge/Knowledge--Based%20Systems-3-EFE30E?&style=flat-square" alt="Reviewing Badge" />
-    </a>
-    <br />
-    <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/IJCCE.pdf">
-        <img src="https://img.shields.io/badge/International%20Journal%20of%20Cognitive%20Computing%20in%20Engineering-3-6BAFCC?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <br />
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/ISWA.pdf">
