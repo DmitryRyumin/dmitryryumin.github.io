@@ -6,7 +6,7 @@ description: Краткое руководство по основам библ�
 tags: Intro-to-Datasets Intro-to-DL Transforms-Image Load-Dataset-Builder Load-Dataset Get-Dataset-Split-Names Get-Dataset-Config-Names DatasetInfo
 categories: Deep-Learning
 author: Дмитрий Рюмин
-last_updated: 2024-07-17
+last_updated: 2024-09-24
 # toc:
 #   - name: 
 # _styles: >

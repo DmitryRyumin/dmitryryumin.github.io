@@ -6,7 +6,7 @@ description: A concise guide to the fundamentals of deep learning
 tags: Intro-to-DL Perceptron Activation-Functions ReLU ELU PReLU LeakyReLU ReLU6 RReLU SELU CELU GELU Sigmoid SiLU LogSigmoid Hardsigmoid Tanh Tanhshrink Hardtanh Hardshrink Hardswish Mish Softplus Softshrink Softsign Threshold GLU MultiheadAttention Dense-Layer Single-Layer Hidden-Layer Deep-Neural-Network Loss-Functions L1Loss MSELoss PoissonNLLLoss GaussianNLLLoss KLDivLoss CrossEntropyLoss NLLLoss BCELoss BCEWithLogitsLoss MarginRankingLoss Regression Classification Ranking Optimization-Algorithms
 categories: Deep-Learning
 author: Dmitry Ryumin
-last_updated: 2024-07-06
+last_updated: 2024-09-24
 # toc:
 #   - name:
 # _styles: >
