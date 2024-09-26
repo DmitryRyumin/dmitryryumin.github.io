@@ -272,6 +272,10 @@
         <img src="https://img.shields.io/badge/Measurement-2-545CA8?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <br />
+    <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/CAEE.pdf">
+        <img src="https://img.shields.io/badge/Computers%20and%20Electrical%20Engineering-1-EFE30E?&style=flat-square" alt="Reviewing Badge" />
+    </a>
+    <br />
     <a href="https://www.webofscience.com/wos/author/record/K-7989-2018">
         <img src="https://img.shields.io/badge/IEEE%20Transactions%20on%20Circuits%20and%20Systems%20for%20Video%20Technology-1-14303E?&style=flat-square" alt="Reviewing Badge" />
     </a>
