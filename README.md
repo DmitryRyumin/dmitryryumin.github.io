@@ -212,6 +212,10 @@
         <img src="https://img.shields.io/badge/Pattern%20Recognition-7-E87324?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <br />
+    <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/KNOSYS.pdf">
+        <img src="https://img.shields.io/badge/Knowledge--Based%20Systems-5-EFE30E?&style=flat-square" alt="Reviewing Badge" />
+    </a>
+    <br />
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/NN.pdf">
         <img src="https://img.shields.io/badge/Neural%20Networks-4-1E3887?&style=flat-square" alt="Reviewing Badge" />
     </a>
@@ -222,10 +226,6 @@
     <br />
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/PATREC.pdf">
         <img src="https://img.shields.io/badge/Pattern%20Recognition%20Letters-4-000000?&style=flat-square" alt="Reviewing Badge" />
-    </a>
-    <br />
-    <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/KNOSYS.pdf">
-        <img src="https://img.shields.io/badge/Knowledge--Based%20Systems-4-EFE30E?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <br />
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/EAAI.pdf">
