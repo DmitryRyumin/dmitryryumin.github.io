@@ -273,7 +273,7 @@
     </a>
     <br />
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/CAEE.pdf">
-        <img src="https://img.shields.io/badge/Computers%20and%20Electrical%20Engineering-1-EFE30E?&style=flat-square" alt="Reviewing Badge" />
+        <img src="https://img.shields.io/badge/Computers%20and%20Electrical%20Engineering-2-EFE30E?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <br />
     <a href="https://www.webofscience.com/wos/author/record/K-7989-2018">
