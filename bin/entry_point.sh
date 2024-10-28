@@ -1,5 +1,9 @@
 #!/bin/bash
 
+set -euo pipefail
+
+echo "Entry point script running"
+
 CONFIG_FILE=_config.yml
 
 # Function to manage Gemfile.lock
