@@ -236,12 +236,12 @@
         <img src="https://img.shields.io/badge/Data%20in%20Brief-4-E11E27?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <br />
-    <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/INFFUS.pdf">
-        <img src="https://img.shields.io/badge/Information%20Fusion-3-505050?&style=flat-square" alt="Reviewing Badge" />
+    <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/ISWA.pdf">
+        <img src="https://img.shields.io/badge/Intelligent%20Systems%20with%20Applications-4-1C346D?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <br />
-    <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/ISWA.pdf">
-        <img src="https://img.shields.io/badge/Intelligent%20Systems%20with%20Applications-3-1C346D?&style=flat-square" alt="Reviewing Badge" />
+    <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/INFFUS.pdf">
+        <img src="https://img.shields.io/badge/Information%20Fusion-3-505050?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <br />
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/YCVIU.pdf">
