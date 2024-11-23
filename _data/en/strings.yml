@@ -154,7 +154,7 @@ cv:
 news: news
 no_news: No news so far...
 pagination:
-  newer: Newer
-  older: Older
+  newer: &lt;
+  older: &gt;
   page: page
 references: References
