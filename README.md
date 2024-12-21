@@ -197,7 +197,7 @@
     </a>
     <br />
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/HLY.pdf">
-        <img src="https://img.shields.io/badge/Heliyon-12-027DBC?&style=flat-square" alt="Reviewing Badge" />
+        <img src="https://img.shields.io/badge/Heliyon-13-027DBC?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <br />
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/IMAVIS.pdf">
