@@ -185,3 +185,4 @@ assets/jupyter/data/
 assets/jupyter/fonts/
 assets/jupyter/runs/
 assets/jupyter/models/
+.codegpt
