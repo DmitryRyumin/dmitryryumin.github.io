@@ -233,7 +233,7 @@
     </a>
     <br />
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/NN.pdf">
-        <img src="https://img.shields.io/badge/Neural%20Networks-4-1E3887?&style=flat-square" alt="Reviewing Badge" />
+        <img src="https://img.shields.io/badge/Neural%20Networks-5-1E3887?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <br />
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/PATREC.pdf">
