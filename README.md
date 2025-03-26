@@ -44,6 +44,7 @@
 
 #### Journals
 
+- ``Pattern Recognition Letters 2025`` [Multi-Corpus Emotion Recognition Method based on Cross-Modal Gated Attention Fusion](https://www.sciencedirect.com/science/article/pii/S0167865525000662), Elena Ryumina, **Dmitry Ryumin**, Alexandr Axyonov, Denis Ivanko and Alexey Karpov
 - ``Pattern Recognition Letters 2024`` [Gated Siamese Fusion Network based on Multimodal Deep and Hand-Crafted Features for Personality Traits Assessment](https://www.sciencedirect.com/science/article/pii/S0167865524002071), Elena Ryumina, Maxim Markitantov, **Dmitry Ryumin**  and Alexey Karpov [![GitHub](https://img.shields.io/github/stars/aimclub/OCEANAI?style=flat)](https://github.com/aimclub/OCEANAI)
 - ``Expert Systems with Applications 2024`` [Audio-Visual Speech Recognition based on Regulated Transformer and Spatio-Temporal Fusion Strategy for Driver Assistive Systems](https://www.sciencedirect.com/science/article/pii/S095741742401025X), **Dmitry Ryumin**, Alexandr Axyonov, Elena Ryumina, Denis Ivanko, Alexey Kashevnik and Alexey Karpov [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/audio-visual-speech-recognition-based-on/lipreading-on-lip-reading-in-the-wild)](https://paperswithcode.com/sota/lipreading-on-lip-reading-in-the-wild?p=audio-visual-speech-recognition-based-on)
 - ``Expert Systems with Applications 2024`` [OCEAN-AI Framework with EmoFormer Cross-Hemiface Attention Approach for Personality Traits Assessment](https://www.sciencedirect.com/science/article/pii/S0957417423029433), Elena Ryumina, Maxim Markitantov, **Dmitry Ryumin**, and Alexey Karpov
@@ -221,7 +222,7 @@
     </a>
     <br />
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/PR.pdf">
-        <img src="https://img.shields.io/badge/Pattern%20Recognition-9-E87324?&style=flat-square" alt="Reviewing Badge" />
+        <img src="https://img.shields.io/badge/Pattern%20Recognition-10-E87324?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <br />
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/DIB.pdf">
@@ -286,6 +287,10 @@
     <br />
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/AQUE.pdf">
         <img src="https://img.shields.io/badge/Aquacultural%20Engineering-1-53C0AF?&style=flat-square" alt="Reviewing Badge" />
+    </a>
+    <br />
+    <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/IOT.pdf">
+        <img src="https://img.shields.io/badge/Internet%20of%20Things-1-004E98?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <br />
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/IPM.pdf">
