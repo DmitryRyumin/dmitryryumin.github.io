@@ -293,6 +293,10 @@
         <img src="https://img.shields.io/badge/Internet%20of%20Things-1-004E98?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <br />
+    <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/WDS.pdf">
+        <img src="https://img.shields.io/badge/World%20Development%20Sustainability-1-DCDCDC?&style=flat-square" alt="Reviewing Badge" />
+    </a>
+    <br />
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/IPM.pdf">
         <img src="https://img.shields.io/badge/Information%20Processing%20and%20Management-1-A6E1D7?&style=flat-square" alt="Reviewing Badge" />
     </a>
