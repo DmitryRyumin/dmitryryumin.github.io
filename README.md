@@ -53,7 +53,8 @@
 
 #### Conferences
 
-- ``CVPRW 2024`` [Zero-Shot Audio-Visual Compound Expression Recognition Method based on Emotion Probability Fusion](https://openaccess.thecvf.com/content/CVPR2024W/ABAW/html/Ryumina_Zero-Shot_Audio-Visual_Compound_Expression_Recognition_Method_based_on_Emotion_Probability_CVPRW_2024_paper.html), Elena Ryumina, Maxim Markitantov, **Dmitry Ryumin**, Heysem Kaya, Alexey Karpov
+- ``INTERSPEECH 2024`` [OCEAN-AI: Open Multimodal Framework for Personality Traits Assessment and HR-Processes Automatization](https://www.isca-archive.org/interspeech_2024/ryumina24_interspeech.html), Elena Ryumina, **Dmitry Ryumin**, and Alexey Karpov [![GitHub](https://img.shields.io/github/stars/aimclub/OCEANAI?style=flat)](https://github.com/aimclub/OCEANAI) [![App](https://img.shields.io/badge/🤗-DEMO--OCEANAI-FFD21F.svg)](https://huggingface.co/spaces/ElenaRyumina/OCEANAI)
+- ``CVPRW 2024`` [Zero-Shot Audio-Visual Compound Expression Recognition Method based on Emotion Probability Fusion](https://openaccess.thecvf.com/content/CVPR2024W/ABAW/html/Ryumina_Zero-Shot_Audio-Visual_Compound_Expression_Recognition_Method_based_on_Emotion_Probability_CVPRW_2024_paper.html), Elena Ryumina, Maxim Markitantov, **Dmitry Ryumin**, Heysem Kaya, Alexey Karpov [![GitHub](https://img.shields.io/github/stars/ElenaRyumina/AVCER?style=flat)](https://github.com/ElenaRyumina/AVCER) [![App](https://img.shields.io/badge/🤗-DEMO--AVCER-FFD21F.svg)](https://huggingface.co/spaces/ElenaRyumina/AVCER)
 - ``ICASSP 2024`` [Audio-Visual Speech Recognition In-the-Wild: Multi-Angle Vehicle Cabin Corpus and Attention-based Method](https://ieeexplore.ieee.org/document/10448048), Alexandr Axyonov, **Dmitry Ryumin**, Denis Ivanko, Alexey Kashevnik, Alexey Karpov
 - ``INTERSPEECH 2023`` [Multimodal Personality Traits Assessment (MuPTA) Corpus: the Impact of Spontaneous and Read Speech](https://www.isca-speech.org/archive/interspeech_2023/ryumina23_interspeech.html), Elena Ryumina, **Dmitry Ryumin**, Maxim Markitantov, Heysem Kaya, and Alexey Karpov
 - ``INTERSPEECH 2022`` [DAVIS: Driver's Audio-Visual Speech Recognition](https://www.isca-speech.org/archive/interspeech_2022/ivanko22_interspeech.html), Denis Ivanko, **Dmitry Ryumin**, Alexey Kashevnik, Alexandr Axyonov, Andrey Kitenko, Igor Lashkov, and Alexey Karpov
@@ -194,19 +195,23 @@
 
 <p>
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/ESWA.pdf">
-        <img src="https://img.shields.io/badge/Expert%20Systems%20with%20Applications-28-045877?&style=flat-square" alt="Reviewing Badge" />
+        <img src="https://img.shields.io/badge/Expert%20Systems%20with%20Applications-29-045877?&style=flat-square" alt="Reviewing Badge" />
+    </a>
+    <br />
+    <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/EAAI.pdf">
+        <img src="https://img.shields.io/badge/Engineering%20Applications%20of%20Artificial%20Intelligence-22-583676?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <br />
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/KNOSYS.pdf">
-        <img src="https://img.shields.io/badge/Knowledge--Based%20Systems-13-EFE30E?&style=flat-square" alt="Reviewing Badge" />
+        <img src="https://img.shields.io/badge/Knowledge--Based%20Systems-14-EFE30E?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <br />
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/HLY.pdf">
         <img src="https://img.shields.io/badge/Heliyon-13-027DBC?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <br />
-    <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/EAAI.pdf">
-        <img src="https://img.shields.io/badge/Engineering%20Applications%20of%20Artificial%20Intelligence-12-583676?&style=flat-square" alt="Reviewing Badge" />
+    <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/DIB.pdf">
+        <img src="https://img.shields.io/badge/Data%20in%20Brief-13-E11E27?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <br />
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/IMAVIS.pdf">
@@ -218,19 +223,19 @@
     </a>
     <br />
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/CAEE.pdf">
-        <img src="https://img.shields.io/badge/Computers%20and%20Electrical%20Engineering-10-EFE30E?&style=flat-square" alt="Reviewing Badge" />
+        <img src="https://img.shields.io/badge/Computers%20and%20Electrical%20Engineering-11-EFE30E?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <br />
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/PR.pdf">
         <img src="https://img.shields.io/badge/Pattern%20Recognition-10-E87324?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <br />
-    <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/DIB.pdf">
-        <img src="https://img.shields.io/badge/Data%20in%20Brief-10-E11E27?&style=flat-square" alt="Reviewing Badge" />
-    </a>
-    <br />
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/NN.pdf">
         <img src="https://img.shields.io/badge/Neural%20Networks-6-1E3887?&style=flat-square" alt="Reviewing Badge" />
+    </a>
+    <br />
+    <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/INFFUS.pdf">
+        <img src="https://img.shields.io/badge/Information%20Fusion-6-505050?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <br />
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/IJCCE.pdf">
@@ -241,20 +246,24 @@
         <img src="https://img.shields.io/badge/Intelligent%20Systems%20with%20Applications-5-1C346D?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <br />
-    <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/INFFUS.pdf">
-        <img src="https://img.shields.io/badge/Information%20Fusion-5-505050?&style=flat-square" alt="Reviewing Badge" />
-    </a>
-    <br />
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/PATREC.pdf">
         <img src="https://img.shields.io/badge/Pattern%20Recognition%20Letters-4-000000?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <br />
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/YCVIU.pdf">
-        <img src="https://img.shields.io/badge/Computer%20Vision%20and%20Image%20Understanding-3-8A6734?&style=flat-square" alt="Reviewing Badge" />
+        <img src="https://img.shields.io/badge/Computer%20Vision%20and%20Image%20Understanding-4-8A6734?&style=flat-square" alt="Reviewing Badge" />
+    </a>
+    <br />
+    <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/YCSLA.pdf">
+        <img src="https://img.shields.io/badge/Computer%20Speech%20and%20Language-4-227CC0?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <br />
     <a href="https://www.webofscience.com/wos/author/record/K-7989-2018">
         <img src="https://img.shields.io/badge/IEEE%20Transactions%20on%20Circuits%20and%20Systems%20for%20Video%20Technology-3-14303E?&style=flat-square" alt="Reviewing Badge" />
+    </a>
+    <br />
+    <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/ASOC.pdf">
+        <img src="https://img.shields.io/badge/Applied%20Soft%20Computing-3-1D3687?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <br />
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/SOFTX.pdf">
@@ -273,16 +282,16 @@
         <img src="https://img.shields.io/badge/Natural%20Language%20Processing%20Journal-2-0F7C80?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <br />
-    <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/YCSLA.pdf">
-        <img src="https://img.shields.io/badge/Computer%20Speech%20and%20Language-2-227CC0?&style=flat-square" alt="Reviewing Badge" />
-    </a>
-    <br />
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/MEASUR.pdf">
         <img src="https://img.shields.io/badge/Measurement-2-545CA8?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <br />
-        <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/ASOC.pdf">
-        <img src="https://img.shields.io/badge/Applied%20Soft%20Computing-2-1D3687?&style=flat-square" alt="Reviewing Badge" />
+    <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/CBM.pdf">
+        <img src="https://img.shields.io/badge/Computers%20in%20Biology%20and%20Medicine-2-E03040?&style=flat-square" alt="Reviewing Badge" />
+    </a>
+    <br />
+    <a href="https://www.webofscience.com/wos/author/record/K-7989-2018">
+        <img src="https://img.shields.io/badge/IEEE%20Access-2-03ADEF?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <br />
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/AQUE.pdf">
@@ -301,6 +310,14 @@
         <img src="https://img.shields.io/badge/Information%20Processing%20and%20Management-1-A6E1D7?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <br />
+    <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/DISPLA.pdf">
+        <img src="https://img.shields.io/badge/Displays-1-545BA8?&style=flat-square" alt="Reviewing Badge" />
+    </a>
+    <br />
+    <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/JASP.pdf">
+        <img src="https://img.shields.io/badge/Advances%20in%20Space%20Research-1-1B356D?&style=flat-square" alt="Reviewing Badge" />
+    </a>
+    <br />
     <a href="https://www.webofscience.com/wos/author/record/K-7989-2018">
         <img src="https://img.shields.io/badge/IEEE%20Transactions%20on%20Human--Machine%20Systems-1-0073AE?&style=flat-square" alt="Reviewing Badge" />
     </a>
@@ -309,14 +326,17 @@
 #### Conference Reviewing
 
 <p>
+    <a href="https://2025.emnlp.org/">
+        <img src="http://img.shields.io/badge/EMNLP-2025-EE1D25.svg?&style=flat-square" alt="EMNLP">
+    </a>
     <a href="https://interspeech2025.org/">
         <img src="http://img.shields.io/badge/INTERSPEECH-2024%E2%80%9325-0C1C43.svg?&style=flat-square" alt="INTERSPEECH">
     </a>
-    <a href="https://specom2024.ftn.uns.ac.rs/">
-        <img src="http://img.shields.io/badge/SPECOM-2023%E2%80%9324-FDD944.svg?&style=flat-square" alt="SPECOM">
+    <a href="https://specom.inf.u-szeged.hu/">
+        <img src="http://img.shields.io/badge/SPECOM-2023%E2%80%9325-FDD944.svg?&style=flat-square" alt="SPECOM">
     </a>
 </p>
 
 <br />
 
-![GitHub last commit](https://img.shields.io/github/last-commit/DmitryRyumin/dmitryryumin.github.io)
+![GitHub last commit](https://img.shields.io/github/last-commit/DmitryRyumin/DmitryRyumin)
