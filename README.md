@@ -209,15 +209,15 @@
 
 <p>
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/ESWA.pdf">
-        <img src="https://img.shields.io/badge/Expert%20Systems%20with%20Applications-31-045877?&style=flat-square" alt="Reviewing Badge" />
+        <img src="https://img.shields.io/badge/Expert%20Systems%20with%20Applications-32-045877?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <br />
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/EAAI.pdf">
-        <img src="https://img.shields.io/badge/Engineering%20Applications%20of%20Artificial%20Intelligence-24-583676?&style=flat-square" alt="Reviewing Badge" />
+        <img src="https://img.shields.io/badge/Engineering%20Applications%20of%20Artificial%20Intelligence-26-583676?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <br />
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/KNOSYS.pdf">
-        <img src="https://img.shields.io/badge/Knowledge--Based%20Systems-17-EFE30E?&style=flat-square" alt="Reviewing Badge" />
+        <img src="https://img.shields.io/badge/Knowledge--Based%20Systems-18-EFE30E?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <br />
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/HLY.pdf">
@@ -312,12 +312,12 @@
         <img src="https://img.shields.io/badge/Displays-2-545BA8?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <br />
-    <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/AQUE.pdf">
-        <img src="https://img.shields.io/badge/Aquacultural%20Engineering-1-53C0AF?&style=flat-square" alt="Reviewing Badge" />
+    <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/IOT.pdf">
+        <img src="https://img.shields.io/badge/Internet%20of%20Things-2-004E98?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <br />
-    <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/IOT.pdf">
-        <img src="https://img.shields.io/badge/Internet%20of%20Things-1-004E98?&style=flat-square" alt="Reviewing Badge" />
+    <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/AQUE.pdf">
+        <img src="https://img.shields.io/badge/Aquacultural%20Engineering-1-53C0AF?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <br />
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/WDS.pdf">
