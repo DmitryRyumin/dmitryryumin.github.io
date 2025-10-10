@@ -316,6 +316,10 @@
         <img src="https://img.shields.io/badge/Internet%20of%20Things-2-004E98?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <br />
+    <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/JASP.pdf">
+        <img src="https://img.shields.io/badge/Advances%20in%20Space%20Research-2-1B356D?&style=flat-square" alt="Reviewing Badge" />
+    </a>
+    <br />
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/AQUE.pdf">
         <img src="https://img.shields.io/badge/Aquacultural%20Engineering-1-53C0AF?&style=flat-square" alt="Reviewing Badge" />
     </a>
@@ -326,10 +330,6 @@
     <br />
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/IPM.pdf">
         <img src="https://img.shields.io/badge/Information%20Processing%20and%20Management-1-A6E1D7?&style=flat-square" alt="Reviewing Badge" />
-    </a>
-    <br />
-    <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/JASP.pdf">
-        <img src="https://img.shields.io/badge/Advances%20in%20Space%20Research-1-1B356D?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <br />
     <a href="https://www.webofscience.com/wos/author/record/K-7989-2018">
