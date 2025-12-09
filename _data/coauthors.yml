@@ -24,7 +24,7 @@
 
 "axyonov":
   - firstname: ["Alexandr", "A.", "Alexandr Axyonov"]
-    url: https://hci.nw.ru/en/employees/9
+    url: https://scholar.google.com/citations?user=Hs95wd4AAAAJ
 
 "kitenko":
   - firstname: ["Andrey", "A.", "Kitenko"]
@@ -41,3 +41,15 @@
 "kagirov":
   - firstname: ["Ildar", "I.", "Kagirov"]
     url: https://www.scopus.com/authid/detail.uri?authorId=25121369400
+
+"dolgushin":
+  - firstname: ["Mikhail", "M.", "Dolgushin"]
+    url: https://www.scopus.com/authid/detail.uri?authorId=58743617900
+
+"abdulkadirov":
+  - firstname: ["Timur", "T.", "Abdulkadirov"]
+    url: https://www.scopus.com/authid/detail.uri?authorId=60214660500
+
+"koryakovskaya":
+  - firstname: ["Darya", "D.", "Koryakovskaya"]
+    url: https://www.scopus.com/authid/detail.uri?authorId=60214238600
