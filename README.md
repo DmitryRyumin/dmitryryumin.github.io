@@ -181,27 +181,27 @@
 
 ### <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome">
 
-| Topic/Domain | Stars |
-|--------------|-------|
+| Topic/Domain       | Stars                                                                                                                                                          |
+|--------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Speech Enhancement | [![Stars](https://img.shields.io/github/stars/DmitryRyumin/Awesome-Speech-Enhancement?style=flat)](https://github.com/DmitryRyumin/Awesome-Speech-Enhancement) |
 
 ---
 
 ### <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/github_social.svg" width="20" alt="" /> Contributed Repositories
 
-| Repository | Stars |
-|------------|-------|
+| Repository   | Stars                                                                                                                                  |
+|--------------|----------------------------------------------------------------------------------------------------------------------------------------|
 | ai-deadlines | [![Stars](https://img.shields.io/github/stars/paperswithcode/ai-deadlines?style=flat)](https://github.com/paperswithcode/ai-deadlines) |
-| SpeechTasks | [![Stars](https://img.shields.io/github/stars/WangHelin1997/SpeechTasks?style=flat)](https://github.com/WangHelin1997/SpeechTasks) |
+| SpeechTasks  | [![Stars](https://img.shields.io/github/stars/WangHelin1997/SpeechTasks?style=flat)](https://github.com/WangHelin1997/SpeechTasks)     |
 
 ---
 
 ### <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/spaces.svg" width="20" alt="" /> Contributed Spaces (Hugging Face)
 
-| Space |
-|-------|
+| Space                                                                                                                                                                                  |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [![Facial_Expression_Recognition](https://img.shields.io/badge/🤗-Facial_Expression_Recognition-FFD21F.svg)](https://huggingface.co/spaces/ElenaRyumina/Facial_Expression_Recognition) |
-| [![OCEANAI](https://img.shields.io/badge/🤗-OCEANAI-FFD21F.svg)](https://huggingface.co/spaces/ElenaRyumina/OCEANAI) |
+| [![OCEANAI](https://img.shields.io/badge/🤗-OCEANAI-FFD21F.svg)](https://huggingface.co/spaces/ElenaRyumina/OCEANAI)                                                                   |
 
 ---
 
@@ -282,8 +282,16 @@
         <img src="https://img.shields.io/badge/Computer%20Speech%20and%20Language-4-227CC0?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <br />
+    <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/AIR.pdf">
+        <img src="https://img.shields.io/badge/Artificial%20Intelligence%20Review-3-062352?&style=flat-square" alt="Reviewing Badge" />
+    </a>
+    <br />
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/IOT.pdf">
         <img src="https://img.shields.io/badge/Internet%20of%20Things-3-004E98?&style=flat-square" alt="Reviewing Badge" />
+    </a>
+    <br />
+    <a href="https://www.webofscience.com/wos/author/record/K-7989-2018">
+        <img src="https://img.shields.io/badge/IEEE%20Access-3-03ADEF?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <br />
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/SOFTX.pdf">
@@ -310,16 +318,16 @@
         <img src="https://img.shields.io/badge/Computers%20in%20Biology%20and%20Medicine-2-E03040?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <br />
-    <a href="https://www.webofscience.com/wos/author/record/K-7989-2018">
-        <img src="https://img.shields.io/badge/IEEE%20Access-2-03ADEF?&style=flat-square" alt="Reviewing Badge" />
-    </a>
-    <br />
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/DISPLA.pdf">
         <img src="https://img.shields.io/badge/Displays-2-545BA8?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <br />
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/JASP.pdf">
         <img src="https://img.shields.io/badge/Advances%20in%20Space%20Research-2-1B356D?&style=flat-square" alt="Reviewing Badge" />
+    </a>
+    <br />
+    <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/SR.pdf">
+        <img src="https://img.shields.io/badge/Scientific%20Reports-1-29303C?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <br />
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/RINENG.pdf">
@@ -352,6 +360,9 @@
 <p>
     <a href="https://iclr.cc/Conferences/2026">
         <img src="http://img.shields.io/badge/ICLR-2026-212529.svg?&style=flat-square" alt="ICLR">
+    </a>
+    <a href="https://2026.aclweb.org">
+        <img src="http://img.shields.io/badge/ACL-2026-EE1D25.svg?&style=flat-square" alt="ACL">
     </a>
     <a href="https://2025.emnlp.org/">
         <img src="http://img.shields.io/badge/EMNLP-2025-EE1D25.svg?&style=flat-square" alt="EMNLP">
