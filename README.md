@@ -211,7 +211,7 @@
 
 <p>
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/ESWA.pdf">
-        <img src="https://img.shields.io/badge/Expert%20Systems%20with%20Applications-34-045877?&style=flat-square" alt="Reviewing Badge" />
+        <img src="https://img.shields.io/badge/Expert%20Systems%20with%20Applications-35-045877?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/EAAI.pdf">
         <img src="https://img.shields.io/badge/Engineering%20Applications%20of%20Artificial%20Intelligence-29-583676?&style=flat-square" alt="Reviewing Badge" />
@@ -219,11 +219,11 @@
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/KNOSYS.pdf">
         <img src="https://img.shields.io/badge/Knowledge--Based%20Systems-18-EFE30E?&style=flat-square" alt="Reviewing Badge" />
     </a>
+    <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/PR.pdf">
+        <img src="https://img.shields.io/badge/Pattern%20Recognition-15-E87324?&style=flat-square" alt="Reviewing Badge" />
+    </a>
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/HLY.pdf">
         <img src="https://img.shields.io/badge/Heliyon-14-027DBC?&style=flat-square" alt="Reviewing Badge" />
-    </a>
-    <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/PR.pdf">
-        <img src="https://img.shields.io/badge/Pattern%20Recognition-14-E87324?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/DIB.pdf">
         <img src="https://img.shields.io/badge/Data%20in%20Brief-13-E11E27?&style=flat-square" alt="Reviewing Badge" />
