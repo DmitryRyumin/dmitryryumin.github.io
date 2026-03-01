@@ -44,6 +44,7 @@
 
 #### Journals
 
+- ``Machine Learning and Knowledge Extraction 2026`` [SSL-MEPR: A Semi-Supervised Multi-Task Cross-Domain Learning Framework for Multimodal Emotion and Personality Recognition](https://www.mdpi.com/2504-4990/8/3/56), Elena Ryumina, Alexandr Axyonov, Darya Koryakovskaya, Timur Abdulkadirov, Angelina Egorova, Sergey Fedchin, Alexander Zaburdaev, and **Dmitry Ryumin**
 - ``Big Data and Cognitive Computing 2025`` [Cross-Lingual Bimodal Emotion Recognition with LLM-based Label Smoothing](https://www.mdpi.com/2504-2289/9/11/285), Elena Ryumina, Alexandr Axyonov, Timur Abdulkadirov, Darya Koryakovskaya, and **Dmitry Ryumin**
 - ``Pattern Recognition Letters 2025`` [Multi-Corpus Emotion Recognition Method based on Cross-Modal Gated Attention Fusion](https://www.sciencedirect.com/science/article/pii/S0167865525000662), Elena Ryumina, **Dmitry Ryumin**, Alexandr Axyonov, Denis Ivanko, and Alexey Karpov
 - ``Pattern Recognition Letters 2024`` [Gated Siamese Fusion Network based on Multimodal Deep and Hand-Crafted Features for Personality Traits Assessment](https://www.sciencedirect.com/science/article/pii/S0167865524002071), Elena Ryumina, Maxim Markitantov, **Dmitry Ryumin**, and Alexey Karpov [![GitHub](https://img.shields.io/github/stars/aimclub/OCEANAI?style=flat)](https://github.com/aimclub/OCEANAI)
@@ -214,7 +215,7 @@
         <img src="https://img.shields.io/badge/Expert%20Systems%20with%20Applications-35-045877?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/EAAI.pdf">
-        <img src="https://img.shields.io/badge/Engineering%20Applications%20of%20Artificial%20Intelligence-29-583676?&style=flat-square" alt="Reviewing Badge" />
+        <img src="https://img.shields.io/badge/Engineering%20Applications%20of%20Artificial%20Intelligence-30-583676?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/KNOSYS.pdf">
         <img src="https://img.shields.io/badge/Knowledge--Based%20Systems-18-EFE30E?&style=flat-square" alt="Reviewing Badge" />
@@ -249,11 +250,11 @@
     <a href="https://www.webofscience.com/wos/author/record/K-7989-2018">
         <img src="https://img.shields.io/badge/IEEE%20Transactions%20on%20Circuits%20and%20Systems%20for%20Video%20Technology-6-14303E?&style=flat-square" alt="Reviewing Badge" />
     </a>
+    <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/ASOC.pdf">
+        <img src="https://img.shields.io/badge/Applied%20Soft%20Computing-6-1D3687?&style=flat-square" alt="Reviewing Badge" />
+    </a>
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/IJCCE.pdf">
         <img src="https://img.shields.io/badge/International%20Journal%20of%20Cognitive%20Computing%20in%20Engineering-5-6BAFCC?&style=flat-square" alt="Reviewing Badge" />
-    </a>
-    <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/ASOC.pdf">
-        <img src="https://img.shields.io/badge/Applied%20Soft%20Computing-5-1D3687?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/PATREC.pdf">
         <img src="https://img.shields.io/badge/Pattern%20Recognition%20Letters-4-000000?&style=flat-square" alt="Reviewing Badge" />
@@ -317,6 +318,9 @@
     </a>
     <a href="https://www.webofscience.com/wos/author/record/K-7989-2018">
         <img src="https://img.shields.io/badge/IEEE%20Transactions%20on%20Multimedia-1-DEC5AB?&style=flat-square" alt="Reviewing Badge" />
+    </a>
+    <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/CHBR.pdf">
+        <img src="https://img.shields.io/badge/Computers%20in%20Human%20Behavior%20Reports-1-1B356C?&style=flat-square" alt="Reviewing Badge" />
     </a>
 </p>
 
