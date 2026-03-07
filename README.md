@@ -299,7 +299,7 @@
         <img src="https://img.shields.io/badge/Advances%20in%20Space%20Research-2-1B356D?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/SR.pdf">
-        <img src="https://img.shields.io/badge/Scientific%20Reports-1-29303C?&style=flat-square" alt="Reviewing Badge" />
+        <img src="https://img.shields.io/badge/Scientific%20Reports-2-29303C?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/RINENG.pdf">
         <img src="https://img.shields.io/badge/Results%20in%20Engineering-1-B23A93?&style=flat-square" alt="Reviewing Badge" />
@@ -321,6 +321,9 @@
     </a>
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/CHBR.pdf">
         <img src="https://img.shields.io/badge/Computers%20in%20Human%20Behavior%20Reports-1-1B356C?&style=flat-square" alt="Reviewing Badge" />
+    </a>
+    <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/UAIS.pdf">
+        <img src="https://img.shields.io/badge/Universal%20Access%20in%20the%20Information%20Society-1-58430A?&style=flat-square" alt="Reviewing Badge" />
     </a>
 </p>
 
