@@ -278,6 +278,9 @@
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/RINENG.pdf">
         <img src="https://img.shields.io/badge/Results%20in%20Engineering-3-B23A93?&style=flat-square" alt="Reviewing Badge" />
     </a>
+    <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/SR.pdf">
+        <img src="https://img.shields.io/badge/Scientific%20Reports-3-29303C?&style=flat-square" alt="Reviewing Badge" />
+    </a>
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/SOFTX.pdf">
         <img src="https://img.shields.io/badge/SoftwareX-2-53C0AF?&style=flat-square" alt="Reviewing Badge" />
     </a>
@@ -301,9 +304,6 @@
     </a>
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/JASP.pdf">
         <img src="https://img.shields.io/badge/Advances%20in%20Space%20Research-2-1B356D?&style=flat-square" alt="Reviewing Badge" />
-    </a>
-    <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/SR.pdf">
-        <img src="https://img.shields.io/badge/Scientific%20Reports-2-29303C?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/AQUE.pdf">
         <img src="https://img.shields.io/badge/Aquacultural%20Engineering-1-53C0AF?&style=flat-square" alt="Reviewing Badge" />
