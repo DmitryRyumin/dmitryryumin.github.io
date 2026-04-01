@@ -216,7 +216,7 @@
         <img src="https://img.shields.io/badge/Expert%20Systems%20with%20Applications-36-045877?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/EAAI.pdf">
-        <img src="https://img.shields.io/badge/Engineering%20Applications%20of%20Artificial%20Intelligence-30-583676?&style=flat-square" alt="Reviewing Badge" />
+        <img src="https://img.shields.io/badge/Engineering%20Applications%20of%20Artificial%20Intelligence-34-583676?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/KNOSYS.pdf">
         <img src="https://img.shields.io/badge/Knowledge--Based%20Systems-19-EFE30E?&style=flat-square" alt="Reviewing Badge" />
@@ -237,7 +237,7 @@
         <img src="https://img.shields.io/badge/Neurocomputing-12-EFE30E?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/IMAVIS.pdf">
-        <img src="https://img.shields.io/badge/Image%20and%20Vision%20Computing-11-505050?&style=flat-square" alt="Reviewing Badge" />
+        <img src="https://img.shields.io/badge/Image%20and%20Vision%20Computing-12-505050?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/INFFUS.pdf">
         <img src="https://img.shields.io/badge/Information%20Fusion-8-505050?&style=flat-square" alt="Reviewing Badge" />
@@ -253,6 +253,9 @@
     </a>
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/ASOC.pdf">
         <img src="https://img.shields.io/badge/Applied%20Soft%20Computing-6-1D3687?&style=flat-square" alt="Reviewing Badge" />
+    </a>
+    <a href="https://www.webofscience.com/wos/author/record/K-7989-2018">
+        <img src="https://img.shields.io/badge/IEEE%20Access-5-03ADEF?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/IJCCE.pdf">
         <img src="https://img.shields.io/badge/International%20Journal%20of%20Cognitive%20Computing%20in%20Engineering-5-6BAFCC?&style=flat-square" alt="Reviewing Badge" />
@@ -272,8 +275,8 @@
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/IOT.pdf">
         <img src="https://img.shields.io/badge/Internet%20of%20Things-3-004E98?&style=flat-square" alt="Reviewing Badge" />
     </a>
-    <a href="https://www.webofscience.com/wos/author/record/K-7989-2018">
-        <img src="https://img.shields.io/badge/IEEE%20Access-3-03ADEF?&style=flat-square" alt="Reviewing Badge" />
+    <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/RINENG.pdf">
+        <img src="https://img.shields.io/badge/Results%20in%20Engineering-3-B23A93?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/SOFTX.pdf">
         <img src="https://img.shields.io/badge/SoftwareX-2-53C0AF?&style=flat-square" alt="Reviewing Badge" />
@@ -301,9 +304,6 @@
     </a>
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/SR.pdf">
         <img src="https://img.shields.io/badge/Scientific%20Reports-2-29303C?&style=flat-square" alt="Reviewing Badge" />
-    </a>
-    <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/RINENG.pdf">
-        <img src="https://img.shields.io/badge/Results%20in%20Engineering-1-B23A93?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/AQUE.pdf">
         <img src="https://img.shields.io/badge/Aquacultural%20Engineering-1-53C0AF?&style=flat-square" alt="Reviewing Badge" />
@@ -341,7 +341,7 @@
         <img src="http://img.shields.io/badge/EMNLP-2025-EE1D25.svg?&style=flat-square" alt="EMNLP">
     </a>
     <a href="https://interspeech2025.org/">
-        <img src="http://img.shields.io/badge/INTERSPEECH-2024%E2%80%9325-0C1C43.svg?&style=flat-square" alt="INTERSPEECH">
+        <img src="http://img.shields.io/badge/INTERSPEECH-2024%E2%80%9326-0C1C43.svg?&style=flat-square" alt="INTERSPEECH">
     </a>
     <a href="https://specom.inf.u-szeged.hu/">
         <img src="http://img.shields.io/badge/SPECOM-2023%E2%80%9325-FDD944.svg?&style=flat-square" alt="SPECOM">
