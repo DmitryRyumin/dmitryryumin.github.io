@@ -213,7 +213,7 @@
 
 <p>
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/ESWA.pdf">
-        <img src="https://img.shields.io/badge/Expert%20Systems%20with%20Applications-37-045877?&style=flat-square" alt="Reviewing Badge" />
+        <img src="https://img.shields.io/badge/Expert%20Systems%20with%20Applications-38-045877?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/EAAI.pdf">
         <img src="https://img.shields.io/badge/Engineering%20Applications%20of%20Artificial%20Intelligence-34-583676?&style=flat-square" alt="Reviewing Badge" />
@@ -328,6 +328,9 @@
     </a>
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/DAS.pdf">
         <img src="https://img.shields.io/badge/Discover%20Applied%20Sciences-1-012B58?&style=flat-square" alt="Reviewing Badge" />
+    </a>
+    <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/DC.pdf">
+        <img src="https://img.shields.io/badge/Discover%20Computing-1-56659C?&style=flat-square" alt="Reviewing Badge" />
     </a>
 </p>
 
