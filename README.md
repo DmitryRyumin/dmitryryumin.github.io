@@ -44,6 +44,7 @@
 
 #### Journals
 
+- ``Multimodal Technologies and Interaction 2026`` [MAVAGEN: Multimodal Avatar Generation Framework for Personalized Human-Computer Interaction](https://www.mdpi.com/2414-4088/10/5/55), Alexandr Axyonov, Elena Ryumina, **Dmitry Ryumin**, and Alexey Karpov
 - ``Big Data and Cognitive Computing 2026`` [DEPART: Multi-Task Interpretable Depression and Parkinson's Disease Detection from In-the-Wild Video Data](https://www.mdpi.com/2504-2289/10/3/89), Elena Ryumina, Alexandr Axyonov, Mikhail Dolgushin, **Dmitry Ryumin**, and Alexey Karpov
 - ``Machine Learning and Knowledge Extraction 2026`` [SSL-MEPR: A Semi-Supervised Multi-Task Cross-Domain Learning Framework for Multimodal Emotion and Personality Recognition](https://www.mdpi.com/2504-4990/8/3/56), Elena Ryumina, Alexandr Axyonov, Darya Koryakovskaya, Timur Abdulkadirov, Angelina Egorova, Sergey Fedchin, Alexander Zaburdaev, and **Dmitry Ryumin**
 - ``Big Data and Cognitive Computing 2025`` [Cross-Lingual Bimodal Emotion Recognition with LLM-based Label Smoothing](https://www.mdpi.com/2504-2289/9/11/285), Elena Ryumina, Alexandr Axyonov, Timur Abdulkadirov, Darya Koryakovskaya, and **Dmitry Ryumin**
@@ -56,6 +57,8 @@
 
 #### Conferences
 
+- ``CVPRW 2026`` [Ensemble-based Prototype-Augmented Multimodal Fusion for Ambivalence/Hesitancy Recognition](https://openaccess.thecvf.com/content/CVPR2026W/ABAW/html/Ryumina_Ensemble-based_Prototype-Augmented_Multimodal_Fusion_for_AmbivalenceHesitancy_Recognition_CVPRW_2026_paper.html), Elena Ryumina, Alexandr Axyonov, Dmitry Sysoev, Timur Abdulkadirov, Kirill Almetov, Yulia Morozova, and **Dmitry Ryumin** [![GitHub](https://img.shields.io/github/stars/LEYA-HSE/ABAW10-BAH?style=flat)](https://github.com/LEYA-HSE/ABAW10-BAH)
+- ``CVPRW 2026`` [From Faces to Behavior Analysis: Adaptive Multimodal Fusion for Valence-Arousal Estimation in-the-Wild](https://openaccess.thecvf.com/content/CVPR2026W/ABAW/html/Ryumina_From_Faces_to_Behavior_Analysis_Adaptive_Multimodal_Fusion_for_Valence-Arousal_CVPRW_2026_paper.html), Elena Ryumina, Maxim Markitantov, Alexandr Axyonov, **Dmitry Ryumin**, Mikhail Dolgushin, Denis Dresvyanskiy, and Alexey Karpov [![GitHub](https://img.shields.io/github/stars/SMIL-SPCRAS/CVPRW-26?style=flat)](https://github.com/SMIL-SPCRAS/CVPRW-26)
 - ``ICCVW 2025`` [Zero-Shot Multimodal Compound Expression Recognition Approach using Off-the-Shelf Large Visual-Language Models](https://openaccess.thecvf.com/content/ICCV2025W/ABAW/html/Ryumina_Zero-Shot_Multimodal_Compound_Expression_Recognition_Approach_using_Off-the-Shelf_Large_Visual-Language_ICCVW_2025_paper.html), Elena Ryumina, Maxim Markitantov, Alexandr Axyonov, **Dmitry Ryumin**, Mikhail Dolgushin, and Alexey Karpov [![GitHub](https://img.shields.io/github/stars/SMIL-SPCRAS/ICCVW_25?style=flat)](https://github.com/SMIL-SPCRAS/ICCVW_25)
 - ``INTERSPEECH 2024`` [OCEAN-AI: Open Multimodal Framework for Personality Traits Assessment and HR-Processes Automatization](https://www.isca-archive.org/interspeech_2024/ryumina24_interspeech.html), Elena Ryumina, **Dmitry Ryumin**, and Alexey Karpov [![GitHub](https://img.shields.io/github/stars/aimclub/OCEANAI?style=flat)](https://github.com/aimclub/OCEANAI) [![App](https://img.shields.io/badge/🤗-DEMO--OCEANAI-FFD21F.svg)](https://huggingface.co/spaces/ElenaRyumina/OCEANAI)
 - ``CVPRW 2024`` [Zero-Shot Audio-Visual Compound Expression Recognition Method based on Emotion Probability Fusion](https://openaccess.thecvf.com/content/CVPR2024W/ABAW/html/Ryumina_Zero-Shot_Audio-Visual_Compound_Expression_Recognition_Method_based_on_Emotion_Probability_CVPRW_2024_paper.html), Elena Ryumina, Maxim Markitantov, **Dmitry Ryumin**, Heysem Kaya, and Alexey Karpov [![GitHub](https://img.shields.io/github/stars/ElenaRyumina/AVCER?style=flat)](https://github.com/ElenaRyumina/AVCER) [![App](https://img.shields.io/badge/🤗-DEMO--AVCER-FFD21F.svg)](https://huggingface.co/spaces/ElenaRyumina/AVCER)
@@ -213,10 +216,10 @@
 
 <p>
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/ESWA.pdf">
-        <img src="https://img.shields.io/badge/Expert%20Systems%20with%20Applications-39-045877?&style=flat-square" alt="Reviewing Badge" />
+        <img src="https://img.shields.io/badge/Expert%20Systems%20with%20Applications-40-045877?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/EAAI.pdf">
-        <img src="https://img.shields.io/badge/Engineering%20Applications%20of%20Artificial%20Intelligence-34-583676?&style=flat-square" alt="Reviewing Badge" />
+        <img src="https://img.shields.io/badge/Engineering%20Applications%20of%20Artificial%20Intelligence-35-583676?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/KNOSYS.pdf">
         <img src="https://img.shields.io/badge/Knowledge--Based%20Systems-19-EFE30E?&style=flat-square" alt="Reviewing Badge" />
@@ -240,7 +243,7 @@
         <img src="https://img.shields.io/badge/Image%20and%20Vision%20Computing-12-505050?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <a href="https://www.webofscience.com/wos/author/record/K-7989-2018">
-        <img src="https://img.shields.io/badge/IEEE%20Access-9-03ADEF?&style=flat-square" alt="Reviewing Badge" />
+        <img src="https://img.shields.io/badge/IEEE%20Access-12-03ADEF?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/INFFUS.pdf">
         <img src="https://img.shields.io/badge/Information%20Fusion-8-505050?&style=flat-square" alt="Reviewing Badge" />
@@ -316,6 +319,9 @@
     </a>
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/IPM.pdf">
         <img src="https://img.shields.io/badge/Information%20Processing%20and%20Management-1-A6E1D7?&style=flat-square" alt="Reviewing Badge" />
+    </a>
+    <a href="https://www.webofscience.com/wos/author/record/K-7989-2018">
+        <img src="https://img.shields.io/badge/IEEE%20Transactions%20on%20Intelligent%20Transportation%20Systems-1-BB0D2F?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <a href="https://www.webofscience.com/wos/author/record/K-7989-2018">
         <img src="https://img.shields.io/badge/IEEE%20Transactions%20on%20Multimedia-1-DEC5AB?&style=flat-square" alt="Reviewing Badge" />

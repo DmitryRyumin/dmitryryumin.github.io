@@ -2,6 +2,7 @@
 @string{ESWA = {Expert Systems with Applications}}
 @string{MAKE = {Machine Learning and Knowledge Extraction}}
 @string{BDCC = {Big Data and Cognitive Computing}}
+@string{MTI = {Multimodal Technologies and Interaction}}
 @string{INTERSPEECH = {Proceedings of the ISCA International Conference INTERSPEECH}}
 @string{ICASSP = {Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}}
 @string{ICMI = {Proceedings of the International Conference on Multimodal Interaction (ICMI)}}
@@ -14,6 +15,60 @@
 ----
 2026
 ----
+
+@INPROCEEDINGS{ryumina26_cvprw2,
+  abbr = {CVPRW},
+  author = {Elena Ryumina and Alexandr Axyonov and Dmitry Sysoev and Timur Abdulkadirov and Kirill Almetov and Yulia Morozova and Dmitry Ryumin},
+  title = {{Ensemble-based Prototype-Augmented Multimodal Fusion for Ambivalence/Hesitancy Recognition}},
+  booktitle = CVPRW,
+  year = {2026},
+  pages = {5409-5418},
+  url = {https://openaccess.thecvf.com/content/CVPR2026W/ABAW/html/Ryumina_Ensemble-based_Prototype-Augmented_Multimodal_Fusion_for_AmbivalenceHesitancy_Recognition_CVPRW_2026_paper.html},
+  abstract = {Ambivalence/hesitancy recognition in unconstrained videos is a challenging problem due to the subtle, multimodal, and context-dependent nature of this behavioral state. In this paper, a multimodal approach for video-level ambivalence/hesitancy recognition is presented for the 10th ABAW Competition. The proposed approach integrates four complementary modalities: scene, face, audio, and text. Scene dynamics are captured with a VideoMAE-based model, facial information is encoded through emotional frame-level embeddings aggregated by statistical pooling, acoustic representations are extracted with EmotionWav2Vec2.0 and processed by a Mamba-based temporal encoder, and linguistic cues are modeled using fine-tuned transformer-based text models. The resulting unimodal embeddings are further combined using multimodal fusion models, including prototype-augmented variants. Experiments on the BAH corpus demonstrate clear gains of multimodal fusion over all unimodal baselines. The best unimodal configuration achieved an average MF1 of 70.02%, whereas the best multimodal fusion model reached 83.25%. The highest final test performance, 71.42%, was obtained by an ensemble of five prototype-augmented fusion models. The obtained results highlight the importance of complementary multimodal cues and robust fusion strategies for ambivalence/hesitancy recognition.},
+  html = {https://github.com/LEYA-HSE/ABAW10-BAH},
+  pdf={https://openaccess.thecvf.com/content/CVPR2026W/ABAW/papers/Ryumina_Ensemble-based_Prototype-Augmented_Multimodal_Fusion_for_AmbivalenceHesitancy_Recognition_CVPRW_2026_paper.pdf},
+  bibtex_show = {true},
+  preview = {ryumina26_cvprw2.png},
+  dimensions = {true},
+  selected = {true}
+}
+
+@INPROCEEDINGS{ryumina26_cvprw1,
+  abbr = {CVPRW},
+  author = {Elena Ryumina and Maxim Markitantov and Alexandr Axyonov and Dmitry Ryumin and Mikhail Dolgushin and Denis Dresvyanskiy and Alexey Karpov},
+  title = {{From Faces to Behavior Analysis: Adaptive Multimodal Fusion for Valence-Arousal Estimation in-the-Wild}},
+  booktitle = CVPRW,
+  year = {2026},
+  pages = {5419--5428},
+  url = {https://openaccess.thecvf.com/content/CVPR2026W/ABAW/html/Ryumina_From_Faces_to_Behavior_Analysis_Adaptive_Multimodal_Fusion_for_Valence-Arousal_CVPRW_2026_paper.html},
+  abstract = {Continuous emotion recognition in terms of valence and arousal under in-the-wild (ITW) conditions remains a challenging problem due to large variations in appearance, head pose, illumination, occlusions, and subject-specific affective expression patterns. In this paper, we propose a novel multimodal approach for valence-arousal (VA) estimation that combines three complementary modalities: video, behavior-related, and audio. The video modality is modeled using GRADA-based frame-level features and Transformer-based temporal regression. We use Qwen3-VL-4B-Instruct to extract behavior-related information from video segments, while Mamba is used to model temporal dynamics across segments. The audio modality is based on WavLM-Large with chunk-wise attention-statistics pooling and cross-modal filtering of unreliable or non-speech segments. To fuse modalities, we investigate two fusion strategies: the Directed Cross-Modal MoE (DCMMOE) fusion strategy, which models directed interactions between modality pairs with adaptive gating, and the Reliability-Aware Audio-Visual (RAAV) fusion strategy, which combines visual features at the frame-level while using audio as complementary contextual information. We evaluate the proposed approach on the Aff-Wild2 dataset following the protocol of the 10th Affective Behavior Analysis in-the-Wild (ABAW) challenge. Experimental results show that multimodal fusion consistently outperforms unimodal models, with the best configuration achieving an average Concordance Correlation Coefficient (CCC) of 0.658 on the development set and 0.622 on the test set.},
+  html = {https://github.com/SMIL-SPCRAS/CVPRW-26},
+  pdf={https://openaccess.thecvf.com/content/CVPR2026W/ABAW/papers/Ryumina_From_Faces_to_Behavior_Analysis_Adaptive_Multimodal_Fusion_for_Valence-Arousal_CVPRW_2026_paper.pdf},
+  bibtex_show = {true},
+  preview = {ryumina26_cvprw1.png},
+  dimensions = {true},
+  selected = {true}
+}
+
+@article{axyonov26_mti,
+  abbr = {MTI},
+  author = {Alexandr Axyonov and Elena Ryumina and Dmitry Ryumin and Alexey Karpov},
+  title = {{MAVAGEN: Multimodal Avatar Generation Framework for Personalized Human-Computer Interaction}},
+  volume = {10},
+  pages = {1--18},
+  journal = MTI,
+  year = {2026},
+  issn = {2414-4088},
+  doi = {10.3390/mti10050055},
+  url = {https://www.mdpi.com/2414-4088/10/5/55},
+  abstract = {Digital-avatar systems still provide limited control over emotionally expressive behavior in human–computer interaction, especially in Large Language Model (LLM)-based chatbots and virtual assistants with personalized visual embodiments. To address this problem, we propose Multimodal Avatar Generation (MAVAGEN), a multimodal avatar generation framework for synthesizing upper-body digital avatars with personalized appearance and controllable emotional expression. The user specifies the desired gender and age, as well as provides a short text input from which the target emotional state is inferred. MAVAGEN then retrieves an identity image from the HaGRIDv2-1M corpus and generates an avatar clip with synchronized facial expressions, hand gestures, and expressive speech. The framework uses the following six feature streams: textual features, emotion-distribution features, landmark-based pose features, depth-geometry features, RGB-appearance features, and acoustic features. In a quantitative evaluation against recent human animation methods, MAVAGEN achieves the best overall avatar quality, with FID 48.20, FVD 592.00, SSIM 0.741, Sync-C 7.40, HKC 0.929, HKV 25.30, CSIM 0.563, and EmoAcc 0.88. Ablation results show that emotion and acoustic features contribute most to emotional agreement, while landmark-based pose and depth features improve geometric and motion stability. These results support the practical use of MAVAGEN in personalized LLM-based assistants and other emotion-sensitive interactive systems.},
+  keywords = {Avatar Video Generation, Emotion-Aware Avatar Synthesis, Personalized Avatar Generation, Multimodal Feature Fusion, Text-to-Speech, Diffusion Model, Human-Computer Interaction},
+  html = {https://www.mdpi.com/2414-4088/10/5/55},
+  bibtex_show = {true},
+  google_scholar_id = {AXPGKjj_ei8C},
+  preview = {axyonov26_mti.png},
+  selected = {true}
+}
 
 @article{ryumina26_bdcc,
   abbr = {BDCC},
