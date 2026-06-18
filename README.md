@@ -347,7 +347,7 @@
 
 <p>
     <a href="https://neurips.cc/Conferences/2026">
-        <img src="http://img.shields.io/badge/NeurIPS-2026-212529.svg?&style=flat-square" alt="NeurIPS">
+        <img src="http://img.shields.io/badge/NeurIPS-2026-67458A.svg?&style=flat-square" alt="NeurIPS">
     </a>
     <a href="https://iclr.cc/Conferences/2026">
         <img src="http://img.shields.io/badge/ICLR-2026-212529.svg?&style=flat-square" alt="ICLR">
