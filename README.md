@@ -341,6 +341,9 @@
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/DC.pdf">
         <img src="https://img.shields.io/badge/Discover%20Computing-1-56659C?&style=flat-square" alt="Reviewing Badge" />
     </a>
+    <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/MS.pdf">
+        <img src="https://img.shields.io/badge/Multimedia%20Systems-1-A10232?&style=flat-square" alt="Reviewing Badge" />
+    </a>
 </p>
 
 #### Conference Reviewing
