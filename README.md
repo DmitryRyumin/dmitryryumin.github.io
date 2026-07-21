@@ -216,13 +216,13 @@
 
 <p>
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/ESWA.pdf">
-        <img src="https://img.shields.io/badge/Expert%20Systems%20with%20Applications-44-045877?&style=flat-square" alt="Reviewing Badge" />
+        <img src="https://img.shields.io/badge/Expert%20Systems%20with%20Applications-46-045877?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/EAAI.pdf">
         <img src="https://img.shields.io/badge/Engineering%20Applications%20of%20Artificial%20Intelligence-36-583676?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <a href="https://www.webofscience.com/wos/author/record/K-7989-2018">
-        <img src="https://img.shields.io/badge/IEEE%20Access-25-03ADEF?&style=flat-square" alt="Reviewing Badge" />
+        <img src="https://img.shields.io/badge/IEEE%20Access-26-03ADEF?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/KNOSYS.pdf">
         <img src="https://img.shields.io/badge/Knowledge--Based%20Systems-19-EFE30E?&style=flat-square" alt="Reviewing Badge" />
