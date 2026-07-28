@@ -329,6 +329,9 @@
     <a href="https://www.webofscience.com/wos/author/record/K-7989-2018">
         <img src="https://img.shields.io/badge/IEEE%20Transactions%20on%20Multimedia-1-DEC5AB?&style=flat-square" alt="Reviewing Badge" />
     </a>
+    <a href="https://www.webofscience.com/wos/author/record/K-7989-2018">
+        <img src="https://img.shields.io/badge/IEEE%20Journal%20of%20Biomedical%20and%20Health%20Informatics-1-AB49AB?&style=flat-square" alt="Reviewing Badge" />
+    </a>
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/CHBR.pdf">
         <img src="https://img.shields.io/badge/Computers%20in%20Human%20Behavior%20Reports-1-1B356C?&style=flat-square" alt="Reviewing Badge" />
     </a>
