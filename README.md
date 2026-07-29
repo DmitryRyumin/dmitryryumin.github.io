@@ -246,7 +246,7 @@
         <img src="https://img.shields.io/badge/Neurocomputing-12-EFE30E?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/ASOC.pdf">
-        <img src="https://img.shields.io/badge/Applied%20Soft%20Computing-9-1D3687?&style=flat-square" alt="Reviewing Badge" />
+        <img src="https://img.shields.io/badge/Applied%20Soft%20Computing-10-1D3687?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/INFFUS.pdf">
         <img src="https://img.shields.io/badge/Information%20Fusion-8-505050?&style=flat-square" alt="Reviewing Badge" />
