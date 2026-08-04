@@ -44,6 +44,7 @@
 
 #### Journals
 
+- ``Big Data and Cognitive Computing 2026`` [ExPAM: Explainable Personality Assessment Method Using Heterogeneous Linguistic Features and Off-the-Shelf LLMs](https://www.mdpi.com/2504-2289/10/8/254), Elena Ryumina, **Dmitry Ryumin**, Maxim Markitantov, and Alexey Karpov [![GitHub](https://img.shields.io/github/stars/SMIL-SPCRAS/ExPAM?style=flat)](https://github.com/SMIL-SPCRAS/ExPAM)
 - ``Multimodal Technologies and Interaction 2026`` [MAVAGEN: Multimodal Avatar Generation Framework for Personalized Human-Computer Interaction](https://www.mdpi.com/2414-4088/10/5/55), Alexandr Axyonov, Elena Ryumina, **Dmitry Ryumin**, and Alexey Karpov
 - ``Big Data and Cognitive Computing 2026`` [DEPART: Multi-Task Interpretable Depression and Parkinson's Disease Detection from In-the-Wild Video Data](https://www.mdpi.com/2504-2289/10/3/89), Elena Ryumina, Alexandr Axyonov, Mikhail Dolgushin, **Dmitry Ryumin**, and Alexey Karpov
 - ``Machine Learning and Knowledge Extraction 2026`` [SSL-MEPR: A Semi-Supervised Multi-Task Cross-Domain Learning Framework for Multimodal Emotion and Personality Recognition](https://www.mdpi.com/2504-4990/8/3/56), Elena Ryumina, Alexandr Axyonov, Darya Koryakovskaya, Timur Abdulkadirov, Angelina Egorova, Sergey Fedchin, Alexander Zaburdaev, and **Dmitry Ryumin**
