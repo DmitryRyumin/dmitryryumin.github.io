@@ -328,6 +328,9 @@
         <img src="https://img.shields.io/badge/IEEE%20Transactions%20on%20Intelligent%20Transportation%20Systems-1-BB0D2F?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <a href="https://www.webofscience.com/wos/author/record/K-7989-2018">
+        <img src="https://img.shields.io/badge/IEEE%20Transactions%20on%20Intelligent%20Vehicles-1-1B1615?&style=flat-square" alt="Reviewing Badge" />
+    </a>
+    <a href="https://www.webofscience.com/wos/author/record/K-7989-2018">
         <img src="https://img.shields.io/badge/IEEE%20Transactions%20on%20Multimedia-1-DEC5AB?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <a href="https://www.webofscience.com/wos/author/record/K-7989-2018">
