@@ -235,7 +235,7 @@
         <img src="https://img.shields.io/badge/Heliyon-14-027DBC?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/IMAVIS.pdf">
-        <img src="https://img.shields.io/badge/Image%20and%20Vision%20Computing-13-505050?&style=flat-square" alt="Reviewing Badge" />
+        <img src="https://img.shields.io/badge/Image%20and%20Vision%20Computing-14-505050?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/CAEE.pdf">
         <img src="https://img.shields.io/badge/Computers%20and%20Electrical%20Engineering-13-EFE30E?&style=flat-square" alt="Reviewing Badge" />
