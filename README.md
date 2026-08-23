@@ -44,6 +44,7 @@
 
 #### Journals
 
+- ``IEEE Access 2026`` [MM-PSYCHE: Multimodal Multitask Psychological Characteristic Estimation through Cross-Domain Semi-Supervised Learning](https://ieeexplore.ieee.org/abstract/document/11653238), Elena Ryumina, Alexandr Axyonov, Darya Koryakovskaya, Timur Abdulkadirov, Angelina Egorova, Sergey Fedchin, Alexander Zaburdaev, Iana Salova, Andrey Savchenko, and **Dmitry Ryumin** [![GitHub](https://img.shields.io/github/stars/LEYA-HSE/MM-PSYCHE?style=flat)](https://github.com/LEYA-HSE/MM-PSYCHE)
 - ``Big Data and Cognitive Computing 2026`` [ExPAM: Explainable Personality Assessment Method Using Heterogeneous Linguistic Features and Off-the-Shelf LLMs](https://www.mdpi.com/2504-2289/10/8/254), Elena Ryumina, **Dmitry Ryumin**, Maxim Markitantov, and Alexey Karpov [![GitHub](https://img.shields.io/github/stars/SMIL-SPCRAS/ExPAM?style=flat)](https://github.com/SMIL-SPCRAS/ExPAM)
 - ``Multimodal Technologies and Interaction 2026`` [MAVAGEN: Multimodal Avatar Generation Framework for Personalized Human-Computer Interaction](https://www.mdpi.com/2414-4088/10/5/55), Alexandr Axyonov, Elena Ryumina, **Dmitry Ryumin**, and Alexey Karpov
 - ``Big Data and Cognitive Computing 2026`` [DEPART: Multi-Task Interpretable Depression and Parkinson's Disease Detection from In-the-Wild Video Data](https://www.mdpi.com/2504-2289/10/3/89), Elena Ryumina, Alexandr Axyonov, Mikhail Dolgushin, **Dmitry Ryumin**, and Alexey Karpov
@@ -217,13 +218,13 @@
 
 <p>
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/ESWA.pdf">
-        <img src="https://img.shields.io/badge/Expert%20Systems%20with%20Applications-48-045877?&style=flat-square" alt="Reviewing Badge" />
+        <img src="https://img.shields.io/badge/Expert%20Systems%20with%20Applications-49-045877?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/EAAI.pdf">
         <img src="https://img.shields.io/badge/Engineering%20Applications%20of%20Artificial%20Intelligence-37-583676?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <a href="https://www.webofscience.com/wos/author/record/K-7989-2018">
-        <img src="https://img.shields.io/badge/IEEE%20Access-34-03ADEF?&style=flat-square" alt="Reviewing Badge" />
+        <img src="https://img.shields.io/badge/IEEE%20Access-37-03ADEF?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/KNOSYS.pdf">
         <img src="https://img.shields.io/badge/Knowledge--Based%20Systems-20-EFE30E?&style=flat-square" alt="Reviewing Badge" />
@@ -264,11 +265,11 @@
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/SR.pdf">
         <img src="https://img.shields.io/badge/Scientific%20Reports-6-29303C?&style=flat-square" alt="Reviewing Badge" />
     </a>
+    <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/YCSLA.pdf">
+        <img src="https://img.shields.io/badge/Computer%20Speech%20and%20Language-6-227CC0?&style=flat-square" alt="Reviewing Badge" />
+    </a>
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/IJCCE.pdf">
         <img src="https://img.shields.io/badge/International%20Journal%20of%20Cognitive%20Computing%20in%20Engineering-5-6BAFCC?&style=flat-square" alt="Reviewing Badge" />
-    </a>
-    <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/YCSLA.pdf">
-        <img src="https://img.shields.io/badge/Computer%20Speech%20and%20Language-5-227CC0?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/PATREC.pdf">
         <img src="https://img.shields.io/badge/Pattern%20Recognition%20Letters-4-000000?&style=flat-square" alt="Reviewing Badge" />
