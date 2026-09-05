@@ -259,11 +259,11 @@
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/ISWA.pdf">
         <img src="https://img.shields.io/badge/Intelligent%20Systems%20with%20Applications-7-1C346D?&style=flat-square" alt="Reviewing Badge" />
     </a>
+    <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/SR.pdf">
+        <img src="https://img.shields.io/badge/Scientific%20Reports-7-29303C?&style=flat-square" alt="Reviewing Badge" />
+    </a>
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/NN.pdf">
         <img src="https://img.shields.io/badge/Neural%20Networks-6-1E3887?&style=flat-square" alt="Reviewing Badge" />
-    </a>
-    <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/SR.pdf">
-        <img src="https://img.shields.io/badge/Scientific%20Reports-6-29303C?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/YCSLA.pdf">
         <img src="https://img.shields.io/badge/Computer%20Speech%20and%20Language-6-227CC0?&style=flat-square" alt="Reviewing Badge" />
