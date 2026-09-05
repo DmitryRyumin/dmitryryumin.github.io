@@ -220,11 +220,11 @@
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/ESWA.pdf">
         <img src="https://img.shields.io/badge/Expert%20Systems%20with%20Applications-49-045877?&style=flat-square" alt="Reviewing Badge" />
     </a>
+    <a href="https://www.webofscience.com/wos/author/record/K-7989-2018">
+        <img src="https://img.shields.io/badge/IEEE%20Access-42-03ADEF?&style=flat-square" alt="Reviewing Badge" />
+    </a>
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/EAAI.pdf">
         <img src="https://img.shields.io/badge/Engineering%20Applications%20of%20Artificial%20Intelligence-39-583676?&style=flat-square" alt="Reviewing Badge" />
-    </a>
-    <a href="https://www.webofscience.com/wos/author/record/K-7989-2018">
-        <img src="https://img.shields.io/badge/IEEE%20Access-38-03ADEF?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/KNOSYS.pdf">
         <img src="https://img.shields.io/badge/Knowledge--Based%20Systems-21-EFE30E?&style=flat-square" alt="Reviewing Badge" />
@@ -254,7 +254,7 @@
         <img src="https://img.shields.io/badge/Information%20Fusion-8-505050?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <a href="https://www.webofscience.com/wos/author/record/K-7989-2018">
-        <img src="https://img.shields.io/badge/IEEE%20Transactions%20on%20Circuits%20and%20Systems%20for%20Video%20Technology-7-14303E?&style=flat-square" alt="Reviewing Badge" />
+        <img src="https://img.shields.io/badge/IEEE%20Transactions%20on%20Circuits%20and%20Systems%20for%20Video%20Technology-8-14303E?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/ISWA.pdf">
         <img src="https://img.shields.io/badge/Intelligent%20Systems%20with%20Applications-7-1C346D?&style=flat-square" alt="Reviewing Badge" />
@@ -374,6 +374,9 @@
     </a>
     <a href="https://2026.emnlp.org/">
         <img src="http://img.shields.io/badge/EMNLP-2025%E2%80%9326-EE1D25.svg?&style=flat-square" alt="EMNLP">
+    </a>
+    <a href="https://2027.eacl.org/">
+        <img src="http://img.shields.io/badge/EACL-2027-EE1D25.svg?&style=flat-square" alt="EACL">
     </a>
     <a href="https://interspeech2026.org/en-AU">
         <img src="http://img.shields.io/badge/INTERSPEECH-2024%E2%80%9326-0C1C43.svg?&style=flat-square" alt="INTERSPEECH">
