@@ -221,7 +221,7 @@
         <img src="https://img.shields.io/badge/Expert%20Systems%20with%20Applications-50-045877?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <a href="https://www.webofscience.com/wos/author/record/K-7989-2018">
-        <img src="https://img.shields.io/badge/IEEE%20Access-42-03ADEF?&style=flat-square" alt="Reviewing Badge" />
+        <img src="https://img.shields.io/badge/IEEE%20Access-45-03ADEF?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/EAAI.pdf">
         <img src="https://img.shields.io/badge/Engineering%20Applications%20of%20Artificial%20Intelligence-39-583676?&style=flat-square" alt="Reviewing Badge" />
@@ -268,6 +268,9 @@
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/YCSLA.pdf">
         <img src="https://img.shields.io/badge/Computer%20Speech%20and%20Language-6-227CC0?&style=flat-square" alt="Reviewing Badge" />
     </a>
+    <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/RINENG.pdf">
+        <img src="https://img.shields.io/badge/Results%20in%20Engineering-5-B23A93?&style=flat-square" alt="Reviewing Badge" />
+    </a>
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/IJCCE.pdf">
         <img src="https://img.shields.io/badge/International%20Journal%20of%20Cognitive%20Computing%20in%20Engineering-5-6BAFCC?&style=flat-square" alt="Reviewing Badge" />
     </a>
@@ -276,9 +279,6 @@
     </a>
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/YCVIU.pdf">
         <img src="https://img.shields.io/badge/Computer%20Vision%20and%20Image%20Understanding-4-8A6734?&style=flat-square" alt="Reviewing Badge" />
-    </a>
-    <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/RINENG.pdf">
-        <img src="https://img.shields.io/badge/Results%20in%20Engineering-4-B23A93?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/AIR.pdf">
         <img src="https://img.shields.io/badge/Artificial%20Intelligence%20Review-3-062352?&style=flat-square" alt="Reviewing Badge" />
