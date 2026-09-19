@@ -286,6 +286,9 @@
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/IOT.pdf">
         <img src="https://img.shields.io/badge/Internet%20of%20Things-3-004E98?&style=flat-square" alt="Reviewing Badge" />
     </a>
+    <a href="https://www.webofscience.com/wos/author/record/K-7989-2018">
+        <img src="https://img.shields.io/badge/IEEE%20Transactions%20on%20Affective%20Computing-2-00B4E5?&style=flat-square" alt="Reviewing Badge" />
+    </a>
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/SOFTX.pdf">
         <img src="https://img.shields.io/badge/SoftwareX-2-53C0AF?&style=flat-square" alt="Reviewing Badge" />
     </a>
