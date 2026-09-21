@@ -322,6 +322,12 @@
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/IPM.pdf">
         <img src="https://img.shields.io/badge/Information%20Processing%20and%20Management-2-A6E1D7?&style=flat-square" alt="Reviewing Badge" />
     </a>
+    <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/MS.pdf">
+        <img src="https://img.shields.io/badge/Multimedia%20Systems-2-A10232?&style=flat-square" alt="Reviewing Badge" />
+    </a>
+    <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/DC.pdf">
+        <img src="https://img.shields.io/badge/Discover%20Computing-2-56659C?&style=flat-square" alt="Reviewing Badge" />
+    </a>
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/AQUE.pdf">
         <img src="https://img.shields.io/badge/Aquacultural%20Engineering-1-53C0AF?&style=flat-square" alt="Reviewing Badge" />
     </a>
@@ -348,12 +354,6 @@
     </a>
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/DAS.pdf">
         <img src="https://img.shields.io/badge/Discover%20Applied%20Sciences-1-012B58?&style=flat-square" alt="Reviewing Badge" />
-    </a>
-    <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/DC.pdf">
-        <img src="https://img.shields.io/badge/Discover%20Computing-1-56659C?&style=flat-square" alt="Reviewing Badge" />
-    </a>
-    <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/MS.pdf">
-        <img src="https://img.shields.io/badge/Multimedia%20Systems-1-A10232?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/IMAGE.pdf">
         <img src="https://img.shields.io/badge/Signal%20Processing%3A%20Image%20Communication-1-5DC7D4?&style=flat-square" alt="Reviewing Badge" />
