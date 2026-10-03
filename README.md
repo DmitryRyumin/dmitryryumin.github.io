@@ -218,7 +218,7 @@
 
 <p>
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/ESWA.pdf">
-        <img src="https://img.shields.io/badge/Expert%20Systems%20with%20Applications-52-045877?&style=flat-square" alt="Reviewing Badge" />
+        <img src="https://img.shields.io/badge/Expert%20Systems%20with%20Applications-53-045877?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <a href="https://www.webofscience.com/wos/author/record/K-7989-2018">
         <img src="https://img.shields.io/badge/IEEE%20Access-47-03ADEF?&style=flat-square" alt="Reviewing Badge" />
@@ -235,6 +235,9 @@
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/IMAVIS.pdf">
         <img src="https://img.shields.io/badge/Image%20and%20Vision%20Computing-15-505050?&style=flat-square" alt="Reviewing Badge" />
     </a>
+    <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/ASOC.pdf">
+        <img src="https://img.shields.io/badge/Applied%20Soft%20Computing-14-1D3687?&style=flat-square" alt="Reviewing Badge" />
+    </a>
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/HLY.pdf">
         <img src="https://img.shields.io/badge/Heliyon-14-027DBC?&style=flat-square" alt="Reviewing Badge" />
     </a>
@@ -243,9 +246,6 @@
     </a>
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/DIB.pdf">
         <img src="https://img.shields.io/badge/Data%20in%20Brief-13-E11E27?&style=flat-square" alt="Reviewing Badge" />
-    </a>
-    <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/ASOC.pdf">
-        <img src="https://img.shields.io/badge/Applied%20Soft%20Computing-13-1D3687?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/NEUCOM.pdf">
         <img src="https://img.shields.io/badge/Neurocomputing-12-EFE30E?&style=flat-square" alt="Reviewing Badge" />
@@ -370,7 +370,7 @@
         <img src="http://img.shields.io/badge/NeurIPS-2026-67458A.svg?&style=flat-square" alt="NeurIPS">
     </a>
     <a href="https://iclr.cc/Conferences/2026">
-        <img src="http://img.shields.io/badge/ICLR-2026-212529.svg?&style=flat-square" alt="ICLR">
+        <img src="http://img.shields.io/badge/ICLR-2026%E2%80%9326-212529.svg?&style=flat-square" alt="ICLR">
     </a>
     <a href="https://2026.aclweb.org">
         <img src="http://img.shields.io/badge/ACL-2026-EE1D25.svg?&style=flat-square" alt="ACL">
@@ -378,11 +378,11 @@
     <a href="https://2026.emnlp.org/">
         <img src="http://img.shields.io/badge/EMNLP-2025%E2%80%9326-EE1D25.svg?&style=flat-square" alt="EMNLP">
     </a>
-    <a href="https://2027.eacl.org/">
-        <img src="http://img.shields.io/badge/EACL-2027-EE1D25.svg?&style=flat-square" alt="EACL">
-    </a>
     <a href="https://interspeech2026.org/en-AU">
         <img src="http://img.shields.io/badge/INTERSPEECH-2024%E2%80%9326-0C1C43.svg?&style=flat-square" alt="INTERSPEECH">
+    </a>
+    <a href="https://2027.eacl.org/">
+        <img src="http://img.shields.io/badge/EACL-2027-EE1D25.svg?&style=flat-square" alt="EACL">
     </a>
     <a href="https://specom.feit.ukim.edu.mk">
         <img src="http://img.shields.io/badge/SPECOM-2023%E2%80%9326-FDD944.svg?&style=flat-square" alt="SPECOM">
