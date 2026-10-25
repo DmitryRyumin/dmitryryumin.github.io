@@ -11,12 +11,67 @@
 @string{CVPRW = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)}}
 @string{ICCVW = {Proceedings of the IEEE/CVF International Conference on Computer Vision
  Workshops (ICCVW)}}
+ @string{EMNLP = {Proceedings of the Association for Computational Linguistics (EMNLP Findings)}}
 
 ----
 2026
 ----
 
-- ``IEEE Access 2026`` [MM-PSYCHE: Multimodal Multitask Psychological Characteristic Estimation through Cross-Domain Semi-Supervised Learning](https://ieeexplore.ieee.org/abstract/document/11653238), Elena Ryumina, Alexandr Axyonov, Darya Koryakovskaya, Timur Abdulkadirov, Angelina Egorova, Sergey Fedchin, Alexander Zaburdaev, Iana Salova, Andrey Savchenko, and **Dmitry Ryumin** [![GitHub](https://img.shields.io/github/stars/LEYA-HSE/MM-PSYCHE?style=flat)](https://github.com/LEYA-HSE/MM-PSYCHE)
+@INPROCEEDINGS{ryumina26_emnlp,
+  abbr = {EMNLP},
+  author = {Elena Ryumina and Alexandr Axyonov and Dmitry Ryumin},
+  title = {{TACME: Task-Aware Cross-Modal Experts for Disjoint-Corpus Multimodal Behavioral Understanding}},
+  booktitle = EMNLP,
+  year = {2026},
+  pages = {20210-20234},
+  url = {https://aclanthology.org/2026.findings-emnlp.957},
+  abstract = {Multimodal behavioral analysis is typically studied using separate task-specific corpora. Practical applications, however, would benefit from unified models that can support several behavioral predictions despite fragmented supervision. We study this problem as disjoint-corpus multimodal multi-task learning across emotion recognition on CMU-MOSEI, apparent Big Five personality assessment on ChaLearn FIv2, and ambivalence recognition on BAH. We propose Task-Aware Cross-Modal Experts (TACME), a multimodal fusion model with a shared bank of directed cross-modal Transformer experts and task-specific expert gates. Each expert models one ordered modality interaction, while task-specific gates select different expert mixtures for different behavioral tasks. We further adapt feature- and prediction-level flow-matching regularization to this disjoint-corpus behavioral setting and propose a Progress-Aware Gradient Balancing (PAGB) multi-task learning strategy for heterogeneous task optimization. Across three independent corpora and six task-specific metrics, TACME with PAGB and feature- and prediction-level flow-matching regularization achieves the best average rank of 1.00 among the compared multimodal fusion models. Although single-task TACME is stronger on the source-corpus metrics, the multi-task TACME model improves zero-shot unweighted average recall (UAR) on the unseen MELD test set from 28.9% to 35.9%, demonstrating improved generalization to unseen data.},
+  html = {https://github.com/LEYA-HSE/TACME},
+  pdf={https://aclanthology.org/2026.findings-emnlp.957.pdf},
+  bibtex_show = {false},
+  preview = {ryumina26_emnlp.png},
+  dimensions = {true},
+  selected = {true}
+}
+
+@article{Abdulkadirov2026PULSE,
+  abbr = {ESWA},
+  author = {Timur Abdulkadirov and Elena Ryumina and Dmitry Ryumin and Alexey Karpov},
+  title = {{PULSE: Psychological Characteristics Unified Learning via Speech-based Estimation}},
+  journal = ESWA,
+  pages = {134789},
+  year = {2026},
+  doi = {10.1016/j.eswa.2026.134789},
+  url = {https://www.sciencedirect.com/science/article/pii/S0957417426036936},
+  abstract = {Assessing human psychological characteristics from speech requires models that can jointly capture affective states, expressive behavior, and relatively stable personality traits. However, most existing speech-based frameworks address isolated tasks and use separate task-specific models. This leads to model proliferation and complicates inference in real-world intelligent systems. Unified models are also difficult to develop because few speech corpora contain annotations for several psychological characteristics at the same time. To address these challenges, we propose the Psychological Characteristics Unified Learning via Speech-based Estimation (PULSE), a unified multi-task framework for emotion recognition, personality trait assessment, and ambivalence recognition from speech. PULSE combines a pre-trained speech feature extractor, a shared temporal audio encoder, and task-specific prediction heads. We also introduce the Task-Recovery Adaptive Constraint Enforcement (TRACE), which monitors task-specific validation dynamics and activates the recovery when a degradation is detected. PULSE is developed on four heterogeneous English and Russian speech corpora and zero-shot evaluated on two additional emotion-recognition corpora. In the single-task setting, it achieves competitive task-specific performance. Although separate single-task models generally provide stronger absolute results, PULSE supports all considered tasks within one shared model. The PULSE configuration with a Mamba-based temporal encoder and TRACE achieves the lowest mean rank among the evaluated multi-task configurations while requiring a less training time than the evaluated gradient- and bi-level strategies. Correlation analysis further reveals shared affective and paralinguistic patterns, supporting unified speech-based modeling of psychological characteristics.},
+  keywords = {Speech-based Analysis, Multi-Task Learning, Emotion Recognition, Personality Trait Assessment, Ambivalence Recognition, Shared Audio Encoder, Mamba},
+  html = {https://www.sciencedirect.com/science/article/pii/S0957417426036936},
+  bibtex_show = {true},
+  google_scholar_id = {eq2jaN3J8jMC},
+  preview = {Abdulkadirov2026PULSE.png},
+  dimensions = {true},
+  selected = {true}
+}
+
+@article{egorova26_bdcc,
+  abbr = {BDCC},
+  author = {Angelina Egorova and Timur Abdulkadirov and Ekaterina Ryabova and Yulia Morozova and Alexandr Axyonov and Dmitry Ryumin},
+  title = {{A Unified Perspective on Multimodal Emotion Recognition, Personality Trait Assessment, and Ambivalence/Hesitancy Recognition: Corpora, Methods, Evaluation, and Open Challenges}},
+  volume = {10},
+  pages = {1--66},
+  journal = BDCC,
+  year = {2026},
+  issn = {2504-2289},
+  doi = {10.3390/bdcc10100358 },
+  url = {https://www.mdpi.com/2504-2289/10/10/358},
+  abstract = {Multimodal analysis of human behavior has advanced rapidly, yet emotion recognition (ER), personality trait assessment (PTA), and ambivalence/hesitancy recognition (AHR) are usually reviewed separately. This review jointly examines these related but distinct tasks through a comparative analysis of corpora, computational methods, evaluation protocols, and ethical limitations. Structured searches in Scopus and Web of Science were followed by multi-stage screening and multi-reviewer assessment. The final methodological sample comprised 56 unique studies published between 1 January 2023 and 1 August 2026. One study addressed both ER and PTA, resulting in 57 task-specific entries. The reviewed methods include cross-modal interaction, temporal and contextual modeling, graph-based reasoning, reliability-aware fusion, learning under limited supervision, and semantic enrichment with large language models. The reviewed ER studies address contextual modeling, robustness-related objectives, and open-vocabulary prediction. PTA studies focus on structured behavioral modeling, temporal aggregation, target-aware assessment, and generalization-related strategies. AHR remains less explored and is concentrated on a narrow benchmark landscape with distinct frame- and video-level protocols. A post-inclusion quality and reproducibility assessment showed explicit repeated-run uncertainty reporting in only 10 of 56 studies. Explicit cross-corpus or external validation was reported in only 3 of 56 studies. These findings indicate that many methodological trends remain supported primarily by within-benchmark evidence. The synthesis identifies shared multimodal processing principles while preserving differences in target stability, annotation sources, temporal granularity, and evaluation. Key priorities include cross-corpus generalization, uncertainty, interpretability, cultural validity, privacy, and human oversight.},
+  keywords = {Affective Computing, Emotion Recognition, Personality Trait Assessment, Ambivalence/Hesitancy Recognition, Multimodal Learning, Multimodal Corpora, Cross-Modal Interaction, Cross-Corpus Generalization, Large Language Models, Interpretability},
+  html = {https://www.mdpi.com/2504-2289/10/10/358},
+  bibtex_show = {true},
+  google_scholar_id = {5awf1xo2G04C},
+  preview = {egorova26_bdcc.png},
+  selected = {true}
+}
 
 @article{ryumina26_ieee_access,
   abbr = {IEEE Access},

@@ -53,3 +53,15 @@
 "koryakovskaya":
   - firstname: ["Darya", "D.", "Koryakovskaya"]
     url: https://www.scopus.com/authid/detail.uri?authorId=60214238600
+
+"egorova":
+  - firstname: ["Angelina", "A.", "Egorova"]
+    url: https://www.scopus.com/authid/detail.uri?authorId=60546930500
+
+"zaburdaev":
+  - firstname: ["Alexander", "A.", "Zaburdaev"]
+    url: https://www.scopus.com/authid/detail.uri?authorId=60162781600
+
+"savchenko":
+  - firstname: ["Andrey", "A.", "Savchenko"]
+    url: https://scholar.google.com/citations?user=1feIO4YAAAAJ

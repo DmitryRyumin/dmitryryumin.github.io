@@ -44,6 +44,8 @@
 
 #### Journals
 
+- ``Expert Systems with Applications 2026`` [PULSE: Psychological Characteristics Unified Learning via Speech-based Estimation](https://www.sciencedirect.com/science/article/pii/S0957417426036936), Timur Abdulkadirov, Elena Ryumina, **Dmitry Ryumin**, and Alexey Karpov
+- ``Big Data and Cognitive Computing 2026`` [A Unified Perspective on Multimodal Emotion Recognition, Personality Trait Assessment, and Ambivalence/Hesitancy Recognition: Corpora, Methods, Evaluation, and Open Challenges](https://www.mdpi.com/2504-2289/10/10/358), Angelina Egorova, Timur Abdulkadirov, Ekaterina Ryabova, Yulia Morozova, Alexandr Axyonov, and **Dmitry Ryumin**
 - ``IEEE Access 2026`` [MM-PSYCHE: Multimodal Multitask Psychological Characteristic Estimation through Cross-Domain Semi-Supervised Learning](https://ieeexplore.ieee.org/abstract/document/11653238), Elena Ryumina, Alexandr Axyonov, Darya Koryakovskaya, Timur Abdulkadirov, Angelina Egorova, Sergey Fedchin, Alexander Zaburdaev, Iana Salova, Andrey Savchenko, and **Dmitry Ryumin** [![GitHub](https://img.shields.io/github/stars/LEYA-HSE/MM-PSYCHE?style=flat)](https://github.com/LEYA-HSE/MM-PSYCHE)
 - ``Big Data and Cognitive Computing 2026`` [ExPAM: Explainable Personality Assessment Method Using Heterogeneous Linguistic Features and Off-the-Shelf LLMs](https://www.mdpi.com/2504-2289/10/8/254), Elena Ryumina, **Dmitry Ryumin**, Maxim Markitantov, and Alexey Karpov [![GitHub](https://img.shields.io/github/stars/SMIL-SPCRAS/ExPAM?style=flat)](https://github.com/SMIL-SPCRAS/ExPAM)
 - ``Multimodal Technologies and Interaction 2026`` [MAVAGEN: Multimodal Avatar Generation Framework for Personalized Human-Computer Interaction](https://www.mdpi.com/2414-4088/10/5/55), Alexandr Axyonov, Elena Ryumina, **Dmitry Ryumin**, and Alexey Karpov
@@ -59,6 +61,7 @@
 
 #### Conferences
 
+- ``EMNLP 2026`` [TACME: Task-Aware Cross-Modal Experts for Disjoint-Corpus Multimodal Behavioral Understanding](https://aclanthology.org/2026.findings-emnlp.957/), Elena Ryumina, Alexandr Axyonov, and **Dmitry Ryumin** [![GitHub](https://img.shields.io/github/stars/LEYA-HSE/TACME?style=flat)](https://github.com/LEYA-HSE/TACME)
 - ``CVPRW 2026`` [Ensemble-based Prototype-Augmented Multimodal Fusion for Ambivalence/Hesitancy Recognition](https://openaccess.thecvf.com/content/CVPR2026W/ABAW/html/Ryumina_Ensemble-based_Prototype-Augmented_Multimodal_Fusion_for_AmbivalenceHesitancy_Recognition_CVPRW_2026_paper.html), Elena Ryumina, Alexandr Axyonov, Dmitry Sysoev, Timur Abdulkadirov, Kirill Almetov, Yulia Morozova, and **Dmitry Ryumin** [![GitHub](https://img.shields.io/github/stars/LEYA-HSE/ABAW10-BAH?style=flat)](https://github.com/LEYA-HSE/ABAW10-BAH)
 - ``CVPRW 2026`` [From Faces to Behavior Analysis: Adaptive Multimodal Fusion for Valence-Arousal Estimation in-the-Wild](https://openaccess.thecvf.com/content/CVPR2026W/ABAW/html/Ryumina_From_Faces_to_Behavior_Analysis_Adaptive_Multimodal_Fusion_for_Valence-Arousal_CVPRW_2026_paper.html), Elena Ryumina, Maxim Markitantov, Alexandr Axyonov, **Dmitry Ryumin**, Mikhail Dolgushin, Denis Dresvyanskiy, and Alexey Karpov [![GitHub](https://img.shields.io/github/stars/SMIL-SPCRAS/CVPRW-26?style=flat)](https://github.com/SMIL-SPCRAS/CVPRW-26)
 - ``ICCVW 2025`` [Zero-Shot Multimodal Compound Expression Recognition Approach using Off-the-Shelf Large Visual-Language Models](https://openaccess.thecvf.com/content/ICCV2025W/ABAW/html/Ryumina_Zero-Shot_Multimodal_Compound_Expression_Recognition_Approach_using_Off-the-Shelf_Large_Visual-Language_ICCVW_2025_paper.html), Elena Ryumina, Maxim Markitantov, Alexandr Axyonov, **Dmitry Ryumin**, Mikhail Dolgushin, and Alexey Karpov [![GitHub](https://img.shields.io/github/stars/SMIL-SPCRAS/ICCVW_25?style=flat)](https://github.com/SMIL-SPCRAS/ICCVW_25)
@@ -93,6 +96,7 @@
         <td colspan="1" align="center"><i>2023</i></td>
         <td colspan="1" align="center"><i>2024</i></td>
         <td colspan="1" align="center"><i>2025</i></td>
+        <td colspan="1" align="center"><i>2026</i></td>
     </tr>
     <tr>
         <td colspan="4" align="center"><i>Computer Vision (CV)</i></td>
@@ -101,29 +105,34 @@
         <td>CVPR</td>
         <td colspan="2" align="center"><a href="https://github.com/DmitryRyumin/CVPR-2023-24-Papers" target="_blank"><img src="https://img.shields.io/github/stars/DmitryRyumin/CVPR-2023-24-Papers?style=flat" alt="" /></a></td>
         <td align="center"><img src="https://img.shields.io/badge/June-white?logo=github&labelColor=b31b1b" alt="" /></td>
+        <td align="center"><img src="https://img.shields.io/badge/June-white?logo=github&labelColor=b31b1b" alt="" /></td>
     </tr>
     <tr>
         <td>ICCV</td>
         <td align="center"><a href="https://github.com/DmitryRyumin/ICCV-2023-Papers" target="_blank"><img src="https://img.shields.io/github/stars/DmitryRyumin/ICCV-2023-Papers?style=flat" alt="" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/done.svg" width="20" alt="" /></a></td>
         <td align="center"><img src="https://img.shields.io/badge/Not%20Scheduled-CC5540" alt=""/></td>
         <td align="center"><a href="https://github.com/DmitryRyumin/ICCV-2023-25-Papers" target="_blank"><img src="https://img.shields.io/github/stars/DmitryRyumin/ICCV-2023-25-Papers?style=flat" alt="" /></a></td>
+        <td align="center"><img src="https://img.shields.io/badge/Not%20Scheduled-CC5540" alt=""/></td>
     </tr>
     <tr>
         <td>ECCV</td>
         <td align="center"><img src="https://img.shields.io/badge/Not%20Scheduled-CC5540" alt=""/></td>
         <td align="center"><img src="https://img.shields.io/badge/October-white?logo=github&labelColor=b31b1b" alt="" /></td>
         <td align="center"><img src="https://img.shields.io/badge/Not%20Scheduled-CC5540" alt=""/></td>
+        <td align="center"><img src="https://img.shields.io/badge/September-white?logo=github&labelColor=b31b1b" alt="" /></td>
     </tr>
     <tr>
         <td>WACV</td>
         <td align="center">:heavy_minus_sign:</td>
         <td align="center"><a href="https://github.com/DmitryRyumin/WACV-2024-Papers" target="_blank"><img src="https://img.shields.io/github/stars/DmitryRyumin/WACV-2024-Papers?style=flat" alt="" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/done.svg" width="20" alt="" /></a></td>
         <td align="center"><img src="https://img.shields.io/badge/March-white?logo=github&labelColor=b31b1b" alt="" /></td>
+        <td align="center"><img src="https://img.shields.io/badge/March-white?logo=github&labelColor=b31b1b" alt="" /></td>
     </tr>
     <tr>
         <td>FG</td>
         <td align="center">:heavy_minus_sign:</td>
         <td align="center"><a href="https://github.com/DmitryRyumin/FG-2024-Papers" target="_blank"><img src="https://img.shields.io/github/stars/DmitryRyumin/FG-2024-Papers?style=flat" alt="" /></a></td>
+        <td align="center"><img src="https://img.shields.io/badge/May-white?logo=github&labelColor=b31b1b" alt="" /></td>
         <td align="center"><img src="https://img.shields.io/badge/May-white?logo=github&labelColor=b31b1b" alt="" /></td>
     </tr>
     <tr>
@@ -133,16 +142,19 @@
         <td>ICASSP</td>
         <td colspan="2" align="center"><a href="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers" target="_blank"><img src="https://img.shields.io/github/stars/DmitryRyumin/ICASSP-2023-24-Papers?style=flat" alt="" /></a></td>
         <td align="center"><img src="https://img.shields.io/badge/April-white?logo=github&labelColor=b31b1b" alt="" /></td>
+        <td align="center"><img src="https://img.shields.io/badge/May-white?logo=github&labelColor=b31b1b" alt="" /></td>
     </tr>
     <tr>
         <td>INTERSPEECH</td>
         <td align="center"><a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-Papers" target="_blank"><img src="https://img.shields.io/github/stars/DmitryRyumin/INTERSPEECH-2023-Papers?style=flat" alt="" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/done.svg" width="20" alt="" /></a></td>
         <td align="center"><img src="https://img.shields.io/badge/September-white?logo=github&labelColor=b31b1b" alt="" /></td>
         <td align="center"><img src="https://img.shields.io/badge/August-white?logo=github&labelColor=b31b1b" alt="" /></td>
+        <td align="center"><img src="https://img.shields.io/badge/September-white?logo=github&labelColor=b31b1b" alt="" /></td>
     </tr>
     <tr>
         <td>ISMIR</td>
         <td align="center"><a href="https://github.com/yamathcy/ISMIR-2023-Papers" target="_blank"><img src="https://img.shields.io/github/stars/yamathcy/ISMIR-2023-Papers?style=flat" alt="" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/done.svg" width="20" alt="" /></a></td>
+        <td align="center">:heavy_minus_sign:</td>
         <td align="center">:heavy_minus_sign:</td>
         <td align="center">:heavy_minus_sign:</td>
     </tr>
@@ -154,6 +166,7 @@
         <td align="center"><a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers" target="_blank"><img src="https://img.shields.io/github/stars/DmitryRyumin/EMNLP-2023-Papers?style=flat" alt="" /></a></td>
         <td align="center"><img src="https://img.shields.io/badge/December-white?logo=github&labelColor=b31b1b" alt="" /></td>
         <td align="center"><img src="https://img.shields.io/badge/November-white?logo=github&labelColor=b31b1b" alt="" /></td>
+        <td align="center"><img src="https://img.shields.io/badge/October-white?logo=github&labelColor=b31b1b" alt="" /></td>
     </tr>
     <tr>
         <td colspan="4" align="center"><i>Machine Learning (ML)</i></td>
@@ -163,11 +176,13 @@
         <td align="center">:heavy_minus_sign:</td>
         <td align="center"><a href="https://github.com/DmitryRyumin/AAAI-2024-Papers" target="_blank"><img src="https://img.shields.io/github/stars/DmitryRyumin/AAAI-2024-Papers?style=flat" alt="" /></a></td>
         <td align="center"><img src="https://img.shields.io/badge/March-white?logo=github&labelColor=b31b1b" alt="" /></td>
+        <td align="center"><img src="https://img.shields.io/badge/January-white?logo=github&labelColor=b31b1b" alt="" /></td>
     </tr>
     <tr>
         <td>ICLR</td>
         <td align="center">:heavy_minus_sign:</td>
         <td align="center"><img src="https://img.shields.io/badge/May-white?logo=github&labelColor=b31b1b" alt="" /></td>
+        <td align="center"><img src="https://img.shields.io/badge/April-white?logo=github&labelColor=b31b1b" alt="" /></td>
         <td align="center"><img src="https://img.shields.io/badge/April-white?logo=github&labelColor=b31b1b" alt="" /></td>
     </tr>
     <tr>
@@ -175,10 +190,12 @@
         <td align="center">:heavy_minus_sign:</td>
         <td align="center"><img src="https://img.shields.io/badge/July-white?logo=github&labelColor=b31b1b" alt="" /></td>
         <td align="center"><a href="https://github.com/DmitryRyumin/ICML-2025-Papers" target="_blank"><img src="https://img.shields.io/github/stars/DmitryRyumin/ICML-2025-Papers?style=flat" alt="" /></a></td>
+        <td align="center"><img src="https://img.shields.io/badge/July-white?logo=github&labelColor=b31b1b" alt="" /></td>
     </tr>
     <tr>
         <td>NeurIPS</td>
         <td align="center">:heavy_minus_sign:</td>
+        <td align="center"><img src="https://img.shields.io/badge/December-white?logo=github&labelColor=b31b1b" alt="" /></td>
         <td align="center"><img src="https://img.shields.io/badge/December-white?logo=github&labelColor=b31b1b" alt="" /></td>
         <td align="center"><img src="https://img.shields.io/badge/December-white?logo=github&labelColor=b31b1b" alt="" /></td>
     </tr>
@@ -218,37 +235,37 @@
 
 <p>
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/ESWA.pdf">
-        <img src="https://img.shields.io/badge/Expert%20Systems%20with%20Applications-53-045877?&style=flat-square" alt="Reviewing Badge" />
+        <img src="https://img.shields.io/badge/Expert%20Systems%20with%20Applications-54-045877?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <a href="https://www.webofscience.com/wos/author/record/K-7989-2018">
-        <img src="https://img.shields.io/badge/IEEE%20Access-47-03ADEF?&style=flat-square" alt="Reviewing Badge" />
+        <img src="https://img.shields.io/badge/IEEE%20Access-49-03ADEF?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/EAAI.pdf">
         <img src="https://img.shields.io/badge/Engineering%20Applications%20of%20Artificial%20Intelligence-40-583676?&style=flat-square" alt="Reviewing Badge" />
     </a>
+    <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/PR.pdf">
+        <img src="https://img.shields.io/badge/Pattern%20Recognition-22-E87324?&style=flat-square" alt="Reviewing Badge" />
+    </a>
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/KNOSYS.pdf">
         <img src="https://img.shields.io/badge/Knowledge--Based%20Systems-21-EFE30E?&style=flat-square" alt="Reviewing Badge" />
     </a>
-    <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/PR.pdf">
-        <img src="https://img.shields.io/badge/Pattern%20Recognition-21-E87324?&style=flat-square" alt="Reviewing Badge" />
+    <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/ASOC.pdf">
+        <img src="https://img.shields.io/badge/Applied%20Soft%20Computing-16-1D3687?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/IMAVIS.pdf">
         <img src="https://img.shields.io/badge/Image%20and%20Vision%20Computing-15-505050?&style=flat-square" alt="Reviewing Badge" />
     </a>
-    <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/ASOC.pdf">
-        <img src="https://img.shields.io/badge/Applied%20Soft%20Computing-14-1D3687?&style=flat-square" alt="Reviewing Badge" />
-    </a>
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/HLY.pdf">
         <img src="https://img.shields.io/badge/Heliyon-14-027DBC?&style=flat-square" alt="Reviewing Badge" />
+    </a>
+    <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/NEUCOM.pdf">
+        <img src="https://img.shields.io/badge/Neurocomputing-13-EFE30E?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/CAEE.pdf">
         <img src="https://img.shields.io/badge/Computers%20and%20Electrical%20Engineering-13-EFE30E?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/DIB.pdf">
         <img src="https://img.shields.io/badge/Data%20in%20Brief-13-E11E27?&style=flat-square" alt="Reviewing Badge" />
-    </a>
-    <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/NEUCOM.pdf">
-        <img src="https://img.shields.io/badge/Neurocomputing-12-EFE30E?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/INFFUS.pdf">
         <img src="https://img.shields.io/badge/Information%20Fusion-8-505050?&style=flat-square" alt="Reviewing Badge" />
