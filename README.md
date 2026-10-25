@@ -298,7 +298,7 @@
         <img src="https://img.shields.io/badge/Computer%20Vision%20and%20Image%20Understanding-4-8A6734?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/AIR.pdf">
-        <img src="https://img.shields.io/badge/Artificial%20Intelligence%20Review-3-062352?&style=flat-square" alt="Reviewing Badge" />
+        <img src="https://img.shields.io/badge/Artificial%20Intelligence%20Review-4-062352?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/IOT.pdf">
         <img src="https://img.shields.io/badge/Internet%20of%20Things-3-004E98?&style=flat-square" alt="Reviewing Badge" />
