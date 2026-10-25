@@ -386,11 +386,11 @@
 #### Conference Reviewing
 
 <p>
+    <a href="https://iclr.cc/Conferences/2027">
+        <img src="http://img.shields.io/badge/ICLR-2026%E2%80%9327-212529.svg?&style=flat-square" alt="ICLR">
+    </a>
     <a href="https://neurips.cc/Conferences/2026">
         <img src="http://img.shields.io/badge/NeurIPS-2026-67458A.svg?&style=flat-square" alt="NeurIPS">
-    </a>
-    <a href="https://iclr.cc/Conferences/2026">
-        <img src="http://img.shields.io/badge/ICLR-2026%E2%80%9326-212529.svg?&style=flat-square" alt="ICLR">
     </a>
     <a href="https://2026.aclweb.org">
         <img src="http://img.shields.io/badge/ACL-2026-EE1D25.svg?&style=flat-square" alt="ACL">
