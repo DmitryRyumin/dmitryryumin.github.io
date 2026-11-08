@@ -234,14 +234,14 @@
 #### Journal Reviewing
 
 <p>
+    <a href="https://www.webofscience.com/wos/author/record/K-7989-2018">
+        <img src="https://img.shields.io/badge/IEEE%20Access-57-03ADEF?&style=flat-square" alt="Reviewing Badge" />
+    </a>
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/ESWA.pdf">
         <img src="https://img.shields.io/badge/Expert%20Systems%20with%20Applications-54-045877?&style=flat-square" alt="Reviewing Badge" />
     </a>
-    <a href="https://www.webofscience.com/wos/author/record/K-7989-2018">
-        <img src="https://img.shields.io/badge/IEEE%20Access-49-03ADEF?&style=flat-square" alt="Reviewing Badge" />
-    </a>
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/EAAI.pdf">
-        <img src="https://img.shields.io/badge/Engineering%20Applications%20of%20Artificial%20Intelligence-40-583676?&style=flat-square" alt="Reviewing Badge" />
+        <img src="https://img.shields.io/badge/Engineering%20Applications%20of%20Artificial%20Intelligence-41-583676?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/PR.pdf">
         <img src="https://img.shields.io/badge/Pattern%20Recognition-22-E87324?&style=flat-square" alt="Reviewing Badge" />
